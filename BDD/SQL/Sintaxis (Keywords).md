@@ -5,9 +5,10 @@ SELECT empleados WHERE dat
 ```
 
 Las keywords de SQL son:
-- SELECT
-- INSERT
+- SELECT - Sirve para seleccionar tablas o bases de datos que hayan disponibles.
+- INSERT - Sirve 
 - UPDATE
 - DELETE
 - DROP
+
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/Sintaxis (Keywords).md",
+                "file": "BDD/SQL/Tipos de datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sintaxis (Keywords)"
+              "title": "Tipos de datos"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "519d5773673c1040",
@@ -196,11 +197,13 @@
   },
   "active": "7b2d07c61479b5c3",
   "lastOpenFiles": [
+    "BDD/SQL/Sintaxis (Keywords).md",
+    "BDD/SQL/Tipos de datos.md",
+    "BDD/SQL",
     "Sin título.base",
     "Sin título 1.base",
-    "BDD/Sintaxis (Keywords).md",
     "README.md",
-    "BDD/SQL.md",
+    "BDD/SQL/SQL.md",
     "BDD"
   ]
 }

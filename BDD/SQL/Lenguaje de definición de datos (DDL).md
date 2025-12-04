@@ -2,11 +2,11 @@
 
 ---
 ---
-El Lenguaje de definicion de datos, es el que se encarga de la modificacion de la estructurea de objetos de la base de datos. Incluye ordenes para modificar, borrar o definir las tablas en las que se almacenan los datos de la base de datos.
+El Lenguaje de definición de datos, es el que se encarga de la modificacion de la estructurea de objetos de la base de datos. Incluye ordenes para modificar, borrar o definir las tablas en las que se almacenan los datos de la base de datos.
 Exsten cuatro operaciones basicas: CREATE, ALTER, DROP y TRUNCATE.
 
 ## CREATE (Crear)
-Este comando permite crar objetos de datos, como nuevas bases de datos, tablas, vistas y [[procedimientos almacenados]].
+Este comando permite crear objetos de datos, como nuevas bases de datos, tablas, vistas y [[Procedimientos almacenados|procedimientos almacenados]].
 #### Ejemplo (Crear una tabla)
 
 ```SQL

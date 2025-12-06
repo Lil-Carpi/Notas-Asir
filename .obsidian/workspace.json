@@ -194,8 +194,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6baa04c1fda7d92f",
+  "active": "a21fd362c8ad7bcb",
   "lastOpenFiles": [
+    "Programación/HTML y CSS",
+    "Programación/JavaScript",
+    "Programación/PHP",
+    "Programación/Python",
+    "Servidores/M5",
+    "Servidores/Implantación de aplicaciones web",
+    "SOST",
+    "DIGI",
+    "Servidores",
+    "Programación",
     "BDD/SQL/SQL.md",
     "BDD/SQL/Procedimientos almacenados.md",
     "BDD/SQL/Lenguaje de Manupulación de Datos (DML).md",
@@ -205,10 +215,6 @@
     "BDD/SQL/Sintaxis (Keywords).md",
     "BDD/SQL/Lenguaje de definición de datos (DDL).md",
     "README.md",
-    "BDD/SQL/Diario",
-    "BDD/SQL",
-    "Sin título.base",
-    "Sin título 1.base",
-    "BDD"
+    "BDD/SQL/Diario"
   ]
 }

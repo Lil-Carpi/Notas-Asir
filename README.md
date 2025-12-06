@@ -1,6 +1,6 @@
 # Bienvenido a mis notas
 ---
-Bienvenido a mi gestor de versiones Gitea. Aquí podrás ver mis trabajos en general, así como mis apuntes. Si necesitas consultar información sobre cualquier tema que aquí se encuentre, siéntete libre de hacerlo.
+Soy Carpi, y bienvenido a mi gestor de versiones Gitea. Aquí podrás ver mis trabajos en general, así como mis apuntes. Si necesitas consultar información sobre cualquier tema que aquí se encuentre, siéntete libre de hacerlo.
 
 ---
 # Temarios

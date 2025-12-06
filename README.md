@@ -54,7 +54,7 @@ Lo demás lo sabes. Usas Linux.
 ### Android:
 Instala Obsidian desde la Play Store [aquí](https://play.google.com/store/apps/details?id=md.obsidian).
 
-Como en Android no se pueden clonar repos, te los dejo [aquí](). 
+Como en Android no se pueden clonar repos, te los dejo [aquí](https://lilcarpi.xyz/download/Notas-Asir.zip). 
 
 Sí, pasa más de un día sin update, manda un mensaje: carpi@mailcarpi.xyz.
 

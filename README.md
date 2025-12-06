@@ -13,9 +13,11 @@ Lo que trato:
 	- HTML y CSS (No son lenguajes de programación, pero lo pongo aquí igualmente)
 - Servidores:
 	- Implantación de aplicaciones Web
-	- M5 (no tengo idea de que nombre ponerle)
+	- M5 (no tengo idea de qué nombre ponerle)
 - Digitalización aplicada en sectores productivos
 - Sostenibilidad aplicada a los sistemas de producción
+
+- Y cosas personales, como documentación técnica que hago yo mismo.
 
 No cubriré exactamente todo, pero intentaré que sea lo más entendible posible.
 

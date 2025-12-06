@@ -8,7 +8,9 @@
     "pt": "pt-PT",
     "ca": "ca-ES"
   },
-  "dictionary": [],
+  "dictionary": [
+    "Git"
+  ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,

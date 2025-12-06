@@ -1,39 +1,41 @@
 # Bienvenido a mis notas
 ---
-Soy Carpi, y bienvenido a mi gestor de versiones Gitea. Aquí podrás ver mis trabajos en general, así como mis apuntes. Si necesitas consultar información sobre cualquier tema que aquí se encuentre, siéntete libre de hacerlo.
+Soy Carpi, este es mi espacio Gitea. Aquí cuelgo notas, trabajos, proyectos y cualquier cosa que me sirva para estudiar o trabajar. Si algo te es útil, adelante. Bienvenido eres (referencia).
 
 ---
 # Temarios
-Los temarios que voy a tratar aquí son los siguientes:
-
+Lo que trato:
 - Base de Datos
-- Programación, de los cuales:
+- Programación:
 	- Python
 	- PHP
 	- JavaScript
-	- HTML y CSS (aunque estos son lenguajes de marcación, no de programación)
-- Servidores, de los cuales:
+	- HTML y CSS (No son lenguajes de programación, pero lo pongo aquí igualmente)
+- Servidores:
 	- Implantación de aplicaciones Web
 	- M5 (no tengo idea de que nombre ponerle)
 - Digitalización aplicada en sectores productivos
 - Sostenibilidad aplicada a los sistemas de producción
 
-Es posible que, no trate todos los detalles de todas las materias, pero haré lo mejor posible por cumplir con todos por igual. 
+No cubriré exactamente todo, pero intentaré que sea lo más entendible posible.
 
 ---
-# Cómo leer mis notas correctamente
-Mientras naveguéis por mis notas, os daréis cuenta de que algunos enlaces probablemente no funcionen bien o estén rotos. Esto se debe a que estoy utilizando [Obsidian](https://obsidian.md), una aplicación para escribir notas en Markdown.
+# Sobre cómo van las notas
+Uso [Obsidian](https://obsidian.md), así que algunos enlaces pueden no funcionar fuera de la app.
 
-Si os queréis descargar mi repositorio, podéis hacer lo siguiente:
+Si queréis mi repo:
+
+---
 ### Windows:
-Si estáis en Windows (una lástima), debéis descargaros [Git](https://git-scm.com). Una vez descargado, abrís Git y ponéis:
+Si estáis en Windows (una lástima), instala [Git](https://git-scm.com). Cuando termines de *next, next, next*, ejecuta:
 
 ```CMD
 git clone https://repos.lilcarpi.xyz/carpi/Notas-Asir.git
 ```
 
+---
 ### Linux:
-En Linux, dependiendo de la distribución, debéis instalaros Git con el siguiente comando:
+Instala Git según tu distro:
 
 ```SHELL
 # Ubuntu - Debian
@@ -46,4 +48,23 @@ sudo dnf install git
 sudo pacman -Sy git
 ```
 
-Cuando os descarguéis mis notas, simplemente abrid el directorio con Obsidian para que os funcione mejor.
+Lo demás lo sabes. Usas Linux.
+
+---
+### Android:
+Instala Obsidian desde la Play Store [aquí](https://play.google.com/store/apps/details?id=md.obsidian).
+
+Como en Android no se pueden clonar repos, te los dejo [aquí](). 
+
+Sí, pasa más de un día sin update, manda un mensaje: carpi@mailcarpi.xyz.
+
+
+---
+### iOS (replantea tus decisiones de vida, por favor):
+Instala Obsidian por la App Store [aquí](https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442).
+
+iOS tampoco deja clonar repos... Ni hacer nada en general, usa la copia en Android.
+
+---
+Abrís Obsidian y buscáis donde hayáis descargado el repo y listo.
+(No me lo confundas con el juego. O sí, pero luego no digas que no furula).

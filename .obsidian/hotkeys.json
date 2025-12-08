@@ -1,0 +1,10 @@
+{
+  "oz-calendar:oz-calendar-open-leaf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "AltGraph"
+    }
+  ]
+}

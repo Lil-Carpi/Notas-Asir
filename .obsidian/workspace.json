@@ -6,15 +6,16 @@
       {
         "id": "08e268613800bbe0",
         "type": "tabs",
+        "dimension": 80.6803594351733,
         "children": [
           {
-            "id": "6baa04c1fda7d92f",
+            "id": "ad0b933ded8362ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado/Funciones puras.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -22,6 +23,46 @@
             }
           }
         ]
+      },
+      {
+        "id": "41b562380c81afd0",
+        "type": "split",
+        "dimension": 19.319640564826702,
+        "children": [
+          {
+            "id": "1b722584d85633f7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6baa04c1fda7d92f",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Vista gráfica"
+                }
+              }
+            ]
+          },
+          {
+            "id": "4183796d59841621",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f45c30c20b8e816d",
+                "type": "leaf",
+                "state": {
+                  "type": "oz-calendar",
+                  "state": {},
+                  "icon": "OZCAL_ICON",
+                  "title": "OZ Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -53,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Temario-BSA",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BDD/SQL.md",
+                "file": "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado/Funciones puras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,21 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de SQL"
-            }
-          },
-          {
-            "id": "a6b0ae9bd1ca2aa7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "BDD/SQL.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Enlaces salientes de SQL"
+              "title": "Enlaces entrantes de Funciones puras"
             }
           },
           {
@@ -156,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BDD/SQL.md",
+                "file": "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado/Funciones puras.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de SQL"
+              "title": "Esquema de Funciones puras"
             }
           },
           {
@@ -176,11 +203,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +221,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "ad0b933ded8362ff",
   "lastOpenFiles": [
     "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado/Funciones puras.md",
+    "Sin título.base",
+    "2025-12-08.md",
     "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
     "Documentación personal/Mecanica de Unix/Bash Scripting/Fundamentos de Bash.md",
     "README.md",
@@ -216,7 +245,6 @@
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Tipos de virus/Stuxnet.md",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Metodos/desktop.ini",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Trojan/Metodos/desktop.ini",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Spyware/Metodos/desktop.ini",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/XSS/Cross-Site Scripting (XSS).md",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Worm/Gusano.md",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Virus informatico.md",
@@ -231,8 +259,6 @@
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Keylogger/Keylogger.md",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Kerberoasting/Kerberoasting.md",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Exploit/Exploits.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/DoS/DoS.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/DDoS/DDoS.md",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/nessuslogo.png",

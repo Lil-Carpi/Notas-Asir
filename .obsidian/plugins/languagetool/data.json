@@ -9,7 +9,11 @@
     "ca": "ca-ES"
   },
   "dictionary": [
-    "Git"
+    "Git",
+    "bash",
+    "subshells",
+    "subshells",
+    "Bash"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado/Funciones puras.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -74,13 +74,11 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "519d5773673c1040",
@@ -196,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6baa04c1fda7d92f",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
     "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado/Funciones puras.md",
     "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",

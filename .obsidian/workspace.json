@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Mecánica Unix - Manejo de la shell"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.5
   },
   "right": {
     "id": "519d5773673c1040",
@@ -194,27 +194,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a21fd362c8ad7bcb",
+  "active": "6baa04c1fda7d92f",
   "lastOpenFiles": [
-    "Programación/HTML y CSS",
-    "Programación/JavaScript",
-    "Programación/PHP",
-    "Programación/Python",
-    "Servidores/M5",
-    "Servidores/Implantación de aplicaciones web",
-    "SOST",
-    "DIGI",
-    "Servidores",
-    "Programación",
-    "BDD/SQL/SQL.md",
-    "BDD/SQL/Procedimientos almacenados.md",
-    "BDD/SQL/Lenguaje de Manupulación de Datos (DML).md",
-    "BDD/SQL/Diario/Clase 4 de diciembre.md",
+    "Documentación personal/Lenguajes de programación absurdos",
     "BDD/SQL/Importación y exportación de base de datos.md",
-    "BDD/SQL/Tipos de datos.md",
-    "BDD/SQL/Sintaxis (Keywords).md",
+    "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
+    "Documentación personal/Mecanica de Unix/Bash Scripting/s.md",
+    "Documentación personal/Mecanica de Unix/Bash Scripting",
+    "Documentación personal/Mecanica de Unix",
+    "BDD/SQL/Diario/Clase 4 de diciembre.md",
+    "BDD/SQL/Lenguaje de Manupulación de Datos (DML).md",
     "BDD/SQL/Lenguaje de definición de datos (DDL).md",
     "README.md",
-    "BDD/SQL/Diario"
+    "Documentación personal/Seguridad-Informatica/Vista General 1.canvas",
+    "Documentación personal/Seguridad-Informatica/desktop.ini",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Worm/Metodos/desktop.ini",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Tipos de virus/desktop.ini",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Tipos de virus/Stuxnet.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Metodos/desktop.ini",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Trojan/Metodos/desktop.ini",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Spyware/Metodos/desktop.ini",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Sniffing/Metodos/desktop.ini",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/SQL inyection/Metodos/desktop.ini",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/XSS/Cross-Site Scripting (XSS).md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Worm/Gusano.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Virus informatico.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Trojan/Troyano (Caballo de Troya).md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Spyware/Spyware.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Sniffing/Sniffing.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/SQL inyection/Inyección SQL.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Ransomware/Ransomware.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Phishing/Phishing.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/MITM ATTACK/MITM ATTACK.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Logic Bomb/Bomba Lógica.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Keylogger/Keylogger.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Kerberoasting/Kerberoasting.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Exploit/Exploits.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/DoS/DoS.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/DDoS/DDoS.md",
+    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Brute Force/Ataque a fuerza bruta.md",
+    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
+    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",
+    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/nessuslogo.png",
+    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/metasploitlogo.png",
+    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/NMAPlogo.png",
+    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/hardware/usbkiller.jpg",
+    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/hardware/rubberducky.png",
+    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/hardware/pico_tpm_sniffer.webp",
+    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/hardware/omgcable.webp",
+    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/hardware/Flipper Zero.jpg"
   ]
 }

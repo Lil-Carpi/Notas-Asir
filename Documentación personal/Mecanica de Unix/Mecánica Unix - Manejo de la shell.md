@@ -6,24 +6,24 @@ En este apartado, me dedico a aprender todo lo que tiene que ver con la terminal
 ### 1. Bash Scripting Avanzado
 Aquí no se va a tratar solo de escribir scripts, sino de:
 - [[Funciones puras]]
-- Patrones de diseño en bash
-- Trampas (`traps`)
-- Señales
-- Expansión de parámetros
-- Arrays asociativos
-- Subshells
-- Procesos hijos y paralelismo (`&`, `wait`, `coproc`)
-- Seguridad en scripts (validación, sanitización, quoting correcto)
+- [[Patrones de diseño en Bash]]
+- [[Trampas (traps)]]
+- [[Señales]]
+- [[Expansión de parámetros]]
+- [[Arrays asociativos]]
+- [[Subshells]]
+- [[Procesos hijos y paralelismo]] (`&`, `wait`, `coproc`)
+- [[Seguridad en scripts]] (validación, sanitización, quoting correcto)
 *Y esto aporta:*
 	**Automatización de sistemas enteros y escritura de pipelines complejos.**
 
 ---
 ### 2. awk/sed/grep a nivel serio
-- Parsing avanzado de logs
-- Extracción de datos estructurados
-- Reescritura de texto
-- Creación de mini-lenguajes personalizados
-- Manipulación de CSV, JSON simplificado, logs de sistemas
+- [[Parsing avanzado de logs]]
+- [[Extracción de datos estructurados]]
+- [[Reescritura de texto]]
+- [[Creación de mini-lenguajes personalizados]]
+- [[Manipulación de CSV, JSON simplificado, logs de sistemas]]
 *Y esto aporta:*
 	Con awk, puedo literalmente escribir programas completos.
 	Podría hacer un analizador sintáctico, un intérprete simple o un procesador de logs en tiempo real.
@@ -66,6 +66,5 @@ Aquí no se va a tratar solo de escribir scripts, sino de:
 Aprender y profundizar aún más en lo que ya sé y conozco. Tengo pensado dedicarle aproximadamente entre 1 y 2 meses solo a esto.
 
 Me deja conocimiento como la dominación de la terminal de forma completa, entender Linux desde la raíz, automatización sin dependencia de lenguajes externos, analizado, procesado y transformación de datos masivos, creación de herramientas internas de consola, depuración de sistemas con logs y pipes, creación de interfaces CLI y la construcción de una infraestructura funcional con bash.
-
 
 Al final de todo, tengo pensado hacer algunos proyectos absurdos, como por ejemplo, un navegador hecho solo con Bash. Es complicado (y roza lo masoquista), pero divertido.

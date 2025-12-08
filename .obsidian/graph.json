@@ -15,10 +15,24 @@
       }
     },
     {
-      "query": "Bash Scripting Avanzado",
+      "query": "file:\"Mecánica Unix - Manejo de la shell\"",
       "color": {
         "a": 1,
-        "rgb": 11403519
+        "rgb": 16762711
+      }
+    },
+    {
+      "query": "section:(#Temario-BSA)",
+      "color": {
+        "a": 1,
+        "rgb": 8927487
+      }
+    },
+    {
+      "query": "section:(#Temario-ASG)",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2962962962962958,
+  "scale": 0.19753086419753052,
   "close": true
 }

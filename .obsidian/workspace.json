@@ -6,7 +6,6 @@
       {
         "id": "08e268613800bbe0",
         "type": "tabs",
-        "dimension": 80.6803594351733,
         "children": [
           {
             "id": "ad0b933ded8362ff",
@@ -14,55 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado/Funciones puras.md",
-                "mode": "preview",
+                "file": "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funciones puras"
+              "title": "Mecánica Unix - Manejo de la shell"
             }
           }
         ]
-      },
-      {
-        "id": "41b562380c81afd0",
-        "type": "split",
-        "dimension": 19.319640564826702,
-        "children": [
-          {
-            "id": "1b722584d85633f7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6baa04c1fda7d92f",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Vista gráfica"
-                }
-              }
-            ]
-          },
-          {
-            "id": "4183796d59841621",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f45c30c20b8e816d",
-                "type": "leaf",
-                "state": {
-                  "type": "oz-calendar",
-                  "state": {},
-                  "icon": "OZCAL_ICON",
-                  "title": "OZ Calendar"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -94,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado/Funciones puras.md",
+                "file": "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Funciones puras"
+              "title": "Enlaces entrantes de Mecánica Unix - Manejo de la shell"
             }
           },
           {
@@ -183,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado/Funciones puras.md",
+                "file": "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Funciones puras"
+              "title": "Esquema de Mecánica Unix - Manejo de la shell"
             }
           },
           {
@@ -207,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,17 +182,31 @@
   },
   "active": "ad0b933ded8362ff",
   "lastOpenFiles": [
-    "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado/Funciones puras.md",
+    "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
+    "Documentación personal/Mecanica de Unix/2. awk-sed-grep/Manipulación de CSV, JSON simplificado, logs de sistemas.md",
+    "Documentación personal/Mecanica de Unix/2. awk-sed-grep/Creación de mini-lenguajes personalizados.md",
+    "Documentación personal/Mecanica de Unix/2. awk-sed-grep/Reescritura de texto.md",
+    "Documentación personal/Mecanica de Unix/2. awk-sed-grep/Extracción de datos estructurados.md",
+    "Documentación personal/Mecanica de Unix/2. awk-sed-grep/Parsing avanzado de logs.md",
+    "Documentación personal/Mecanica de Unix/2. awk-sed-grep",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Patrones de diseño en Bash.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Seguridad en scripts.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Arrays asociativos.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Procesos hijos y paralelismo.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Subshells.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Expansión de parámetros.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Señales.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Trampas (traps).md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras.md",
     "Sin título.base",
     "2025-12-08.md",
-    "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
     "Documentación personal/Mecanica de Unix/Bash Scripting/Fundamentos de Bash.md",
     "README.md",
     "Documentación personal/Mecanica de Unix/Bash Scripting/Sin nombre",
     "Documentación personal/Lenguajes de programación absurdos",
     "BDD/SQL/Importación y exportación de base de datos.md",
     "Documentación personal/Mecanica de Unix/Bash Scripting/s.md",
-    "Documentación personal/Mecanica de Unix/Bash Scripting Avanzado",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado",
     "Documentación personal/Mecanica de Unix",
     "BDD/SQL/Diario/Clase 4 de diciembre.md",
     "BDD/SQL/Lenguaje de Manupulación de Datos (DML).md",
@@ -244,21 +217,8 @@
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Tipos de virus/desktop.ini",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Tipos de virus/Stuxnet.md",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Metodos/desktop.ini",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Trojan/Metodos/desktop.ini",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/XSS/Cross-Site Scripting (XSS).md",
     "Documentación personal/Seguridad-Informatica/Tipos de ataque/Worm/Gusano.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Virus/Virus informatico.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Trojan/Troyano (Caballo de Troya).md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Spyware/Spyware.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Sniffing/Sniffing.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/SQL inyection/Inyección SQL.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Ransomware/Ransomware.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Phishing/Phishing.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/MITM ATTACK/MITM ATTACK.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Logic Bomb/Bomba Lógica.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Keylogger/Keylogger.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Kerberoasting/Kerberoasting.md",
-    "Documentación personal/Seguridad-Informatica/Tipos de ataque/Exploit/Exploits.md",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/nessuslogo.png",

@@ -22,6 +22,10 @@ Lo que trato:
 No cubriré exactamente todo, pero intentaré que sea lo más entendible posible.
 
 ---
+# Novedades:
+- Añadida la carpeta de "Documentación personal". Por el momento solo hay cosas de Bash, así que no esperes de más.
+
+---
 # Sobre cómo van las notas
 Uso [Obsidian](https://obsidian.md), así que algunos enlaces pueden no funcionar fuera de la app.
 

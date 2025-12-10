@@ -1,3 +1,7 @@
+#SQL-ASIX - Structure Query Language
+Proveniente de [[SQL]]
+
+---
 SQL maneja varios tipos de datos. Estos tipos de datos se diferencian para la introduccion de datos en especifico, datos con cierta cantidad de letras o numeros, o un numero especifico de caracteres.
 
 Algunos de los tipos de datos basicos de SQL son:

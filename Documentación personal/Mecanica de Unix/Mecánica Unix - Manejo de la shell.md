@@ -1,8 +1,11 @@
-En este apartado, me dedico a aprender todo lo que tiene que ver con la terminal. Pondré obviamente apuntes sobre lo que ya sé y sobre lo que no. 
-
-# Lo que voy a apuntar va a ser:
+#Temario-BSA - Bash Scripting Avanzado
+Documento Padre
 
 ---
+En este apartado, me dedico a aprender todo lo que tiene que ver con la terminal. Pondré obviamente apuntes sobre lo que ya sé y sobre lo que no. 
+
+## Lo que voy a apuntar va a ser:
+
 ### 1. Bash Scripting Avanzado
 Aquí no se va a tratar solo de escribir scripts, sino de:
 - [[Funciones puras]]
@@ -62,6 +65,12 @@ Aquí no se va a tratar solo de escribir scripts, sino de:
 *Y esto aporta:*
 	Analisis de **Big Data** chapucero, pero cumpliré con la función.
 
+---
+
+### 6. Cosillas extras
+- [[Extra|Extras]], para apuntar cosas cuando se me olvidan o cosas que voy aprendiendo con el tiempo.
+
+---
 ### Cuál es el objetivo de esto:
 Aprender y profundizar aún más en lo que ya sé y conozco. Tengo pensado dedicarle aproximadamente entre 1 y 2 meses solo a esto.
 

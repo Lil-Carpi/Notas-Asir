@@ -1,3 +1,5 @@
+#SQL-ASIX - Structure Query Language
+Proveniente de [[SQL]]
 
 ---
 # Cosas explicadas:

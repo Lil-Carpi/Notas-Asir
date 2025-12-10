@@ -1,3 +1,5 @@
+#SQL-ASIX - Structure Query Language
+Proveniente de [[SQL]]
 
 ---
 # Importar bases de datos

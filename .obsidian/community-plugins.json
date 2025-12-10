@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "languagetool",
-  "oz-calendar"
+  "oz-calendar",
+  "better-export-pdf",
+  "automatic-table-of-contents"
 ]

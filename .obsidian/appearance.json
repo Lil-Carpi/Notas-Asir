@@ -1,5 +1,8 @@
 {
   "accentColor": "#9600ff",
   "theme": "system",
-  "cssTheme": "Adwaita"
+  "cssTheme": "Adwaita",
+  "enabledCssSnippets": [
+    "pgbrk"
+  ]
 }

@@ -1,0 +1,14 @@
+/*Breaker de paginas.*/
+/*Hace saltos de pagina despues de cada h1*/
+@media print {
+	h1{
+	 page-break-before: always;
+ 	}
+	h2, h3, h4, h5, h6 {
+	 page-break-after: avoid;
+	}
+	.internal-embed{
+	 page-break-after: avoid;
+	 page-break-before: avoid;
+	}
+}

@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -227,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 809.5
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {

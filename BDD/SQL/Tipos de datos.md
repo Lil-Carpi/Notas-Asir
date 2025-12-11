@@ -6,6 +6,7 @@ SQL maneja varios tipos de datos. Estos tipos de datos se diferencian para la in
 
 Algunos de los tipos de datos basicos de SQL son:
 
+---
 ## Numeros enteros:
 - **TINYINT(Tamaño)**: -128 a 127 normal. 0 a 255 sin signo. La cantidad maxima de digitos se puede especificar entre parentesis.
 - **SMALLINT(Tamaño)**: -32768 a 32767 normal. 0 a 65535 sin signo. La cantidad maxima de digitos se pueden especificar entre parentesis.

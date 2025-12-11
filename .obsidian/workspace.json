@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -220,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "5bb933ee810d2703",
   "lastOpenFiles": [
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Procesos hijos y paralelismo.md",

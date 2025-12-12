@@ -78,3 +78,46 @@ select opcion in Start Stop Exit; do
 	echo "Elegiste la opcion $opcion"
 done
 ```
+
+
+
+
+---
+## Contador de longitud
+```Shell
+validador() {
+	local passwd=$1
+	local long=${#passwd} # Para leer longitud de un dato, se usa ${#variable}
+	if [[ "$long" -gt 8 ]]; then
+		echo "PWD_GT_8"
+	else
+		echo "PWD_LT_8"
+	fi
+}
+```
+
+
+---
+### Verificación de mayúsculas, minúsculas, números y caracteres especiales
+
+Se utiliza el comparador de valores regex (`=~`) en conjunto con los valores regex:
+
+#### ¿Minúscula?
+```Shell
+[[ "Hola123" =~ [a-z] ]] # true
+```
+
+##### ¿Mayúscula?
+```Shell
+[[ "Hola123" =~ [A-Z] ]] # true
+```
+
+##### ¿Números?
+```Shell
+[[ "abc123def" =~ [0-9] ]] # true
+```
+
+###### ¿Caracteres especiales?
+```Shell
+[[ "asd1!213das" =~ [^a-zA-Z0-9] ]] # true
+```

@@ -72,4 +72,15 @@ Bibliografía Web:
 
 ---
 
-# Validador de contraseñas
+# 2. Validador de contraseñas
+Entrada: Una contraseña.
+Objetivo: Que detecte la longitud y cantidad de caracteres especiales y dará el diagnóstico `weak`, `mid` y `strong`.
+
+```Shell
+#!/bin/bash
+# Funciones Puras
+```
+
+Bibliografía Web:
+- [Conversión de mayúsculas a minúsculas](https://es.stackoverflow.com/questions/346567/cómo-convierto-un-texto-a-mayúsculas-o-minúsculas-en-bash-zsh-o-osx)
+- 

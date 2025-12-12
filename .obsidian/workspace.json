@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/SQL/Tipos de datos.md",
+                "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de datos"
+              "title": "Funciones puras"
+            }
+          },
+          {
+            "id": "d8e530e20700ccef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +89,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BDD/SQL/Tipos de datos.md",
+                "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Tipos de datos"
+              "title": "Enlaces salientes de Extra"
             }
           },
           {
@@ -193,7 +207,7 @@
       {
         "id": "7ac2f57f0d4937ed",
         "type": "tabs",
-        "dimension": 45.86864406779661,
+        "dimension": 45.868644067796616,
         "children": [
           {
             "id": "f3844ce27366e01c",
@@ -225,6 +239,18 @@
   },
   "active": "e615f9321ff830be",
   "lastOpenFiles": [
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/verificador-de-",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
+    "BDD/SQL/Tipos de datos.md",
+    "BDD/SQL/SQL.md",
+    "BDD/SQL/Sintaxis (Keywords).md",
+    "BDD/SQL/Procedimientos almacenados.md",
+    "BDD/SQL/Lenguaje de Manupulación de Datos (DML).md",
+    "BDD/SQL/Lenguaje de definición de datos (DDL).md",
+    "BDD/SQL/Importación y exportación de base de datos.md",
     "BDD/SQL/Diario/Clase 4 de diciembre.md",
     "Programación/JavaScript/LDM-JavaScript.md",
     "Programación/HTML y CSS/CSS/LDM - CSS.md",
@@ -232,34 +258,22 @@
     "Programación/HTML y CSS/CSS",
     "Programación/HTML y CSS/HTML/LDM - HTML.md",
     "Programación/PHP/M9-PHP.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Expansión de parámetros.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Arrays asociativos.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
     "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
     "Programación/Python/Python.md",
     "Servidores/M5/M5 - ASIX.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Patrones de diseño en Bash.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Procesos hijos y paralelismo.md",
     "conflict-files-obsidian-git.md",
-    "BDD/SQL/SQL.md",
     "Programación/PHP/PHP",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Trampas (traps).md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Señales.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Subshells.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Seguridad en scripts.md",
-    "README.md",
-    "BDD/SQL/Importación y exportación de base de datos.md",
-    "BDD/SQL/Lenguaje de Manupulación de Datos (DML).md",
     "Documentación personal/Mecanica de Unix/Sin nombre",
-    "BDD/SQL/Lenguaje de definición de datos (DDL).md",
     "Servidores/M5/Actividades",
     "Servidores/M5/Actividades/RA2",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/calculadora_modular.sh",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras",
-    "Documentación personal/Mecanica de Unix/2. awk-sed-grep",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",

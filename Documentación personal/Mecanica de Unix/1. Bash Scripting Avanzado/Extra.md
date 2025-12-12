@@ -33,9 +33,48 @@ if ! grep -q "hola" archivos.txt; then
 fi
 ```
 
+---
 
+## `case...in...esac`
+```Shell
+case $option in
+	start) echo "iniciando";;
+	stop) echo "Finalizando";;
+	*) echo "Opción no válida";;
+esac
+```
 
+---
 
+## `for, in, do, done` (Bucles)
+```Shell
+for i in 1 2 3; do
+	echo "numero $i"
+done
+``` 
 
+---
 
+## `while, until` (Bucles condicionales)
+```Shell
+while [[ "$x" -lt 5 ]]; do
+	echo $x
+	((x++))
+done
+```
 
+```Shell
+until [[ "$x" -eq 5 ]]; do
+	echo $x
+	((x++))
+done
+```
+
+---
+
+## `select` (Menú interactivo)
+```Shell
+select opcion in Start Stop Exit; do
+	echo "Elegiste la opcion $opcion"
+done
+```

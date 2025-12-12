@@ -69,3 +69,7 @@ Bibliografía Web:
 - [Manejo de errores en Bash Scripting](https://adictosalinux.com/manejo-errores-scripts-bash/)
 - [Comparator operators](https://www.tutorialkart.com/bash-shell-scripting/bash-comparison-operators/)
 - [Funciones Bash](https://itsfoss.com/es/funciones-bash/)
+
+---
+
+# Validador de contraseñas

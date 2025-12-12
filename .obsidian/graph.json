@@ -25,7 +25,7 @@
       "query": "tag:#Temario-BSA  ",
       "color": {
         "a": 1,
-        "rgb": 8927487
+        "rgb": 16737792
       }
     },
     {
@@ -47,6 +47,13 @@
       "color": {
         "a": 1,
         "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#M9-PHP",
+      "color": {
+        "a": 1,
+        "rgb": 10561762
       }
     }
   ],

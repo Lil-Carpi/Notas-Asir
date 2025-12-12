@@ -125,3 +125,4 @@ Tal vez pienses que es más trabajo, pero los beneficios son enormes:
 1. **La depuración es más sencilla**: Si algo, por alguna razón, falla, sabes que el error está *dentro* de ella o en los argumentos que recibió. No tienes que rastrear variables globales por todo el fichero.
 2. **Reutilización**: Puedes hacer *copy-paste* de una función pura en otro script y funcionará inmediatamente sin romper nada (en la gran mayoría de casos).
 3. **Seguridad**: Evita las colisiones de nombres de variables (el típico error donde dos bucles usan la variable `i` y uno rompe al otro).
+

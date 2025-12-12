@@ -5,27 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#SQL-ASIX",
+      "query": "tag:#SQL-ASIX  ",
       "color": {
         "a": 1,
-        "rgb": 16514816
+        "rgb": 16776960
       }
     },
     {
-      "query": "file:\"Mecánica Unix - Manejo de la shell\"",
+      "query": "tag:#M9-PHP  ",
       "color": {
         "a": 1,
-        "rgb": 16762711
+        "rgb": 7292927
       }
     },
     {
-      "query": "tag:#Temario-BSA  ",
+      "query": "tag:#Python  ",
       "color": {
         "a": 1,
-        "rgb": 16737792
+        "rgb": 255
       }
     },
     {
@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "file:\"README.md\"",
+      "query": "tag:#Temario-BSA  ",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -46,14 +46,35 @@
       "query": "tag:#M5-ASIX  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 16711705
       }
     },
     {
-      "query": "tag:#M9-PHP",
+      "query": "tag:#LDM-JavaScript  ",
       "color": {
         "a": 1,
-        "rgb": 10561762
+        "rgb": 16770667
+      }
+    },
+    {
+      "query": "tag:#LDM-HTML  ",
+      "color": {
+        "a": 1,
+        "rgb": 16741120
+      }
+    },
+    {
+      "query": "tag:#LDM-CSS  ",
+      "color": {
+        "a": 1,
+        "rgb": 137142
+      }
+    },
+    {
+      "query": "file:README.md",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
@@ -67,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2962962962962957,
+  "scale": 0.13213295022048824,
   "close": true
 }

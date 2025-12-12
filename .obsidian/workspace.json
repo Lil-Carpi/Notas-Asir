@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b58fb90f35f0b269",
+        "id": "a5a6f271f44c2f4d",
         "type": "tabs",
         "children": [
           {
-            "id": "5bb933ee810d2703",
+            "id": "8aa30e6ef686a71c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Programación/JavaScript/LDM-JavaScript.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "LDM-JavaScript"
             }
           }
         ]
@@ -87,6 +87,7 @@
       {
         "id": "ec141e7a66dc7ec8",
         "type": "tabs",
+        "dimension": 54.131355932203384,
         "children": [
           {
             "id": "5a14f2340b0f216e",
@@ -175,7 +176,7 @@
             }
           },
           {
-            "id": "ad0b933ded8362ff",
+            "id": "5bb933ee810d2703",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -190,6 +191,7 @@
       {
         "id": "7ac2f57f0d4937ed",
         "type": "tabs",
+        "dimension": 45.86864406779661,
         "children": [
           {
             "id": "f3844ce27366e01c",
@@ -219,23 +221,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bb933ee810d2703",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
-    "BDD/SQL/SQL.md",
-    "Programación/PHP/PHP/M9-PHP.md",
-    "Programación/PHP/PHP",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Arrays asociativos.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Expansión de parámetros.md",
+    "Programación/JavaScript/LDM-JavaScript.md",
+    "Programación/HTML y CSS/CSS/LDM - CSS.md",
+    "Programación/HTML y CSS/HTML",
+    "Programación/HTML y CSS/CSS",
+    "Programación/HTML y CSS/HTML/LDM - HTML.md",
+    "Programación/PHP/M9-PHP.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Expansión de parámetros.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Arrays asociativos.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
+    "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
+    "Programación/Python/Python.md",
+    "Servidores/M5/M5 - ASIX.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Patrones de diseño en Bash.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Procesos hijos y paralelismo.md",
+    "conflict-files-obsidian-git.md",
+    "BDD/SQL/SQL.md",
+    "Programación/PHP/PHP",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Trampas (traps).md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Señales.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Subshells.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Patrones de diseño en Bash.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Procesos hijos y paralelismo.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Seguridad en scripts.md",
     "README.md",
     "BDD/SQL/Importación y exportación de base de datos.md",
@@ -243,20 +252,12 @@
     "Documentación personal/Mecanica de Unix/Sin nombre",
     "BDD/SQL/Lenguaje de definición de datos (DDL).md",
     "BDD/SQL/Diario/Clase 4 de diciembre.md",
-    "BDD/SQL/Sintaxis (Keywords).md",
-    "BDD/SQL/Tipos de datos.md",
-    "BDD/SQL/Procedimientos almacenados.md",
-    "Documentación personal/Mecanica de Unix/2. awk-sed-grep/Parsing avanzado de logs.md",
-    "Servidores/M5/Actividades/RA2/M5RA2P1.md",
-    "Servidores/M5/M5 - ASIX.md",
     "Servidores/M5/Actividades",
     "Servidores/M5/Actividades/RA2",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/calculadora_modular.sh",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras",
     "Documentación personal/Mecanica de Unix/2. awk-sed-grep",
-    "Sin título.base",
-    "Documentación personal/Mecanica de Unix/Bash Scripting/Sin nombre",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",

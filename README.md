@@ -1,6 +1,6 @@
 # Bienvenido a mis notas
 ---
-Soy Carpi, este es mi espacio Gitea. Aquí cuelgo notas, trabajos, proyectos y cualquier cosa que me sirva para estudiar o trabajar. Si algo te es útil, adelante. Bienvenido eres (referencia).
+Soy Carpi, este es mi espacio Gitea. Aquí cuelgo notas, trabajos, proyectos y cualquier cosa que me sirva para estudiar o trabajar. Si algo te es útil, adelante. Bienvenido eres.
 
 ---
 # Temarios

@@ -14,10 +14,12 @@ Algunos de los tipos de datos basicos de SQL son:
 - **INT(Tamaño)**: -2147483648 a 2147483647 normal. 0 a 4294967295 sin signo. La cantidad maxima de digitos se pueden especificar entre parentesis.
 - **BIGINT(Tamaño)**: -9223372036854775808 a 9223372036854775807 normal. 0 a 18446744073709551615 sin signo. La cantidad maxima de digitos se pueden especificar entre parentesis.
 
+---
 ## Numeros en punto flotante
 - **FLOAT(tamaño, d)**: Un pequeño numero con un punto decimal flotante. La cantidad maxima de digitos puede especificar en el parametro de tamaño. El numero maximo de digitos a la derecha del punto decimal se especifica en el parametro d.
 - **DECIMAL(tamaño, d)**: Un DOBLE almacenado como una cadena, lo que permite un punto decimal fijo. La cantidad maxima de digitos se puede especificar en el parametro de tamaño. El numero maximo de digitos a la derecha del punto decimal se especifica en el parametro d.
 
+---
 ## Fechas y tiempos
 - **DATE ()**: Una fecha. Formato: AAAA-MM-DD. 
 - **DATETIME ()**: Una combinacion de fecha y hora. Formato: AAAA-MM-DD HH:MI:SS.
@@ -32,7 +34,7 @@ Algunos de los tipos de datos basicos de SQL son:
 > Para TIME, el rango admitido es de '-838:59:59' a '838:59:59'
 > Para YEAR, los valores permitidos van en 4 digitos: de 1901 a 2155. Valores permitidos en formato de dos digitos: 70 a 69, que representan los años de 1970 a 2069.
 
-
+---
 ## Cadena de caracteres:
 - **CHAR (Tamaño)**: Cadena de longitud fija (puede contener letras, numeros y caracteres especiales), El tamaño fijo se especifica entre parentesis. Puede almacenar hasta 255 caracteres.
 - **VARCHAR(Tamaño)**: Tiene una cadena de longitud variable (puede contener letras, numeros y caracteres especiales). El tamaño maximo se especifica entre parentesis. Puede almacenar hasta 255 caracteres.
@@ -47,10 +49,12 @@ Algunos de los tipos de datos basicos de SQL son:
 >[!bug]
 > Nota: Si, en VARCHAR, agregas un valor mas grande que 255, este se convertira en tipo TEXTO.
 
+---
 ## ENUM y SET
 - **Enum (x, y, z, etc.)**: Permite ingresar una lista de valores posibles. Puede enumerar hasta 65535 valores en una lista ENUM. Si se inserta un valor que no esta en la lista, se insertará un valor en blanco.
 - **Set**: Similar a Enum, excepto que SET puede contener hasta 64 elementos de una lista y puede almacenar mas de opcion
 
+---
 ## Binarios:
 - **bit** Entero que puede ser 0, 1 o NULL.
 

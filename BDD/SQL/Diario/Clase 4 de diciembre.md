@@ -21,7 +21,10 @@ ON DELETE RESTRICT;
 - `CASCADE`:
  ```SQL
  ALTER TABLE Pedidos
-ADD CONSTRAINT fk_pedido_cliente
+ADD CONSTRAINT fk_pedido_cliente Programación PHP
+Documento Padre
+
+---
 FOREIGN KEY (id_cliente) REFERENCES Clientes(id)
 ON DELETE CASCADE;
  ```

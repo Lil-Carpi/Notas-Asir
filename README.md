@@ -73,4 +73,3 @@ iOS tampoco deja clonar repos... Ni hacer nada en general, usa la copia en Andro
 
 ---
 Abrís Obsidian y buscáis donde hayáis descargado el repo y listo.
-(No me lo confundas con el juego. O sí, pero luego no digas que no furula).

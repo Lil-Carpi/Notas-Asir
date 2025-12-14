@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/SQL/Disparadores.md",
-                "mode": "source",
+                "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disparadores"
+              "title": "Ejercicios - Funciones puras"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Extra"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,10 +236,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "620cc3e7430b0ac1",
+  "active": "34eecf2b06cedd2e",
   "lastOpenFiles": [
-    "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh~",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/test",
     "BDD/SQL/Disparadores.md",
+    "README.md",
+    "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
     "BDD/SQL/Lenguaje de definición de datos (DDL).md",
     "BDD/SQL/Lenguaje de Manupulación de Datos (DML).md",
     "BDD/SQL/Procedimientos almacenados.md",
@@ -248,10 +252,8 @@
     "BDD/SQL/SQL.md",
     "BDD/SQL/Sintaxis (Keywords).md",
     "BDD/SQL/Importación y exportación de base de datos.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Arrays asociativos.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/verificador-de-",
     "BDD/SQL/Diario/Clase 4 de diciembre.md",
@@ -268,13 +270,9 @@
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Procesos hijos y paralelismo.md",
     "conflict-files-obsidian-git.md",
     "Programación/PHP/PHP",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Trampas (traps).md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Señales.md",
     "Documentación personal/Mecanica de Unix/Sin nombre",
     "Servidores/M5/Actividades",
     "Servidores/M5/Actividades/RA2",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/calculadora_modular.sh",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",

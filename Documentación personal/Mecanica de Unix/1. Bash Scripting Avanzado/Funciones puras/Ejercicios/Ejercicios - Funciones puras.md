@@ -158,4 +158,116 @@ resultado=$(validador "$a" )
 
 Bibliografía Web:
 - [Conversión de mayúsculas a minúsculas](https://es.stackoverflow.com/questions/346567/cómo-convierto-un-texto-a-mayúsculas-o-minúsculas-en-bash-zsh-o-osx)
-- 
+- [Using && and || in bash](https://kyleshevlin.com/using-and-and-or-in-bash-scripts/)
+- [Bash operators](https://www.w3schools.com/bash/bash_operators.php)
+
+
+# 3. Normalizador de nombres de archivos
+---
+Objetivo: Tener un nombre de archivo asqueroso y limpiarlo.
+##### Ejemplo de entradas:
+```Shell
+"   Hola   Mundo.txt"
+"Mi fichero (copia) (1).png"
+```
+
+- `normalizar_nombre` - Elimina espacios extra, pasa a minúsculas, reemplazo de espacios con `_`.
+
+# 4. Parser de configuración estilo .ini
+---
+Objetivo: Procesar una línea. No se toca ficheros en la función pura.
+##### Funciones puras:
+- `es_comentario`
+- `es_seccion`
+- `obtener_clave`
+- `obtener_valor`
+##### Parte impura:
+- Leer el archivo línea por línea
+- Imprimir errores o configuraciones
+
+Se entrena el patron: *la funcion pura opera en una linea, la impura itera por el fichero*.
+
+# 5. Mini motor de templates
+---
+Objetivo: Reemplazo de variables del estilo:
+```Shell
+Hola {{NOMBRE}}
+```
+##### Funcion pura
+- `renderizar_template "$template" "$nombre"`
+Debe sustituir `{{NOMBRE}}` por el valor que le pasas.
+##### Parte impura:
+- Leer `.template`
+- Guardar la salida en un fichero final.
+
+Es composicion pura de texto, sin tocar nada externo.
+
+# 6. Filtro de logs
+---
+Objetivo: Se procesa cada linea para extraer informacion util
+##### Funciones puras
+- `es_error`
+- `extraer_fecha`
+- `extraer_mensaje`
+- `formato_limpio`
+##### Parte impura
+- Leer fichero de log gigante
+- Guardar resultados filtrados
+
+Procesamiento funcional de toda la vida. Muy util.
+
+# 7. Comparador de versiones
+---
+Ejemplo:
+```Shell
+compare_versions "1.2.10" "1.3.1"
+```
+##### Salida pura:
+- `-1` si v1 < `v2`
+- `0` si iguales
+- `1` si `v1` > `v2`
+##### Parte impura
+- Nada mas que capturar valores y mostrar los resultados.
+
+Perfecto para practicar manejo de arrays y logica sin tocar sistema.
+
+# 8. Generador de checksums "puro"
+---
+No se calcula archivos, solo texto.
+##### Funciones puras
+- `checksum_simple "$texto"` - Ejemplo: suma ASCII mod 10000
+- `hash_basico "$texto"`
+##### Parte impura
+- Leer ficheros desde disco
+- Pasar su contenido a la parte pura
+
+Obliga a pensar que es pureza y que no.
+
+# 9. Conversor de fecha
+---
+Convierte formatos
+Entrada:
+```shell
+2025-12-10
+```
+Salida de funcion pura:
+```shell
+10/12/2025
+```
+##### Impuro
+Nada fuera de imprimir resultados
+
+Es un ejemplo simple para disciplina.
+
+
+# 10. Mini-linter para Bash
+---
+Suena más grande de lo que es.
+##### Funcion pura
+- `analizar_linea "$linea"` - Devuelve etiquetas como `"echo esta mal"`, `"mal identado"`, `"ok"`.
+###### Funcion impura
+- Leer archivo `.sh`
+- Contar errores
+- Mostrar resumen
+
+Mola detectar mierda en los scripts. Tambien fuerza a separar analisis puro de acciones impuras.

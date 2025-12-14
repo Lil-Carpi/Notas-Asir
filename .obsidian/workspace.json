@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,9 +238,9 @@
   },
   "active": "34eecf2b06cedd2e",
   "lastOpenFiles": [
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh~",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/test",
     "BDD/SQL/Disparadores.md",
     "README.md",

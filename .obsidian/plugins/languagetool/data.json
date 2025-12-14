@@ -20,5 +20,6 @@
   "remoteDictionary": [],
   "pickyMode": false,
   "longCheckNotification": true,
-  "staticLanguage": "es-ES"
+  "staticLanguage": "es-ES",
+  "disabledRules": "AGREEMENT_POSTPONED_ADJ"
 }

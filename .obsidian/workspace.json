@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/SQL/Lenguaje de definición de datos (DDL).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lenguaje de definición de datos (DDL)"
-            }
-          },
-          {
-            "id": "620cc3e7430b0ac1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
+                "file": "BDD/SQL/Notas para clase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extra"
+              "title": "Notas para clase"
+            }
+          },
+          {
+            "id": "e7ba4197370c55cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BDD/SQL/Tecnicismos/Tipos de datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipos de datos"
             }
           }
         ]
@@ -152,21 +152,6 @@
             }
           },
           {
-            "id": "b786a3cab1b9744b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de Funciones puras"
-            }
-          },
-          {
             "id": "e615f9321ff830be",
             "type": "leaf",
             "state": {
@@ -199,9 +184,24 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "25f1ae5d5a6a3979",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BDD/SQL/Notas para clase.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Notas para clase"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "7ac2f57f0d4937ed",
@@ -222,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 480.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,22 +236,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "34eecf2b06cedd2e",
   "lastOpenFiles": [
-    "BDD/SQL/Lenguaje de Manupulación de Datos (DML).md",
-    "BDD/SQL/Lenguaje de definición de datos (DDL).md",
-    "BDD/SQL/Disparadores.md",
-    "BDD/SQL/Importación y exportación de base de datos.md",
+    "BDD/SQL/Tecnicismos/Tipos de datos.md",
+    "BDD/SQL/Notas para clase.md",
+    "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
+    "BDD/SQL/SQL.md",
+    "BDD/SQL/Uso general",
+    "BDD/SQL/Tecnicismos/Disparadores.md",
+    "BDD/SQL/Tecnicismos",
+    "BDD/SQL/Tecnicismos/Lenguaje de definición de datos (DDL).md",
+    "BDD/SQL/Tecnicismos/Lenguaje de Manupulación de Datos (DML).md",
+    "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
+    "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
+    "README.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh~",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/test",
-    "README.md",
     "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
-    "BDD/SQL/Procedimientos almacenados.md",
-    "BDD/SQL/Tipos de datos.md",
-    "BDD/SQL/SQL.md",
-    "BDD/SQL/Sintaxis (Keywords).md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Arrays asociativos.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh",
@@ -271,8 +274,6 @@
     "conflict-files-obsidian-git.md",
     "Programación/PHP/PHP",
     "Documentación personal/Mecanica de Unix/Sin nombre",
-    "Servidores/M5/Actividades",
-    "Servidores/M5/Actividades/RA2",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",

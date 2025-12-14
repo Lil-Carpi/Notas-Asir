@@ -57,4 +57,3 @@ Algunos de los tipos de datos basicos de SQL son:
 ---
 ## Binarios:
 - **bit** Entero que puede ser 0, 1 o NULL.
-

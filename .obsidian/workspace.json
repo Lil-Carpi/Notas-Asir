@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
+                "file": "BDD/SQL/Lenguaje de definición de datos (DDL).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicios - Funciones puras"
+              "title": "Lenguaje de definición de datos (DDL)"
             }
           },
           {
@@ -236,22 +236,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34eecf2b06cedd2e",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
+    "BDD/SQL/Lenguaje de Manupulación de Datos (DML).md",
+    "BDD/SQL/Lenguaje de definición de datos (DDL).md",
+    "BDD/SQL/Disparadores.md",
+    "BDD/SQL/Importación y exportación de base de datos.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh~",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/test",
-    "BDD/SQL/Disparadores.md",
     "README.md",
     "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
-    "BDD/SQL/Lenguaje de definición de datos (DDL).md",
-    "BDD/SQL/Lenguaje de Manupulación de Datos (DML).md",
     "BDD/SQL/Procedimientos almacenados.md",
     "BDD/SQL/Tipos de datos.md",
     "BDD/SQL/SQL.md",
     "BDD/SQL/Sintaxis (Keywords).md",
-    "BDD/SQL/Importación y exportación de base de datos.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Arrays asociativos.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh",

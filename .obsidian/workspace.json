@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fad51cc483fae111",
+        "id": "70040d3480c4df8e",
         "type": "tabs",
         "children": [
           {
-            "id": "f680d743f846f5b9",
+            "id": "43ea8ee768c9bbae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/SQL/Apuntes generales de SQL.md",
+                "file": "Documentación personal/Proyectos/LilCMS/JS_Version/LilCMS.JS - Concepto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apuntes generales de SQL"
+              "title": "LilCMS.JS - Concepto"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.50260543823242,
+    "width": 252.5,
     "collapsed": true
   },
   "right": {
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras.md",
+                "file": "BDD/SQL/Apuntes generales de SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Funciones puras"
+              "title": "Enlaces entrantes de Apuntes generales de SQL"
             }
           },
           {
@@ -154,16 +154,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
+                "file": "BDD/SQL/Apuntes generales de SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Extra"
+              "title": "Enlaces salientes de Apuntes generales de SQL"
             }
           },
           {
-            "id": "5bb933ee810d2703",
+            "id": "f680d743f846f5b9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -173,18 +173,18 @@
             }
           },
           {
-            "id": "25f1ae5d5a6a3979",
+            "id": "3cca92a09a04b814",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "BDD/SQL/Apuntes generales de SQL.md",
+                "file": "Documentación personal/Proyectos/LilCMS/JS_Version/LilCMS.JS - Concepto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Apuntes generales de SQL"
+              "title": "Esquema de LilCMS.JS - Concepto"
             }
           }
         ],
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,10 +223,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f680d743f846f5b9",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "BDD/SQL/Tecnicismos/Tipos de datos.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version",
     "BDD/SQL/Apuntes generales de SQL.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/LilCMS.JS - Concepto.md",
+    "Documentación personal/Proyectos/LilCMS",
+    "Documentación personal/Proyectos",
+    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
+    "BDD/SQL/Tecnicismos/Tipos de datos.md",
     "Imagenes/SQL/Mezcla-cartesiana_(CROSS_JOIN).png",
     "Imagenes/SQL",
     "Imagenes",
@@ -240,7 +245,6 @@
     "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
     "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
     "README.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh~",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/test",
@@ -252,15 +256,12 @@
     "BDD/SQL/Diario/Clase 4 de diciembre.md",
     "Programación/JavaScript/LDM-JavaScript.md",
     "Programación/HTML y CSS/CSS/LDM - CSS.md",
-    "Programación/HTML y CSS/HTML",
-    "Programación/HTML y CSS/CSS",
     "Programación/HTML y CSS/HTML/LDM - HTML.md",
     "Programación/PHP/M9-PHP.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Expansión de parámetros.md",
     "Programación/Python/Python.md",
     "Servidores/M5/M5 - ASIX.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Patrones de diseño en Bash.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Procesos hijos y paralelismo.md",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",

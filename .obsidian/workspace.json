@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentación personal/Proyectos/LilCMS/JS_Version/LilCMS.JS - Concepto.md",
+                "file": "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas técnicas de versión.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LilCMS.JS - Concepto"
+              "title": "LilCMS.JS - v0.0.1 - Notas técnicas de versión"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "519d5773673c1040",
@@ -209,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 526.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,11 +222,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43ea8ee768c9bbae",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "BDD/SQL/Tecnicismos/Tipos de datos.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas de versión.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas técnicas de versión.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Conceptos/LilCMS.JS - Concepto.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Conceptos",
     "BDD/SQL/Apuntes generales de SQL.md",
-    "Documentación personal/Proyectos/LilCMS/JS_Version/LilCMS.JS - Concepto.md",
+    "BDD/SQL/Tecnicismos/Tipos de datos.md",
     "Documentación personal/Proyectos/LilCMS/JS_Version",
     "Documentación personal/Proyectos/LilCMS",
     "Documentación personal/Proyectos",
@@ -246,12 +250,9 @@
     "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
     "README.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh~",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/test",
     "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Arrays asociativos.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh",
     "BDD/SQL/Diario/Clase 4 de diciembre.md",
     "Programación/JavaScript/LDM-JavaScript.md",
     "Programación/HTML y CSS/CSS/LDM - CSS.md",
@@ -260,7 +261,6 @@
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Expansión de parámetros.md",
     "Programación/Python/Python.md",
     "Servidores/M5/M5 - ASIX.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Patrones de diseño en Bash.md",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",

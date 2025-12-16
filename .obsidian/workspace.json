@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,15 +223,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "43ea8ee768c9bbae",
   "lastOpenFiles": [
-    "Documentación personal/Proyectos/LilCMS/JS_Version",
+    "BDD/SQL/Tecnicismos/Tipos de datos.md",
     "BDD/SQL/Apuntes generales de SQL.md",
     "Documentación personal/Proyectos/LilCMS/JS_Version/LilCMS.JS - Concepto.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version",
     "Documentación personal/Proyectos/LilCMS",
     "Documentación personal/Proyectos",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
-    "BDD/SQL/Tecnicismos/Tipos de datos.md",
     "Imagenes/SQL/Mezcla-cartesiana_(CROSS_JOIN).png",
     "Imagenes/SQL",
     "Imagenes",
@@ -252,7 +252,6 @@
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Arrays asociativos.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/validador_de_contraseñas.sh",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/verificador-de-",
     "BDD/SQL/Diario/Clase 4 de diciembre.md",
     "Programación/JavaScript/LDM-JavaScript.md",
     "Programación/HTML y CSS/CSS/LDM - CSS.md",

@@ -1,4 +1,14 @@
-LilCMS.JS es, como su nombre indica, un CMS de creación propia basado en node.js y JavaScript. Es un sistema de renderizado en cliente (*Client-Side Rendering*).
+#LilCMS-JS 
+
+LilCMS.JS es, como su nombre indica, un CMS de creación propia basado en node.js y JavaScript. Es un sistema de renderizado en cliente (*Client-Side Rendering*). El repositorio original es este:
+### - [LilCMS - A personal-made CMS](https://github.com/Lil-Carpi/LilCMS)
+### TENED EN CUENTA: 
+- La versión original estará hecha en `PHP`, un lenguaje deprogramaciónn queaúnn no controlo.
+
+El repositorio de ESTE proyecto será
+### - [LilCMS.JS - A personal-made CMS, but on JavaScript](https://github.com/Lil-Carpi/LilCMS.js)
+
+
 
 La idea es simple: Crear un Gestor de contenidos simple, útil e intuitivo, en el cual se puedan definir diferentes elementos (web components) para cada cosa, como footer, content, headers, navbar, etc.
 

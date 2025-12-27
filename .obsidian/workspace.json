@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentación personal/Proyectos/LilCMS/JS_Version/Conceptos/LilCMS.JS - Concepto.md",
+                "file": "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas de versión.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LilCMS.JS - Concepto"
+              "title": "LilCMS.JS - v0.0.1 - Notas de versión"
             }
           }
         ]
@@ -222,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "43ea8ee768c9bbae",
   "lastOpenFiles": [
-    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas de versión.md",
     "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas técnicas de versión.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas de versión.md",
     "Documentación personal/Proyectos/LilCMS/JS_Version/Conceptos/LilCMS.JS - Concepto.md",
     "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1",
     "Documentación personal/Proyectos/LilCMS/JS_Version/Producción",

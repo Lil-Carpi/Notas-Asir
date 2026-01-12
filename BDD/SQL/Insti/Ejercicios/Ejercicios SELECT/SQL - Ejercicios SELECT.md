@@ -11,15 +11,24 @@ SELECT * FROM ciclista WHERE edad < 25;
 ```
 1. Mostra els equips amb ciclistes de més de 35 anys.
 ```SQL
-
+SELECT DISTINCT equipo_id WHERE edad > 35;
 ```
 1. Mostra les etapes que tinguin la sortida igual a l’arribada.
-2. Mostra ports de muntanya de l’etapa amb sortida a Lugo.
-3. Mostra ports de muntanya de les etapes de més de 150 Kms.
-4. Selecciona ciclistes amb edat entre 25 i 35, amb BETWEEN.
-5. Selecciona puertos que incloguin al nom la paraula “Puerto” o “Coll”.
-6. Selecciona equips amb un nom de dues paraules.
-7. Mostra la llista de directors d’equip si existeix alguna etapa de més de 200 Kms.
+```SQL
+SELECT * FROM etapa WHERE salida=llegada;
+```
+1. Mostra ports de muntanya de l’etapa amb sortida a Lugo.
+```SQL
+SELECT * FROM etapa WHERE salida="Lugo";
+```
+1. Mostra ports de muntanya de les etapes de més de 150 Kms.
+```SQL
+
+```
+1. Selecciona ciclistes amb edat entre 25 i 35, amb BETWEEN.
+2. Selecciona puertos que incloguin al nom la paraula “Puerto” o “Coll”.
+3. Selecciona equips amb un nom de dues paraules.
+4. Mostra la llista de directors d’equip si existeix alguna etapa de més de 200 Kms.
 
 # use empresa;
 10. Mostra codis de productes venuts per un preu superior a 5;

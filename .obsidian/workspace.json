@@ -35,7 +35,8 @@
               "title": "SQL - Ejercicios SELECT"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BDD/SQL/Apuntes generales de SQL.md",
+                "file": "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Apuntes generales de SQL"
+              "title": "Enlaces salientes de SQL - Ejercicios SELECT"
             }
           },
           {
@@ -191,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BDD/SQL/Apuntes generales de SQL.md",
+                "file": "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Apuntes generales de SQL"
+              "title": "Esquema de SQL - Ejercicios SELECT"
             }
           }
         ],
@@ -236,10 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43ea8ee768c9bbae",
+  "active": "7fca9d92152e7b64",
   "lastOpenFiles": [
-    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
     "BDD/SQL/Apuntes generales de SQL.md",
+    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
     "BDD/SQL/SQL.md",
     "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
     "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT",

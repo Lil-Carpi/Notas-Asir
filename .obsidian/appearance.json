@@ -4,5 +4,8 @@
   "cssTheme": "Adwaita",
   "enabledCssSnippets": [
     "pgbrk"
-  ]
+  ],
+  "interfaceFontFamily": "DepartureMono Nerd Font",
+  "textFontFamily": "DepartureMono Nerd Font",
+  "monospaceFontFamily": "DepartureMono Nerd Font"
 }

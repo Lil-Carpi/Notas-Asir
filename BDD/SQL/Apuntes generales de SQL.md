@@ -145,6 +145,58 @@ SELECT * FROM users WHERE email LIKE '%gmail%';
 > Nota: En este caso, lo único que busca va a ser el valor '`gmail`'. Todo lo que se encuentre alrededor de ese valor será ignorado. También podemos hacer búsquedas como '`fulano%`', que sirve cuando sabemos el nombre del usuario, pero no sabemos que apellido tiene. 
 > Las búsquedas con `%` al inicio, no usan índices.
 
+
+#### `DISTINCT`
+Sirve para filtrar los repetidos en caso de que se muestren varios valores iguales.
+
+##### Sin `DISTINCT`:
+```SQL
+SELECT equipo_id WHERE edad < 35;
+```
+- `output`
+```SQL
++-----------+
+| equipo_id |
++-----------+
+|        21 |
+|        21 |
+|        22 |
+|        22 |
+|        11 |
+|        18 |
+|        18 |
+|        18 |
+|        17 |
+|        16 |
+|         4 |
+|        20 |
+|         5 |
++-----------+
+```
+
+##### Con `DISTINCT`
+```SQL
+SELECT DISTINCT equipo_id WHERE edad < 35;
+```
+ - `output:`
+```SQL
++-----------+
+| equipo_id |
++-----------+
+|         4 |
+|         5 |
+|        11 |
+|        16 |
+|        17 |
+|        18 |
+|        20 |
+|        21 |
+|        22 |
++-----------+
+
+```
+
+
 #### `ORDER BY`
 Se pueden ordenar las consultas por orden ASCENDENTE (`ASC`) y DESCENDENTE (`DESC`):
 ```SQL

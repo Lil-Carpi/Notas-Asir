@@ -112,3 +112,6 @@ customElements.define('mi-content', MiContent);
 
 ```
 
+---
+![[LilCMS.JS - v0.0.1 - Notas de versión]]
+![[LilCMS.JS - v0.0.1 - Notas técnicas de versión]]

@@ -19,11 +19,12 @@ SELECT * FROM etapa WHERE salida=llegada;
 ```
 1. Mostra ports de muntanya de l’etapa amb sortida a Lugo.
 ```SQL
-SELECT * FROM etapa WHERE salida="Lugo";
+-- SELECT * FROM etapa WHERE salida="Lugo";
+SELECT p.* FROM puerto p JOIN etapa e ON p.etapa_num = e.num WHERE e.salida = "Lugo";
 ```
 1. Mostra ports de muntanya de les etapes de més de 150 Kms.
 ```SQL
-
+SELECT p.* FROM puerto p JOIN etapa e ON p.etapa_num = e.num WHERE e.kms > 150;
 ```
 1. Selecciona ciclistes amb edat entre 25 i 35, amb BETWEEN.
 2. Selecciona puertos que incloguin al nom la paraula “Puerto” o “Coll”.

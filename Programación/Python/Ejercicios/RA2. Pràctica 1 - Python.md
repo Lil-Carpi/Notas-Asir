@@ -1,5 +1,5 @@
 #Python Programación Python
-Proveniente de [[Python - Instituto]]
+Proveniente de [[Python]]
 
 ---
 RA2. Pràctica 1

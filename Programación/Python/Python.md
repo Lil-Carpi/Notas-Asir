@@ -4,5 +4,18 @@ Documento Padre
 ---
 
 ### Documento padre de Python.
+Python es un lenguaje de alto nivel muy versatil y potente, utilizado actualmente para la IA, analisis de datos y ciberseguridad.
 
-Documentos hijos:
+
+## Documentaciones (inglés):
+- [Documentación oficial de Python 3.14](https://docs.python.org/3.14/)
+- [Documentación oficial para principiantes](https://wiki.python.org/moin/BeginnersGuide)
+- [W3Schools - Python](https://www.w3schools.com/python/default.asp)
+
+
+## Documentos hijos:
+- [[Docstrings - Python]]
+- [[Tipos de notaciones - Python]]
+
+#### Ejercicios:
+- [[RA2. Pràctica 1 - Python]]

@@ -11,32 +11,32 @@ Source:
 ```SQL
 SELECT * FROM ciclista WHERE edad < 25;
 ```
-1. Mostra els equips amb ciclistes de més de 35 anys.
+2. Mostra els equips amb ciclistes de més de 35 anys.
 ```SQL
 SELECT DISTINCT equipo_id WHERE edad > 35;
 ```
-1. Mostra les etapes que tinguin la sortida igual a l’arribada.
+3. Mostra les etapes que tinguin la sortida igual a l’arribada.
 ```SQL
 SELECT * FROM etapa WHERE salida=llegada;
 ```
-1. Mostra ports de muntanya de l’etapa amb sortida a Lugo.
+4. Mostra ports de muntanya de l’etapa amb sortida a Lugo.
 ```SQL
 -- SELECT * FROM etapa WHERE salida="Lugo";
 SELECT p.* FROM puerto p JOIN etapa e ON p.etapa_num = e.num WHERE e.salida = "Lugo";
 ```
-1. Mostra ports de muntanya de les etapes de més de 150 Kms.
+5. Mostra ports de muntanya de les etapes de més de 150 Kms.
 ```SQL
 SELECT p.* FROM puerto p JOIN etapa e ON p.etapa_num = e.num WHERE e.kms > 150;
 ```
-1. Selecciona ciclistes amb edat entre 25 i 35, amb BETWEEN.
+6. Selecciona ciclistes amb edat entre 25 i 35, amb BETWEEN.
 ```sql
 SELECT * FROM ciclista WHERE edad BETWEEN 25 AND 35;
 ```
-1. Selecciona puertos que incloguin al nom la paraula “Puerto” o “Coll”.
+7. Selecciona puertos que incloguin al nom la paraula “Puerto” o “Coll”.
 ```SQL
 SELECT * FROM puerto WHERE nombre LIKE "%Puerto%" OR nombre LIKE "%Coll%";
 ```
-1. Selecciona equips amb un nom de dues paraules.
+8. Selecciona equips amb un nom de dues paraules.
 ```SQL
 SELECT * FROM equipo WHERE nombre LIKE '% %' AND nombre NOT LIKE '% % %';
 ```
@@ -49,9 +49,10 @@ WHERE
   (LENGTH(TRIM(REPLACE(REPLACE(nombre, '-', ' '), '|', ' ')))
    - LENGTH(REPLACE(TRIM(REPLACE(REPLACE(nombre, '-', ' '), '|', ' ')), ' ', '')))
   = 1;
+-- Esto no es mio
 ```
 
-1. Mostra la llista de directors d’equip si existeix alguna etapa de més de 200 Kms.
+9. Mostra la llista de directors d’equip si existeix alguna etapa de més de 200 Kms.
 ```SQL
 SELECT director FROM equipo WHERE EXISTS (SELECT 1 FROM etapa WHERE kms > 200);
 ```
@@ -62,11 +63,11 @@ SELECT director FROM equipo WHERE EXISTS (SELECT 1 FROM etapa WHERE kms > 200);
 ```Sql
 SELECT DISTINCT producto_id FROM detalle WHERE precio > 5;
 ```
-10. Mostra els noms dels productes anteriors.
+11. Mostra els noms dels productes anteriors.
 ```SQL
 SELECT nombre FROM producto WHERE id IN ( SELECT DISTINCT producto_id FROM detalle WHERE precio > 5);
 ```
-10. Mostra els noms de clients que tenen “pedidos” de tipo ‘a’.
+12. Mostra els noms de clients que tenen “pedidos” de tipo ‘a’.
 ```SQL
 SELECT DISTINCT c.nombre FROM cliente c JOIN pedido p ON c.id = p.cliente_id WHERE p.tipo = 'a';
 ```

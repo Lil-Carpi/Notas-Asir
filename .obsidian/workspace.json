@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
+                "file": "Programación/HTML y CSS/HTML/LDM - HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL - Ejercicios SELECT"
+              "title": "LDM - HTML"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BDD/SQL/Apuntes generales de SQL.md",
+                "file": "Programación/HTML y CSS/HTML/LDM - HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Apuntes generales de SQL"
+              "title": "Enlaces entrantes de LDM - HTML"
             }
           },
           {
@@ -153,22 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
+                "file": "Programación/HTML y CSS/HTML/LDM - HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de SQL - Ejercicios SELECT"
-            }
-          },
-          {
-            "id": "f680d743f846f5b9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Enlaces salientes de LDM - HTML"
             }
           },
           {
@@ -177,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
+                "file": "Programación/HTML y CSS/HTML/LDM - HTML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de SQL - Ejercicios SELECT"
+              "title": "Esquema de LDM - HTML"
             }
           },
           {
@@ -218,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,18 +224,19 @@
   },
   "active": "8edf5863838e411c",
   "lastOpenFiles": [
+    "Programación/HTML y CSS/CSS/LDM - CSS.md",
+    "Programación/Python/Ejercicios/RA2. Pràctica 1 - Python.md",
+    "Programación/Python/Python.md",
+    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
+    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
+    "Programación/Python/insti/Python - Instituto.md",
+    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
+    "BDD/SQL/Apuntes generales de SQL.md",
+    "BDD/SQL/SQL.md",
     "BDD/SQL/Diario/Clase 4 de diciembre.md",
     "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
     "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
     "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
-    "BDD/SQL/Apuntes generales de SQL.md",
-    "BDD/SQL/SQL.md",
-    "Programación/Python/insti/RA3/Docstrings/Docstrings - Python.md",
-    "Programación/Python/insti/RA3/Docstrings/Tipos de notaciones - Python.md",
-    "Programación/Python/insti/RA3/Ejercicios/RA2. Pràctica 1.md",
-    "Programación/Python/Python.md",
-    "Programación/Python/insti/Python - Instituto.md",
-    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
     "BDD/SQL/Tecnicismos/Tipos de datos.md",
     "BDD/SQL/Tecnicismos/Lenguaje de definición de datos (DDL).md",
     "BDD/SQL/Tecnicismos/Lenguaje de Manupulación de Datos (DML).md",
@@ -257,12 +248,12 @@
     "Reglas de negocio.md",
     "Programación/PHP/Insti",
     "Programación/Python/insti/RA3/Docstrings/Sin nombre",
-    "Programación/Python/insti/RA3/Docstrings",
+    "Programación/Python/Comentarios y documentación",
     "Programación/Python/insti/RA3",
     "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT",
     "BDD/SQL/Insti/Ejercicios",
     "BDD/SQL/Insti",
-    "Programación/Python/insti/RA3/Ejercicios",
+    "Programación/Python/Ejercicios",
     "Programación/Python/insti",
     "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
@@ -270,7 +261,6 @@
     "BDD/SQL/Tecnicismos/Disparadores.md",
     "README.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
-    "Documentación personal/Mecanica de Unix/Mecánica Unix - Manejo de la shell.md",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",

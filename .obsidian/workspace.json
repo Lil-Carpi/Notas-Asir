@@ -153,11 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de SQL - Ejercicios SELECT"
             }
           },
           {
@@ -233,16 +234,21 @@
   },
   "active": "8edf5863838e411c",
   "lastOpenFiles": [
+    "BDD/SQL/Diario/Clase 4 de diciembre.md",
+    "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
+    "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
+    "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
+    "BDD/SQL/Apuntes generales de SQL.md",
+    "BDD/SQL/SQL.md",
+    "Programación/Python/insti/RA3/Docstrings/Docstrings - Python.md",
+    "Programación/Python/insti/RA3/Docstrings/Tipos de notaciones - Python.md",
+    "Programación/Python/insti/RA3/Ejercicios/RA2. Pràctica 1.md",
+    "Programación/Python/Python.md",
+    "Programación/Python/insti/Python - Instituto.md",
+    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
     "BDD/SQL/Tecnicismos/Tipos de datos.md",
     "BDD/SQL/Tecnicismos/Lenguaje de definición de datos (DDL).md",
     "BDD/SQL/Tecnicismos/Lenguaje de Manupulación de Datos (DML).md",
-    "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
-    "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
-    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
-    "BDD/SQL/Diario/Clase 4 de diciembre.md",
-    "BDD/SQL/Apuntes generales de SQL.md",
-    "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
-    "BDD/SQL/SQL.md",
     "Programación/PHP/Insti/Get y Post - PHP.md",
     "Programación/PHP/M9-PHP.md",
     "Documentación personal/Proyectos/LilCMS/JS_Version/Conceptos/LilCMS.JS - Concepto.md",
@@ -250,14 +256,9 @@
     "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas técnicas de versión.md",
     "Reglas de negocio.md",
     "Programación/PHP/Insti",
-    "Programación/Python/insti/RA3/Docstrings/Docstrings - Python.md",
-    "Programación/Python/insti/RA3/Docstrings/Tipos de notaciones - Python.md",
-    "Programación/Python/insti/RA3/Ejercicios/RA2. Pràctica 1.md",
     "Programación/Python/insti/RA3/Docstrings/Sin nombre",
-    "Programación/Python/insti/Python - Instituto.md",
     "Programación/Python/insti/RA3/Docstrings",
     "Programación/Python/insti/RA3",
-    "Programación/Python/Python.md",
     "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT",
     "BDD/SQL/Insti/Ejercicios",
     "BDD/SQL/Insti",

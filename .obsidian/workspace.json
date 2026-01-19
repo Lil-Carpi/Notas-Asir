@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
+                "file": "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Funciones agregadas i GROUP BY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sphinx y Doxygen - Python"
+              "title": "SQL - Funciones agregadas i GROUP BY"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
+                "file": "Programación/PHP/Get y Post - PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Sphinx y Doxygen - Python"
+              "title": "Enlaces entrantes de Get y Post - PHP"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
+                "file": "Programación/PHP/Get y Post - PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Sphinx y Doxygen - Python"
+              "title": "Enlaces salientes de Get y Post - PHP"
             }
           },
           {
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,29 +222,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8edf5863838e411c",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
+    "BDD/SQL/Apuntes generales de SQL.md",
+    "BDD/SQL/Tecnicismos/Tipos de datos.md",
+    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Funciones agregadas i GROUP BY.md",
+    "BDD/SQL/SQL.md",
+    "Programación/PHP/Get y Post - PHP.md",
+    "Programación/PHP/M9-PHP.md",
+    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
     "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
     "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
     "Programación/Python/Modulos/__init__.md",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
     "Programación/Python/Modulos",
     "Programación/Python/Ejercicios/RA2. Pràctica 1 - Python.md",
     "BDD/SQL/Tecnicismos/Disparadores.md",
     "BDD/SQL/Tecnicismos/Lenguaje de definición de datos (DDL).md",
     "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
-    "BDD/SQL/SQL.md",
-    "BDD/SQL/Apuntes generales de SQL.md",
     "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
-    "BDD/SQL/Tecnicismos/Tipos de datos.md",
     "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
-    "Programación/PHP/Get y Post - PHP.md",
-    "Programación/PHP/M9-PHP.md",
     "Programación/HTML y CSS/HTML/LDM - HTML.md",
     "Programación/HTML y CSS/CSS/LDM - CSS.md",
     "Programación/JavaScript/LDM-JavaScript.md",
     "Imagenes/SQL/Mezcla-cartesiana_(CROSS_JOIN).png",
-    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Funciones agregadas i GROUP BY.md",
     "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
     "Documentación personal/Proyectos/LilCMS/JS_Version/Conceptos/LilCMS.JS - Concepto.md",
     "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas técnicas de versión.md",

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#SQL-ASIX  ",
@@ -32,7 +32,7 @@
       "query": "tag:#Temario-ASG  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 9889942
       }
     },
     {
@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "tag:#LilCMS.JS",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.19291365431271393,
+  "scale": 0.37662881626431144,
   "close": true
 }

@@ -12,15 +12,9 @@ Como he indicado antes, los docstrings sirven principalmente para documentación
 
 ---
 ## Formatos
-
-
-
-
-
-
-
----
-### Ejemplo
+### Docstrings de funciones
+Describen el propósito de una función, sus argumentos y lo que devuelve.
+#### Ejemplo
 Función de suma, que suma los dos argumentos que se le pase.
 
 ```python
@@ -92,3 +86,48 @@ FILE
     /home/carpi/suma.py
 
 ```
+---
+### Docstrings de Módulos
+Describen el módulo en general y se colocan al principio del archivo del módulo.
+
+#### Ejemplo:
+```python
+"""
+Módulo de operaciones matemáticas.
+
+Este módulo proporciona funciones básicas para realizar operaciones matemáticas como suma, resta, multiplicación y división.
+
+Funciones:
+- suma(a, b): Devuelve la suma de a y b.
+- resta(a, b): Devuelve la resta de b de a.
+- multiplicar(a, b): Devuelve el producto de a y b.
+- dividir(a, b): Devuelve la división de a entre b.
+"""
+
+def suma(a, b):
+## ...
+## aqui el resto del código del módulo
+```
+---
+#### Docstrings de Clases
+Describen el proposito de una clase, sus metodos y atributos.
+```python
+class Coche:
+    """
+    Representa un coche.
+    
+    Atributos:
+    marca (str): La marca del coche.
+    modelo (str): El modelo del coche.
+    """
+
+## ...
+## aqui el resto del código de la clase
+```
+
+---
+## Generar documentación a partir de Docstrings
+Existen herramientas como Sphinx y Doxygen que pueden generar documentación HTML y otros formatos a partir de docstrings, lo que facilita hacer los documentos de documentación.
+
+Para más información, véase [[Sphinx y Doxygen - Python]]
+![[Sphinx y Doxygen - Python]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/HTML y CSS/HTML/LDM - HTML.md",
+                "file": "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LDM - HTML"
+              "title": "Docstrings - Python"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Python  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/HTML y CSS/HTML/LDM - HTML.md",
+                "file": "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de LDM - HTML"
+              "title": "Enlaces entrantes de Docstrings - Python"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/HTML y CSS/HTML/LDM - HTML.md",
+                "file": "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de LDM - HTML"
+              "title": "Enlaces salientes de Docstrings - Python"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación/HTML y CSS/HTML/LDM - HTML.md",
+                "file": "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de LDM - HTML"
+              "title": "Esquema de Procedimientos almacenados"
             }
           },
           {
@@ -208,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,30 +222,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8edf5863838e411c",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "Programación/HTML y CSS/CSS/LDM - CSS.md",
-    "Programación/Python/Ejercicios/RA2. Pràctica 1 - Python.md",
-    "Programación/Python/Python.md",
-    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
+    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
     "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
-    "Programación/Python/insti/Python - Instituto.md",
+    "Programación/Python/Ejercicios/RA2. Pràctica 1 - Python.md",
+    "Programación/PHP/Get y Post - PHP.md",
+    "Programación/PHP/M9-PHP.md",
+    "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
+    "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
+    "Programación/HTML y CSS/HTML/LDM - HTML.md",
+    "Programación/HTML y CSS/CSS/LDM - CSS.md",
+    "Programación/JavaScript/LDM-JavaScript.md",
+    "Imagenes/SQL/Mezcla-cartesiana_(CROSS_JOIN).png",
+    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Funciones agregadas i GROUP BY.md",
     "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
+    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Conceptos/LilCMS.JS - Concepto.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas técnicas de versión.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas de versión.md",
+    "Documentación personal/Mecanica de Unix/2. awk-sed-grep/Extracción de datos estructurados.md",
+    "Programación/Python/Python.md",
+    "Programación/Python/insti/Python - Instituto.md",
     "BDD/SQL/Apuntes generales de SQL.md",
     "BDD/SQL/SQL.md",
     "BDD/SQL/Diario/Clase 4 de diciembre.md",
-    "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
-    "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
     "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
     "BDD/SQL/Tecnicismos/Tipos de datos.md",
     "BDD/SQL/Tecnicismos/Lenguaje de definición de datos (DDL).md",
     "BDD/SQL/Tecnicismos/Lenguaje de Manupulación de Datos (DML).md",
-    "Programación/PHP/Insti/Get y Post - PHP.md",
-    "Programación/PHP/M9-PHP.md",
-    "Documentación personal/Proyectos/LilCMS/JS_Version/Conceptos/LilCMS.JS - Concepto.md",
-    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas de versión.md",
-    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas técnicas de versión.md",
-    "Reglas de negocio.md",
     "Programación/PHP/Insti",
     "Programación/Python/insti/RA3/Docstrings/Sin nombre",
     "Programación/Python/Comentarios y documentación",
@@ -256,11 +261,6 @@
     "Programación/Python/Ejercicios",
     "Programación/Python/insti",
     "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
-    "Imagenes/SQL/Mezcla-cartesiana_(CROSS_JOIN).png",
-    "BDD/SQL/Tecnicismos/Disparadores.md",
-    "README.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
     "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",

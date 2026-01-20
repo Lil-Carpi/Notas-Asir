@@ -1,5 +1,5 @@
-#SQL-ASIX - Structure Query Language
-Proveniente de [[SQL]]
+#SQL - Structure Query Language
+Proveniente de [[Índice - SQL]]
 
 ---
 Un **trigger** o **disparador** es un objeto que se asocia con tablas y se almacenan en la base de datos. Su nombre se deriva por el comportamiento que presentan en su funcionamiento, ya que se ejecutan cuando sucede algún evento sobre las tablas a las que se encuentra asociado. Los eventos que hacen que se ejecute un trigger son las operaciones de inserción (`INSERT`), borrado (`DELETE`), o actualización (`UPDATE`), ya que modifican los datos de una tabla.

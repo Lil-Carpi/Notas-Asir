@@ -1,0 +1,1 @@
+El [[Ciberataque]] de tipo Ransomware [[Malware]]

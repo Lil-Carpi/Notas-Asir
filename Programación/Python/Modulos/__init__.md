@@ -1,3 +1,7 @@
+#Python Programación Python
+Proveniente de [[Índice - Python]]
+
+---
 `__init__.py` Es un fichero de Python que indica al intérprete que el directorio en el que se encuentra lo conforman ficheros importables como módulos, es decir: Todo lo que se encuentre en este directorio contiene módulos.
 
 ---

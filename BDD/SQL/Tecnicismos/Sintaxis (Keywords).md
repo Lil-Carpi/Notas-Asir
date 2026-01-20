@@ -1,5 +1,5 @@
-#SQL-ASIX - Structure Query Language
-Proveniente de [[SQL]]
+#SQL - Structure Query Language
+Proveniente de [[Índice - SQL]]
 
 ---
 SQL es non-case sensitive, entonces no es necesario indicar las keywords en mayúscula, pero la recomendación y lo aceptado es siempre poner las keywords e instrucciones en mayúscula, por ejemplo:

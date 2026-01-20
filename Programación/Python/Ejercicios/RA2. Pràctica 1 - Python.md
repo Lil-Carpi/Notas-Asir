@@ -1,5 +1,5 @@
 #Python Programación Python
-Proveniente de [[Python]]
+Proveniente de [[Índice - Python]]
 
 ---
 RA2. Pràctica 1

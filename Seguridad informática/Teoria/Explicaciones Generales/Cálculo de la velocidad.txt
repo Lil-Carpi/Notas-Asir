@@ -1,0 +1,29 @@
+Cálculo de la velocidad de transmisión de datos por segundo de la RAM:
+
+Frecuencia de bus real (FR) - Velocidad del reloj físico
+Prefetch (PF)- Nombre de bloques de datos transferidos por cada ciclo
+- DDR1: Prefetch 2
+- DDR2: Prefetch 4
+- DDR3: Prefetch 8
+- DDR3: Prefetch 8
+- DDR4: Prefetch 8
+- DDR5: Prefetch 16
+
+Frecuencia efectiva (FE) - FR + PF
+Ancho de banda (AB) - Normalmente 64 bits (8 Bytes) por canal
+
+Formula del cálculo:
+
+Taza de transferéncia (MB/s) = Frecuencia efectiva (MHz) * AB (bytes)
+
+Forma detallada:
+Taza de transferencia = FB * PF * 8
+
+Ejemplo:
+DDR4 - 3200 MT/s
+3200/2 = 1600MHz
+Prefetch 8
+FE = 3200 MHz
+AB = 8B
+
+3200*8=25.600 MB/s (o 25.6 GB/s)

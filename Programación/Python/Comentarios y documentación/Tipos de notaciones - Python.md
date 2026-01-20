@@ -1,5 +1,5 @@
 #Python Programación Python
-Proveniente de [[Python]]
+Proveniente de [[Índice - Python]]
 
 ---
 Los tipos de notaciones son maneras de escribir los nombre de las variables, funciones, o cualquier cosa a la que se pueda poner un nombre identificativo. No todos los lenguajes de programación soportan todos los tipos de notaciones.

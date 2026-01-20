@@ -1,0 +1,8 @@
+La disponibilidad de los datos es una de las puntas de la [[Triada CID]]. Dicta que los datos estaran siempre disponibles para todos los usuarios que lo requieran en cualquier momento del dia.
+
+Se garantiza mejor manteniendo rigurosamente todo el hardware, realizando reparaciones de hardware de inmediato cuando sea necesario y manteniendo un entorno de sistema operativo que funcione correctamente y libre de conflictos de software. Tambien es importante mantenerse al dia con todas las actualizaciones necesarias del sistema.
+Vease [[Actualizaciones Generales de Microsoft]] por ejemplo.
+
+Proporcionar un ancho de banda de comunicacion adecuado y prevenir la aparicion de cuellos de botella son igualmente importantes. Las redundancia, la conmutacion por error, [[RAID]], incluso los [[Clúster]]es de alta disponibilidad pueden mitigar las graves consecuencias cuando se producen problemas de hardware.
+
+La recuperacion ante desastres rapida y adaptativa es esencial para los peores escenarios: Esa capacidad depende de la existencia de un plan general ante desastres (DRP). Los salvaguardas contra la perdida de datos o las interrupciones en las conecciones deben incluir eventos imprescindibles como desastres naturales e incendios. Para evitar la perdida de datos de tales ocurrencias, se puede almacenar una [[Cópia de Seguridad]] en una ubicacion aislada geograficamente, tal vez incluso en una caja fuerte a prueba de fuego e impermeable. Los equipos o software de seguridad adicionales, como los servidores de seguridad y los servidores [[Proxy]], pueden proteger contra el tiempo de inactividad y los datos inaccesibles debido a acciones maliciosas, como ataques de denegacion de servicio ([[DoS]]) e intrusiones en la red.

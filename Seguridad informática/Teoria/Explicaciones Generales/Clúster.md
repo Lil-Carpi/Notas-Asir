@@ -1,0 +1,1 @@
+Un Clúster (no confundir con [[CPD]]) es un conjunto de ordenadores conectados entre si via red de alta velocidad de area local o de red extendida de alta velocidad que realizan operaciones en paralelo para un mismo objetivo, es decir, todo el conjunto de ordenadores se ven como uno solo y realiza una misma operacion. 

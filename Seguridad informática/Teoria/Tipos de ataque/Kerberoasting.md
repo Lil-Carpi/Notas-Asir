@@ -1,0 +1,7 @@
+El *Kerberoasting* es un [[Ciberataque]] que explota el protocolo de autenticacion de [[Kerberos]]. Los actores de amenazas roban tickets de servicio Kerberos oara descubrir las contraseñas de texto plano de las cuentas de servicio de red. Luego, los hackers toman el control de estas cuentas de servicio para el robo de datos, propagar [[Malware]], entre otros.
+
+Algunos factores adicionales alimentan la popularidad del Kerberoasting. Muchos servicios de directorio y sistemas de computacion en la nube utilizan Kerberos, lo que significa que los [[Hacker|hackers]] pueden aprovechar el protocolo para acceder a infraestructuras de red cruciales.
+
+En particular, Kerberos es estandar en AD. Muchos ataques se dirigen a sus dominios. Ademas, las cuentas de servicio creadas manualmente tienden a tener contraseñas debiles y privilegios altos, lo que las convierte en objetivos atractivos.
+
+Los ataques de Kerberoasting son dificiles de detectar porque se aprovechan del diseño previsto de Kerberos. La parte mas sospechosa del ataque Kerberoasting (descifrar tickets robados) ocurre fuera de linea. Los [[Hacker Ético|Hackers éticos]] no pueden erradicar por completo la posibilidad de kerberoasting, pero si pueden implementar las defensas proactivas necesarias para mitigar la amenaza.

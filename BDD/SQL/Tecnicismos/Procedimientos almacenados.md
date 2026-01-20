@@ -1,5 +1,5 @@
-#SQL-ASIX - Structure Query Language
-Proveniente de [[SQL]]
+#SQL - Structure Query Language
+Proveniente de [[Índice - SQL]]
 
 ---
 En SQL, un **procedimiento almacenado (*stored procedure*** en inglés) es un programa o procedimiento almacenado físicamente en una base de datos. Su implementación varía de un gestor de base de datos a otro. **La ventaja de un procedimiento almacenado** es que al ser ejecutado, en respuesta a una petición del usuario, es ejecutado directamente en el motor de base de datos, el cual usualmente corre en un servidor separado. Como tal, posee acceso directo a los datos que necesita manipular y solo necesita enviar grandes cantidades de datos salientes y entrantes.
@@ -10,7 +10,7 @@ Podemos ver un claro ejemplo de estos procedimientos cuando requerimos realizar 
 
 ## Implementación
 ---
-Estos procedimientos se usan a menudo, pero no siempre, para realizar consultas [[SQL]] sobre los objetos de la base de datos de una manera abstracta, desde el punto de vista del cliente de la aplicación. Un **procedimiento almacenado** permite agrupar en forma exclusiva parte de algo específico que se desee realizar o, mejor dicho, el SQL apropiado para dicha acción.
+Estos procedimientos se usan a menudo, pero no siempre, para realizar consultas [[Índice - SQL]] sobre los objetos de la base de datos de una manera abstracta, desde el punto de vista del cliente de la aplicación. Un **procedimiento almacenado** permite agrupar en forma exclusiva parte de algo específico que se desee realizar o, mejor dicho, el SQL apropiado para dicha acción.
 
 ## Usos
 ---

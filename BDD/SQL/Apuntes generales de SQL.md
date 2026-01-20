@@ -1,8 +1,8 @@
 ---
 
 ---
-#SQL-ASIX - Structured Query Language
-Proveniente de [[SQL]]
+#SQL - Structured Query Language
+Proveniente de [[Índice - SQL]]
 - Autor: [Lil_Carpi](https://github.com/Lil-Carpi)
 - Fecha de creación: 13-14/12/2025
 ---

@@ -1,5 +1,5 @@
 #Python Programación Python
-Proveniente de [[Python]]
+Proveniente de [[Índice - Python]]
 
 ---
 Los Docstrings son strings literales especiales que sirven para la documentación de, normalmente, funciones. 

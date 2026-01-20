@@ -1,5 +1,5 @@
-#SQL-ASIX - Structured Query Language
-Proveniente de [[SQL]]
+#SQL - Structured Query Language
+Proveniente de [[Índice - SQL]]
 
 ---
 SQL maneja varios tipos de datos. Estos tipos de datos se diferencian para la introduccion de datos en especifico, datos con cierta cantidad de letras o numeros, o un numero especifico de caracteres.

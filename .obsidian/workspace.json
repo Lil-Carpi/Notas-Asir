@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8edf5863838e411c",
+            "id": "f9e02366cd55a22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Funciones agregadas i GROUP BY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL - Funciones agregadas i GROUP BY"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#M9  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 429.49999618530273
   },
   "right": {
     "id": "519d5773673c1040",
@@ -208,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,52 +220,53 @@
   },
   "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "BDD/SQL/Apuntes generales de SQL.md",
-    "BDD/SQL/Tecnicismos/Tipos de datos.md",
-    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Funciones agregadas i GROUP BY.md",
-    "BDD/SQL/SQL.md",
-    "Programación/PHP/Get y Post - PHP.md",
-    "Programación/PHP/M9-PHP.md",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
-    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
-    "Programación/Python/Modulos/__init__.md",
-    "Programación/Python/Modulos",
-    "Programación/Python/Ejercicios/RA2. Pràctica 1 - Python.md",
-    "BDD/SQL/Tecnicismos/Disparadores.md",
-    "BDD/SQL/Tecnicismos/Lenguaje de definición de datos (DDL).md",
-    "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
-    "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
-    "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
-    "Programación/HTML y CSS/HTML/LDM - HTML.md",
-    "Programación/HTML y CSS/CSS/LDM - CSS.md",
-    "Programación/JavaScript/LDM-JavaScript.md",
-    "Imagenes/SQL/Mezcla-cartesiana_(CROSS_JOIN).png",
-    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT/SQL - Ejercicios SELECT.md",
-    "Documentación personal/Proyectos/LilCMS/JS_Version/Conceptos/LilCMS.JS - Concepto.md",
-    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas técnicas de versión.md",
-    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas de versión.md",
-    "Documentación personal/Mecanica de Unix/2. awk-sed-grep/Extracción de datos estructurados.md",
-    "Programación/Python/Python.md",
-    "Programación/Python/insti/Python - Instituto.md",
-    "Programación/PHP/Insti",
-    "Programación/Python/insti/RA3/Docstrings/Sin nombre",
-    "Programación/Python/Comentarios y documentación",
-    "Programación/Python/insti/RA3",
-    "BDD/SQL/Insti/Ejercicios/Ejercicios SELECT",
-    "BDD/SQL/Insti/Ejercicios",
-    "BDD/SQL/Insti",
-    "Programación/Python/Ejercicios",
-    "Programación/Python/insti",
-    "Documentación personal/Seguridad-Informatica/Vista General 1.canvas",
-    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/specops.svg",
-    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/satan.png",
-    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/nessuslogo.png",
-    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/metasploitlogo.png",
-    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/software/NMAPlogo.png",
-    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/hardware/usbkiller.jpg",
-    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/hardware/rubberducky.png",
-    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/hardware/pico_tpm_sniffer.webp",
-    "Documentación personal/Seguridad-Informatica/1_Imagenes/tools/hardware/omgcable.webp"
+    "Diario/Clase 4 de diciembre.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Tipos de prueba de penetracion/Tipos de pruebas de penetración.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Tipos de prueba de penetracion/Auditoria.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/White Hat (sombrero blanco).md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Script kiddie.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Red Hat (Sombrero rojo).md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Hacktivismo.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Grey Hat (Sombrero gris).md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Blue Hat (sombrero azul).md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Black Hat (Sombrero Negro).md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA/Triada CID.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA/Integridad.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA/Disponibilidad.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA/Confidencialidad.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Tipos de prueba de penetracion",
+    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Pentester.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Hacker Ético.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers",
+    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Hacker.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Criptografia/Criptografia.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Criptografia/Cifrado.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Virus informatico.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Troyano (Caballo de Troya).md",
+    "Seguridad informática/Teoria/Tipos de ataque/Spyware.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Sniffing.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Ransomware.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Phishing.md",
+    "Seguridad informática/Teoria/Tipos de ataque/MITM ATTACK.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/buscar ficha tecnica del.txt",
+    "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA",
+    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting",
+    "Seguridad informática/Teoria/Explicaciones Generales/Hacker",
+    "Seguridad informática/Teoria/Explicaciones Generales/Cálculo de la velocidad.txt",
+    "Seguridad informática/Teoria/Explicaciones Generales/Criptografia",
+    "Seguridad informática/Teoria/Tipos de ataque",
+    "Seguridad informática/Teoria/Microsoft",
+    "Seguridad informática/Recursos/1_Imagenes/tools/software/specops.svg",
+    "Seguridad informática/Recursos/1_Imagenes/tools/software/satan.png",
+    "Seguridad informática/Recursos/1_Imagenes/tools/software/nessuslogo.png",
+    "Seguridad informática/Recursos/1_Imagenes/tools/software/metasploitlogo.png",
+    "Seguridad informática/Recursos/1_Imagenes/tools/software/NMAPlogo.png",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/usbkiller.jpg",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/rubberducky.png",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/pico_tpm_sniffer.webp",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/omgcable.webp",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",
+    "Sin título.canvas",
+    "Documentación personal/Seguridad-Informatica/Vista General 1.canvas"
   ]
 }

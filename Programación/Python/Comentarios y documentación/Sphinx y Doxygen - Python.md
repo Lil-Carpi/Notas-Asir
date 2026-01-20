@@ -1,5 +1,5 @@
 #Python Programación Python
-Proveniente de [[Python]]
+Proveniente de [[Índice - Python]]
 
 ---
 Spynx y Doxygen son módulos de Python, C, C++ y C# para crear documentación a partir de los [[Docstrings - Python|docstrings]] del código.
@@ -16,6 +16,7 @@ pip install Sphinx
 
 ---
 ## Funcionamiento
+### Sphinx
 Supongamos que tenemos la siguiente estructura:
  
 

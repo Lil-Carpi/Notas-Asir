@@ -1,0 +1,7 @@
+Flipper Zero es un pequeño dispositivo portable multifuncional creado por Alex Kulagin y Pavel Zhovner en el 2019.
+
+![[Flipper Zero.jpg]]
+
+El dispositivo es capaz de leer, copiar y emular señales RFID y tags NFC, radio remoto, iButton, y llaves de acceso digitales, junto con una interfaz GPIO. Se anuncio por primera vez en Agosto del 2020 mediante una Campaña Kickstarter crowfunding, del cual recaudo $4.8 millones. Los primeros dispositivos fueron enviados a patrocinadores 18 meses despues de la finalizacion de la campaña de crowfunding. La interfaz de usuario del dispositivo incorpora una mascota virtual de un delfin Pixel Art. La interaccion con la mascota virtual es la mecanica de juego central del dispositivo. El uso de las funciones del dispositivo define la apariencia y las emociones de la mascota.
+
+En el juego incorporado, el mecanismo principal para "Actualizar" al bicho es usar las diversas herramientas de pirateria. Si bien existen usos inofensivos (como el control remoto de un televisor o un sensor de dioxido de carbono), algunas de las herramientas incorporadas tienen posibles usos delictivos, como el escaneo de RFID, el BDOS (Envio de spam a una coneccion bluetooth, inutilizando el dispositivo) y la emulacion de chips RFID como los que se encuentran en las tarjetas de identificacion, utilizando el clonador de radio incorporado para abrir puertas de garaje, desbloquear vehiculos, y funcionando como un [[BadUSB]] inalambrico.

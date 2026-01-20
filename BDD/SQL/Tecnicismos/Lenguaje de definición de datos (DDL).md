@@ -1,8 +1,8 @@
 ---
 
 ---
-#SQL-ASIX - Structure Query Language
-Proveniente de [[SQL]]
+#SQL - Structure Query Language
+Proveniente de [[Índice - SQL]]
 
 ---
 El Lenguaje de definición de datos, es el que se encarga de la modificacion de la estructurea de objetos de la base de datos. Incluye ordenes para modificar, borrar o definir las tablas en las que se almacenan los datos de la base de datos.

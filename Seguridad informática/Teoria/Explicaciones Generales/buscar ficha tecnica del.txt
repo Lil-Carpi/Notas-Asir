@@ -1,0 +1,4 @@
+buscar ficha tecnica del servidor
+ficha de expansion del raid
+como entrar a la bios
+entrar a la bios de la tarjeta de raid para la configuracion 

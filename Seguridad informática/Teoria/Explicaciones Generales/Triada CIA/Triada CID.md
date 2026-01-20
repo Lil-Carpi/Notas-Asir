@@ -1,0 +1,1 @@
+La Triada CID ([[Confidencialidad]], [[Integridad]] y [[Disponibilidad]]) es un conjunto de reglas que limita el acceso a la informacion (una politica de seguridad). La integridad es la garantia de que la informacion sea fiable y precisa y la disponibilidad es una garantia de acceso confiable a la informacion por partes de personas autorizadas.

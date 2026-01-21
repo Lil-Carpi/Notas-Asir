@@ -1,5 +1,6 @@
-#GNULinux - GNU/Linux
+#GNULinux \ #UnixLike - GNU/Linux
 Documento padre
+Proveniente de [[Índice - UnixLike OS|UNIX-LIKE OS]]
 ---
 ![[ñu.webp|150]]![[tux.png]]
 [GNU/Linux - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/GNU/Linux)

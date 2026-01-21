@@ -1,4 +1,4 @@
-#MS-DOS - Windows 11
+#MS-DOS - MS-DOS
 Documento padre
 ---
 [[Patch Tuesdays (Evento de actualizaciones periodicas)]]

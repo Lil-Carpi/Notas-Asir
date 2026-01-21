@@ -2,6 +2,21 @@
 Documento Padre
 
 ---
+El scripting es la creacion de scripts, que son secuencias de comandos que se hacen dentro de un programa que se utiliza para la manipulacion, creacion, personalizacion, automatizacion e instalacion en, normalmente, un sistema operativo.
+
+De normal, estan almacenados en ficheros de texto que se interpretan linea por linea en tiempo real para su ejecucion. 
+
+En el Bash Scripting, se utilzan normalmente los shebangs para identificar a un archivo como un script:
+```ini
+#!/bin/bash ; #!/bin/ksh ; #!/bin/zsh ; #!/bin/csh 
+```
+
+Tambien se pueden indicar con la extension de archivo "`.sh`". Se les debe otorgar el permiso de ejecucion para poder ejecutarse.
+
+Para Windows, puede ver:
+- [[Batch scripting - MS-DOS]]
+
+---
 En este apartado, me dedico a aprender todo lo que tiene que ver con la terminal. Pondré obviamente apuntes sobre lo que ya sé y sobre lo que no. 
 
 ## Lo que voy a apuntar va a ser:

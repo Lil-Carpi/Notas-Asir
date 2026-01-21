@@ -1,0 +1,4 @@
+#GNUHurd \ #UnixLike - GNU/Hurd
+Documento padre
+Proveniente de [[Índice - UnixLike OS|UNIX-LIKE OS]]
+---

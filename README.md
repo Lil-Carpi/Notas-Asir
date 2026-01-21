@@ -6,6 +6,8 @@ Soy Carpi, este es mi espacio Gitea. Aquí cuelgo notas, trabajos, proyectos y c
 # Temarios
 Lo que trato:
 - Base de Datos
+	- SQL
+	- NoSQL (aún no redactado)
 - Programación:
 	- Python
 	- PHP
@@ -14,7 +16,10 @@ Lo que trato:
 - Hardware:
 	- Implantación de aplicaciones Web
 	- M5 (no tengo idea de qué nombre ponerle)
-- Seguridad Informática
+- Seguridad Informática (partes sin redactar).
+- Sistemas operativos
+	- Unix-Like os, ya sea GNU/Linux, GNU/Hurd, etc. (partes sin redactar)
+	- MS-DOS, como Windows 11 (aún no redactado).
 
 - Y cosas personales, como documentación técnica que hago yo mismo.
 
@@ -23,6 +28,8 @@ No cubriré exactamente todo, pero intentaré que sea lo más entendible posible
 ---
 # Novedades:
 - Añadido "Seguridad informática".
+- Añadido "Sistemas operativos".
+- Cambio en la estructura general.
 
 ---
 # Sobre cómo van las notas

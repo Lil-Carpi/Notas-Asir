@@ -1,4 +1,4 @@
-[[Preparación para la CPTS|CPTS]]
+[[Índice - CPTS|CPTS]]
 -------------
 ## La manera de pensar
 
@@ -150,7 +150,7 @@ Lo ideal sería que no nos obligáramos a enfocarnos en un tema específico, ya 
 
 ---
 # Confort
-[[Preparación para la CPTS|CPTS]]
+[[Índice - CPTS|CPTS]]
 
 ==Confort== es un ==estado emocional== de la mente de una persona que, entre otros aspectos, tiene una gran influencia en el comportamiento, el pensamiento, el enfoque, la atención y la capacidad de concentración. Es la sensación de bienestar en forma de comodidad y la actitud de comportamiento libre de riesgos. A esto también se le conoce como la llamada ==zona de confort==, en la que la persona ==cree== que se encuentra.
 
@@ -204,7 +204,7 @@ El miedo imaginario está dirigido a eventos que imaginamos, con consecuencias q
 
 El miedo en situaciones que no ponen en peligro la vida se encuentra en nuestros pensamientos sobre el futuro imaginario. Mientras más detallado lo imaginemos, mayor será el miedo. Will Smith ha hablado sobre su experiencia enfrentando sus propios miedos.
 
-![[Will_smith_skydiving_and_fear.mp4]]
+![](https://youtu.be/bFIB05LGtMs)
 
 El miedo imaginario es un estado emocional que nos impide vivir experiencias únicas y nos frena en nuestro camino. Incluso si queremos ser excelentes pentesters, la mayoría de los principiantes temen dar el máximo esfuerzo por el miedo imaginario al fracaso. Esto se debe a muchos otros factores que analizaremos más adelante.
 

@@ -1,4 +1,4 @@
-# [[Preparación para la CPTS |CPTS]]
+# [[Índice - CPTS|CPTS]]
 
 # Questioning
 Learning how to ask the right questions is ant art and a critical skill. It does not matter what situation we are in or whether we are discussing technical or non-technical topics. However, many people do not know the difference between wrong and right questions. Most do not even know what a question is. At the moment, we define questions and see their purpose as gathering information and facts from which we can draw conclusions and make assumptions that will guide our decisions and thus our future course of action. However, this opinion will soon change. Apart from that, questions often serve for orientation. By this, we mean that we can get an overview based on the questions we ask, which helps us to find more information about the topic we are concerned with. Questions represent the view of the situation before we take the step and move in our way.

@@ -1,5 +1,5 @@
 # Organization
-[[Preparación para la CPTS|CPTS]]
+[[Índice - CPTS|CPTS]]
 
 We already seen the overview mentioned several times. To understand how important the term is, imagine the following situation:
 

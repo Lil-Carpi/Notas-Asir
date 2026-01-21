@@ -14,8 +14,7 @@ Lo que trato:
 - Servidores:
 	- Implantación de aplicaciones Web
 	- M5 (no tengo idea de qué nombre ponerle)
-- Digitalización aplicada en sectores productivos
-- Sostenibilidad aplicada a los sistemas de producción
+- Seguridad Informática
 
 - Y cosas personales, como documentación técnica que hago yo mismo.
 
@@ -23,7 +22,7 @@ No cubriré exactamente todo, pero intentaré que sea lo más entendible posible
 
 ---
 # Novedades:
-- Añadida la carpeta de "Documentación personal". Por el momento solo hay cosas de Bash, así que no esperes de más.
+- Añadido "Seguridad informática".
 
 ---
 # Sobre cómo van las notas

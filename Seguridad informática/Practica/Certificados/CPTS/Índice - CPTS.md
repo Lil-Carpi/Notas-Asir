@@ -1,3 +1,8 @@
+#CPTS - Certified Penetration Testing Specialist
+Documento padre
+
+---
+
 ![[cpts.webp]]
 
 El [Certified Penetration Testing Specialist](https://academy.hackthebox.com/exams/3/) (Especialista Certificado en Pruebas de Penetracion) Es un certificado de nivel Bajo / Medio. Es un buen certificado para aquellos que quieran comenzar en el mundo del pentesting. Consiste de 28 modulos en los cuales se tratan diversas materias. 

@@ -11,10 +11,14 @@
             "id": "f9e02366cd55a22f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#M9  ",
+                "query": "tag:#Temario-ASG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.49999618530273
+    "width": 657.4999961853027
   },
   "right": {
     "id": "519d5773673c1040",
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/PHP/Get y Post - PHP.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Get y Post - PHP"
+              "title": "Enlaces entrantes de README"
             }
           },
           {
@@ -163,23 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Procedimientos almacenados"
-            }
-          },
-          {
-            "id": "e65e7fe30f96da7b",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
+              "title": "Esquema de README"
             }
           }
         ],
@@ -204,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 707.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,34 +214,44 @@
   },
   "active": "e615f9321ff830be",
   "lastOpenFiles": [
+    "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",
+    "Seguridad informática/Teoria/Explicaciones Generales/CPD.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Defacer.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/HoneyNet.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/HoneyPot.md",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/omgcable.webp",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/usbkiller.jpg",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/rubberducky.png",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/pico_tpm_sniffer.webp",
+    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/BADUSB con un Firmware Custom.jpg",
+    "Seguridad informática/Recursos/1_Imagenes/tools/software/NMAPlogo.png",
+    "Seguridad informática/Recursos/1_Imagenes/tools/software/satan.png",
+    "Seguridad informática/Recursos/1_Imagenes/tools/software/specops.svg",
+    "Seguridad informática/Recursos/1_Imagenes/General/Emblema Hacker.png",
+    "Seguridad informática/Practica/Certificados/CAPE/Índice - CAPE.md",
+    "Seguridad informática/Practica/Certificados/CPTS/Índice - CPTS.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/RAW_SPANISH/RAW_SPANISH (M1_Pre-Compromiso).md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/9_Empezar.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/8_Introducción a Active Directory.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/6_Solicitud Web.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/5_Introduccion a aplicaciones Web.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/2_Linux.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/3_Windows.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/4_Introducción a redes.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Obstaculos.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Organizacion.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Manejar la frustración.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Confort.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Enfocate.md",
+    "Will_smith_skydiving_and_fear.mp4.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Atencion.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/Organizacion_Exer1.md",
+    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
     "Diario/Clase 4 de diciembre.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Tipos de prueba de penetracion/Tipos de pruebas de penetración.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Tipos de prueba de penetracion/Auditoria.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/White Hat (sombrero blanco).md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Script kiddie.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Red Hat (Sombrero rojo).md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Hacktivismo.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Grey Hat (Sombrero gris).md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Blue Hat (sombrero azul).md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers/Black Hat (Sombrero Negro).md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA/Triada CID.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA/Integridad.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA/Disponibilidad.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA/Confidencialidad.md",
     "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Tipos de prueba de penetracion",
-    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Pentester.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Hacker Ético.md",
     "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers",
-    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Hacker.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Criptografia/Criptografia.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Criptografia/Cifrado.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Virus informatico.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Troyano (Caballo de Troya).md",
-    "Seguridad informática/Teoria/Tipos de ataque/Spyware.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Sniffing.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Ransomware.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Phishing.md",
-    "Seguridad informática/Teoria/Tipos de ataque/MITM ATTACK.md",
     "Seguridad informática/Teoria/Explicaciones Generales/buscar ficha tecnica del.txt",
     "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA",
     "Seguridad informática/Teoria/Explicaciones Generales/Pentesting",
@@ -256,16 +260,6 @@
     "Seguridad informática/Teoria/Explicaciones Generales/Criptografia",
     "Seguridad informática/Teoria/Tipos de ataque",
     "Seguridad informática/Teoria/Microsoft",
-    "Seguridad informática/Recursos/1_Imagenes/tools/software/specops.svg",
-    "Seguridad informática/Recursos/1_Imagenes/tools/software/satan.png",
-    "Seguridad informática/Recursos/1_Imagenes/tools/software/nessuslogo.png",
-    "Seguridad informática/Recursos/1_Imagenes/tools/software/metasploitlogo.png",
-    "Seguridad informática/Recursos/1_Imagenes/tools/software/NMAPlogo.png",
-    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/usbkiller.jpg",
-    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/rubberducky.png",
-    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/pico_tpm_sniffer.webp",
-    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/omgcable.webp",
-    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",
     "Sin título.canvas",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas"
   ]

@@ -1,1 +1,1 @@
-[[Preparación para la CPTS|CPTS]]
+[[Índice - CPTS|CPTS]]

@@ -1,4 +1,4 @@
-## [[Preparación para la CPTS|CPTS]]
+## [[Índice - CPTS|CPTS]]
 
 Besides all effective qualities we have come to know so far, many obstacles slow us down or even completely prevent us from reaching our goals, solving specific tasks, or acquiring and mastering skills. These are all factors that prevent us form leaving our comfort zone and daring to try something new.
 
@@ -17,7 +17,7 @@ Imaginary fear is directed at events we imaginate with consequences that we calc
 
 Fear in non-live-threatening situations lies in the thoughts of the 'imaginary' future. In a future that we imagine and imagine ourselves. The more detailed we imagine it, the greater the fear becomes. Will Smith has also reported his experience with the confrontation with his fear.
 
-![[Will_smith_skydiving_and_fear.mp4]]
+![](https://youtu.be/bFIB05LGtMs)
 
 Imaginary fear is an emotional state that keeps us from having the best experiences and prevent us  from moving foward on the desired path. Even if we want to be excellent petetration testers, most begginers are afraid to put their maximum energy into it because of the imaginary fear of failure. This is due to many other factors that we will go into shortly.
 

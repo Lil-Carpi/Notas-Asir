@@ -83,6 +83,20 @@
         "a": 1,
         "rgb": 65280
       }
+    },
+    {
+      "query": "tag:#CPTS  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "tag:#CAPE",
+      "color": {
+        "a": 1,
+        "rgb": 2075135
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1846232597797426,
-  "close": true
+  "scale": 0.46822130772748016,
+  "close": false
 }

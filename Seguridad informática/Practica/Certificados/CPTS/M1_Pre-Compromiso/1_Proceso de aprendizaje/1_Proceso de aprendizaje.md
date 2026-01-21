@@ -1,10 +1,8 @@
 #CPTS - Certified Penetration Testing Specialist
-Documento padre
+Proveniente de [[Índice - CPTS]]
 
 ---
 # Way of Thinking
-[[Índice - CPTS|CPTS]]
-
 	Imagine that you want to become a programmer, and you know that there are more than 200 different programming languages that can be used to create applications that can be cracked by debugging or reverse engineering. If we learned every programming language within 100 hours, we would spend 20,000 hours or 2,500 days (8 hours per day) or, in other words, almost seven years to learn all of these programming languages. As a result, we spend seven years learning all these languages and never tried to debug or reverse engineer the program we created. Great! Let us spend another seven years learning to debug an reverse engineering.
 
 The field of information security is massive, making it impossible for anyone to learn everything. For example, if we wanted to learn over 200 programming languages in 100 hours each, it would take almost 7 years—without even practicing debugging or reverse engineering. Then, we would need another 7 years to learn those skills. This is clearly inefficient and unnecessary.

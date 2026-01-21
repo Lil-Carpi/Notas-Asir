@@ -11,5 +11,5 @@ Inspeccionas la pagina, vas al apartado de Network, le haces un F5, filtras "/ap
 
 Para verlo, selecciona encabezado y _Headers_. Te vas un poco hacia abajo y ahi lo tendras. Es un tochon de texto encriptado.
 
-Teniendo esto en cuenta, podriamos generar un [[Script]] en java, javascript que intercepte la comunicacion cuando reinicies la pagina y que te pille el token. 
+Teniendo esto en cuenta, podriamos generar un [[Script]] en javascript que intercepte la comunicacion cuando reinicies la pagina y que te pille el token. 
 

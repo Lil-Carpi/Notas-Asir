@@ -1,5 +1,7 @@
-[[Índice - CPTS|CPTS]]
--------------
+#CPTS - Certified Penetration Testing Specialist
+Proveniente de [[Índice - CPTS]]
+
+---
 ## La manera de pensar
 
 La seguridad informática es un campo enorme, imposible de abarcar completamente. Un ejemplo: si quisiéramos aprender los más de 200 lenguajes de programación en 100 horas cada uno, tardaríamos casi 7 años en solo eso, sin haber practicado depuración o ingeniería inversa. Y luego, necesitaríamos otros 7 años para aprenderlas. Es evidente que esto no es eficiente ni necesario.

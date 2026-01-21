@@ -1,4 +1,7 @@
-[[Índice - CPTS|CPTS]]
+#CPTS - Certified Penetration Testing Specialist
+Proveniente de [[Índice - CPTS]]
+
+---
 Create a list of different management techniques and methods that you can find and list all their negatives an positives. Experiment with the ones that suit you best and choose/create a method for yourself.
 
 ----

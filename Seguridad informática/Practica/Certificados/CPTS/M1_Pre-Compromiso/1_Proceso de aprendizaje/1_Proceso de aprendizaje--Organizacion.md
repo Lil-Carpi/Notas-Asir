@@ -1,5 +1,8 @@
+#CPTS - Certified Penetration Testing Specialist
+Proveniente de [[Índice - CPTS]]
+
+---
 # Organization
-[[Índice - CPTS|CPTS]]
 
 We already seen the overview mentioned several times. To understand how important the term is, imagine the following situation:
 

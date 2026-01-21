@@ -1,4 +1,7 @@
-## [[Índice - CPTS|CPTS]]
+#CPTS - Certified Penetration Testing Specialist
+Proveniente de [[Índice - CPTS]]
+
+---
 
 Besides all effective qualities we have come to know so far, many obstacles slow us down or even completely prevent us from reaching our goals, solving specific tasks, or acquiring and mastering skills. These are all factors that prevent us form leaving our comfort zone and daring to try something new.
 

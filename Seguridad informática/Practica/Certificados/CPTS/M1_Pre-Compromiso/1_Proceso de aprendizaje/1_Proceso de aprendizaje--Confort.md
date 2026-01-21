@@ -1,5 +1,8 @@
+#CPTS - Certified Penetration Testing Specialist
+Proveniente de [[Índice - CPTS]]
+
+---
 # Comfort
-[[Índice - CPTS|CPTS]]
 
 ==Confort== is an ==emotional state== of a person's mind, which, among other aspects, has a strong influence on behaviour, thinking, focus, attention, and the ability to concentrate. This is the feeling of well-being in the form of comfort and the attitude of risk-free behaviour. This is also ofthen referred to as the so-called ==comfort zone== in which the person ==thinks== he/she is located.
 

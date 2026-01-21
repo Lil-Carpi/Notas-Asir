@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Seguridad informática/Teoria/Explicaciones Generales/Malware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Malware"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 657.4999961853027
+    "width": 242.49999618530273
   },
   "right": {
     "id": "519d5773673c1040",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Seguridad informática/Teoria/Explicaciones Generales/Malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes de Malware"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Seguridad informática/Teoria/Explicaciones Generales/Malware.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema de Malware"
             }
           }
         ],
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 707.5
+    "width": 450.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,9 +212,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "a21fd362c8ad7bcb",
   "lastOpenFiles": [
-    "Hardware",
+    "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
+    "Sistemas operativos/MS-DOS/Windows/Windows 11.md",
+    "README.md",
+    "Sistemas operativos/MS-DOS/Windows",
+    "Sistemas operativos/Unix-Like/OpenBSD",
+    "Sistemas operativos/Unix-Like/Solaris",
+    "Sistemas operativos/Unix-Like/FreeBSD",
+    "Sistemas operativos/Unix-Like/Minix",
+    "Sistemas operativos/Unix-Like/Sin título.md",
+    "Sistemas operativos/Unix-Like/GNUHurd",
+    "Sistemas operativos/Unix-Like/Unix",
+    "Sistemas operativos/Unix-Like",
+    "Sistemas operativos/MS-DOS",
+    "Sistemas operativos",
+    "Imagenes/general/ñu.webp",
+    "Imagenes/general/tux.png",
+    "BDD/SQL/Índice - SQL.md",
+    "Sin título.md",
+    "Programación/Python/Modulos/__init__.md",
     "Seguridad informática/Teoria/Explicaciones Generales/Script.md",
     "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/RAW_SPANISH/RAW_SPANISH (M1_Pre-Compromiso).md",
     "Seguridad informática/Herramientas/Operating Systems/BackBox.md",
@@ -234,13 +252,7 @@
     "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Enfocate.md",
     "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Confort.md",
     "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Atencion.md",
-    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje.md",
-    "Seguridad informática/Practica/EXPERIENCIA/1r Ataque - Robar tokens de sesión de Discord.md",
-    "Seguridad informática/Practica/EXPERIENCIA/Creación de un USB RUBBER DUCKY.md",
-    "README.md",
     "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",
-    "Seguridad informática/Teoria/Explicaciones Generales/CPD.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Defacer.md",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/omgcable.webp",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/usbkiller.jpg",
@@ -248,18 +260,6 @@
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/pico_tpm_sniffer.webp",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/BADUSB con un Firmware Custom.jpg",
     "Seguridad informática/Recursos/1_Imagenes/tools/software/NMAPlogo.png",
-    "Seguridad informática/Recursos/1_Imagenes/tools/software/satan.png",
-    "Seguridad informática/Recursos/1_Imagenes/tools/software/specops.svg",
-    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting/Tipos de prueba de penetracion",
-    "Seguridad informática/Teoria/Explicaciones Generales/Hacker/Tipo de hackers",
-    "Seguridad informática/Teoria/Explicaciones Generales/buscar ficha tecnica del.txt",
-    "Seguridad informática/Teoria/Explicaciones Generales/Triada CIA",
-    "Seguridad informática/Teoria/Explicaciones Generales/Pentesting",
-    "Seguridad informática/Teoria/Explicaciones Generales/Hacker",
-    "Seguridad informática/Teoria/Explicaciones Generales/Cálculo de la velocidad.txt",
-    "Seguridad informática/Teoria/Explicaciones Generales/Criptografia",
-    "Seguridad informática/Teoria/Tipos de ataque",
-    "Seguridad informática/Teoria/Microsoft",
     "Sin título.canvas",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas"
   ]

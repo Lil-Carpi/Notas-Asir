@@ -11,10 +11,14 @@
             "id": "cff2dbc2d71e7b09",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas operativos/Índice - Sistemas operativos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Índice - Sistemas operativos"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.49999618530273
   },
   "right": {
     "id": "519d5773673c1040",
@@ -192,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +210,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cff2dbc2d71e7b09",
+  "active": "a21fd362c8ad7bcb",
   "lastOpenFiles": [
+    "Documentación personal/Manejo de Linux",
+    "Licencias/Sin título.md",
+    "Sistemas operativos/Índice - Sistemas operativos.md",
+    "Licencias/Índice - Licencias.md",
+    "Hardware - M5/Licencias.md",
+    "Licencias",
+    "Hardware/Sin nombre",
     "Seguridad informática/Teoria/Tipos de ataque/Cross-Site Scripting (XSS).md",
     "Documentación personal/Mecanica de Unix/Índice - Mecánica Unix.md",
     "Programación/PHP/Índice - PHP.md",
@@ -229,11 +240,6 @@
     "Sistemas operativos/Unix-Like/Índice - UnixLike OS.md",
     "Sistemas operativos/Unix-Like/Solaris/Índice - Solaris.md",
     "Sistemas operativos/Unix-Like/OpenBSD/Índice - OpenBSD.md",
-    "Sistemas operativos/Unix-Like/Minix/Índice - Minix.md",
-    "Sistemas operativos/Unix-Like/GNUHurd/Índice - GNUHurd.md",
-    "Sistemas operativos/Unix-Like/FreeBSD/Índice - FreeBSD.md",
-    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/7_Ofuscamiento de JavaScript.md",
-    "Programación/JavaScript/Sanitización de código - JavaScript.md",
     "Sistemas operativos/Unix-Like/FreeBSD/Sin nombre",
     "Sistemas operativos/MS-DOS/MS-DOS",
     "Sistemas operativos/Unix-Like/OpenBSD",
@@ -242,8 +248,6 @@
     "Sistemas operativos/Unix-Like/Minix",
     "Sistemas operativos/Unix-Like/GNUHurd",
     "Sistemas operativos/Unix-Like/Unix",
-    "Sistemas operativos/Unix-Like",
-    "Sistemas operativos/MS-DOS",
     "Imagenes/ñu.webp",
     "Imagenes/tux.png",
     "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",

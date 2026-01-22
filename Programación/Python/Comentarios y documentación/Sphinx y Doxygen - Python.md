@@ -4,7 +4,6 @@ Proveniente de [[Índice - Python]]
 ---
 Spynx y Doxygen son módulos de Python, C, C++ y C# para crear documentación a partir de los [[Docstrings - Python|docstrings]] del código.
 
-
 ---
 ## Instalación
 

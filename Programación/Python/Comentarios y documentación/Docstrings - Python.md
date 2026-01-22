@@ -8,7 +8,7 @@ Además de la documentación, pueden indicar la forma del funcionamiento de la f
 
 ---
 ## Utilidad
-Como he indicado antes, los docstrings sirven principalmente para documentación y como instrucciones. No son ejecutados por el intérprete, pero no se ignoran y se espera a una instrucción específica llamada `__doc__`, o al pedir ayuda y, como argumento, la función.
+Como he indicado antes, los docstrings sirven principalmente para documentación y como instrucciones. No son ejecutados por el intérprete, pero no se ignoran y se espera a una instrucción específica llamada [[__doc__ - Python|__doc__]], o al pedir ayuda y, como argumento, la función.
 
 ---
 ## Formatos

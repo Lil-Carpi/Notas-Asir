@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 2075135
       }
+    },
+    {
+      "query": "tag:#UnixLike  ",
+      "color": {
+        "a": 1,
+        "rgb": 49667
+      }
     }
   ],
   "collapse-display": true,
@@ -110,5 +117,5 @@
   "linkStrength": 0.455290611028316,
   "linkDistance": 250,
   "scale": 0.15096041303355037,
-  "close": true
+  "close": false
 }

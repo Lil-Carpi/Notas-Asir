@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "aab7cc42b0dfe1b7",
+        "id": "df44efe173448423",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Python/Modulos/Funciones Magicas - Python.md",
+                "file": "BDD/SQL/Apuntes generales de SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funciones Magicas - Python"
+              "title": "Apuntes generales de SQL"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aab7cc42b0dfe1b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d53a7cda1c6db90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL - Funciones agregadas i GROUP BY"
             }
           }
         ]
@@ -53,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#GNULinux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.49999618530273,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "519d5773673c1040",
@@ -213,9 +232,16 @@
   },
   "active": "cff2dbc2d71e7b09",
   "lastOpenFiles": [
-    "Programación/Python/Modulos/__init__.md",
-    "Programación/Python/Índice - Python.md",
+    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+    "BDD/SQL/Apuntes generales de SQL.md",
+    "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+    "Seguridad informática/Herramientas/Operating Systems/NodeZero.md",
+    "Sistemas operativos/Unix-Like/Índice - UnixLike OS.md",
     "Programación/Python/Modulos/Funciones Magicas - Python.md",
+    "Programación/Python/Modulos/__init__ - Python.md",
+    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
+    "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
+    "Programación/Python/Índice - Python.md",
     "Imagenes/tux.png",
     "Licencias/- Licencias.md",
     "Licencias/Índice - Licencias.md",
@@ -236,13 +262,6 @@
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Señales.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Índice.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Patrones de diseño en Bash.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Expansión de parámetros.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Terminal - GNULinux.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
-    "Sistemas operativos/Unix-Like/Índice - UnixLike OS.md",
     "Sistemas operativos/Unix-Like/FreeBSD/Sin nombre",
     "Sistemas operativos/MS-DOS/MS-DOS",
     "Sistemas operativos/Unix-Like/OpenBSD",

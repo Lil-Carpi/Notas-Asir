@@ -196,6 +196,12 @@ SELECT DISTINCT equipo_id WHERE edad < 35;
 
 ```
 
+#### `avg()`
+Sirve para hacer la media de la parte de la tabla que se seleccione:
+```SQL
+SELECT AVG(pedido) AS media FROM pedido;
+```
+
 
 #### `ORDER BY`
 Se pueden ordenar las consultas por orden ASCENDENTE (`ASC`) y DESCENDENTE (`DESC`):

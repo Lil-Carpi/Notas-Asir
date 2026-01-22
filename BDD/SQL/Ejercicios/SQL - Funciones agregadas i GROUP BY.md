@@ -21,6 +21,10 @@ SELECT max(kms) AS maxim, min(kms) AS minim FROM etapa;
 ```SQL
 SELECT SUM(kms) AS suma_kms FROM etapa;
 ```
+
+---
+## USE empresa;
+
 5. Mostra el preu mitjà del productes venuts (mitjana global).  
 ```SQL
 

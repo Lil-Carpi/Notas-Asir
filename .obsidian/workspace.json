@@ -196,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06c089ffd32acd00",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
     "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
     "Programación/PHP/Metodos de consulta/Formularios - PHP.md",

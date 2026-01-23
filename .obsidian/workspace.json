@@ -11,14 +11,10 @@
             "id": "06c089ffd32acd00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Formularios - PHP"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -210,10 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "a21fd362c8ad7bcb",
   "lastOpenFiles": [
-    "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
+    "Sin título.canvas",
     "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
+    "ABA ENGLISH.md",
+    "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
     "Programación/PHP/Índice - PHP.md",
     "Programación/PHP/Sanitización de código - PHP.md",
     "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
@@ -242,8 +240,6 @@
     "Hardware - M5/Licencias.md",
     "Licencias",
     "Hardware/Sin nombre",
-    "Seguridad informática/Teoria/Tipos de ataque/Cross-Site Scripting (XSS).md",
-    "Documentación personal/Mecanica de Unix/Índice - Mecánica Unix.md",
     "Sistemas operativos/Unix-Like/FreeBSD/Sin nombre",
     "Sistemas operativos/MS-DOS/MS-DOS",
     "Sistemas operativos/Unix-Like/OpenBSD",
@@ -258,7 +254,6 @@
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/pico_tpm_sniffer.webp",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/BADUSB con un Firmware Custom.jpg",
     "Seguridad informática/Recursos/1_Imagenes/tools/software/NMAPlogo.png",
-    "Sin título.canvas",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas"
   ]
 }

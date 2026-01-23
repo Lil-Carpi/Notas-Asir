@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#SQL  ",
@@ -78,7 +78,7 @@
       }
     },
     {
-      "query": "tag:#LilCMS.JS",
+      "query": "tag:#LilCMS-JS  ",
       "color": {
         "a": 1,
         "rgb": 65280
@@ -117,5 +117,5 @@
   "linkStrength": 0.455290611028316,
   "linkDistance": 250,
   "scale": 0.15096041303355037,
-  "close": false
+  "close": true
 }

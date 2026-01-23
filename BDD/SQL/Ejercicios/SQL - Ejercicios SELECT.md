@@ -66,7 +66,7 @@ SELECT DISTINCT producto_id FROM detalle WHERE precio > 5;
 ```
 11. Mostra els noms dels productes anteriors.
 ```SQL
-SELECT nombre FROM producto WHERE id IN ( SELECT DISTINCT producto_id FROM detalle WHERE precio > 5);
+SELECT nombre FROM producto WHERE id IN (SELECT DISTINCT producto_id FROM detalle WHERE precio > 5);
 ```
 12. Mostra els noms de clients que tenen “pedidos” de tipo ‘a’.
 ```SQL

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+                "file": "BDD/SQL/Apuntes generales de SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL - Ejercicios SELECT"
+              "title": "Apuntes generales de SQL"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL - Funciones agregadas i GROUP BY"
+              "title": "SQL - Ejercicios JOIN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de SQL - Ejercicios SELECT"
+              "title": "Enlaces entrantes de SQL - Ejercicios JOIN"
             }
           },
           {
@@ -167,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de SQL - Ejercicios SELECT"
+              "title": "Enlaces salientes de SQL - Ejercicios JOIN"
             }
           },
           {
@@ -181,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de SQL - Ejercicios SELECT"
+              "title": "Esquema de SQL - Ejercicios JOIN"
             }
           }
         ],
@@ -226,11 +227,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06c089ffd32acd00",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
-    "BDD/SQL/Apuntes generales de SQL.md",
     "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+    "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
+    "BDD/SQL/Apuntes generales de SQL.md",
+    "BDD/SQL/Índice - SQL.md",
     "BDD/SQL/Tecnicismos/Tipos de datos.md",
     "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/Organizacion_Exer1.md",
     "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
@@ -257,9 +260,7 @@
     "Programación/Python/Basicos",
     "Seguridad informática/Herramientas/Operating Systems/NodeZero.md",
     "Sistemas operativos/Unix-Like/Índice - UnixLike OS.md",
-    "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
     "Imagenes/tux.png",
-    "Licencias/- Licencias.md",
     "Documentación personal/Manejo de Linux",
     "Licencias",
     "Hardware/Sin nombre",

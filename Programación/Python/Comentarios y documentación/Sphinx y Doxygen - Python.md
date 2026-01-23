@@ -17,7 +17,7 @@ pip install Sphinx
 ## Funcionamiento
 ### Sphinx
 Supongamos que tenemos la siguiente estructura:
- 
+
 
 
 ---

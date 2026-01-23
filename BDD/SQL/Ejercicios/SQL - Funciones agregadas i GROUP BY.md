@@ -27,11 +27,11 @@ SELECT SUM(kms) AS suma_kms FROM etapa;
 
 5. Mostra el preu mitjà del productes venuts (mitjana global).  
 ```SQL
-
+SELECT AVG(cantidad) AS media_vendida FROM detalle;
 ```
 6. Mostra la data més antiga de comanda.  
 ```SQL
-
+SELECT min(fecha) AS mas_antiguo FROM pedido;
 ```
 7.  Mostra la quantitat de comandes de cada tipus.  
 ```SQL

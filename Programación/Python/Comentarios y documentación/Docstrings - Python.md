@@ -16,6 +16,7 @@ Como he indicado antes, los docstrings sirven principalmente para documentación
 Describen el propósito de una función, sus argumentos y lo que devuelve.
 #### Ejemplo
 Función de suma, que suma los dos argumentos que se le pase.
+También está integrado la función mágica [[__main__ - Python |__main__]].
 
 ```python
 def suma(n1, n2):
@@ -84,6 +85,23 @@ FUNCTIONS
 
 FILE
     /home/carpi/suma.py
+
+```
+
+También es posible utilizar la función mágica [[__doc__ - Python|__doc__]] para imprimir los doctrinas de la siguiente manera:
+>[!Output print(suma.__doc__)]
+```python
+
+Funcion suma.
+Hace el calculo de suma con las variables que se le indique
+como argumento.
+
+Args:
+        n1 (int) = primer argumento
+        n2 (int) = segundo argumento
+
+        Returns:
+        Devuelve la suma de los argumentos.
 
 ```
 ---

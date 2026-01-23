@@ -58,3 +58,22 @@ SELECT director FROM equipo WHERE EXISTS (SELECT 1 FROM etapa WHERE kms > 200);
 ```
 
 
+# use empresa;  
+  
+10- Mostra codis de productes venuts per un preu superior a 5;  
+  
+11- Mostra els noms dels productes anteriors.  
+  
+12- Mostra els noms de clients que tenen “pedidos” de tipo ‘a’.  
+  
+13- Mostra totes les ciutats a on hi ha clients.  
+  
+14- Mostra els clients que tinguin informació a “observaciones”.  
+  
+15- Mostrar tots els treballadors que tenen com a superior a Jiménez. (S'ha de fer servir 'Jiménez' per a la recerca, no s'ha de fer servir l'id).  
+  
+16- Obtenir el nom del director del departament on treballa Gil.  
+  
+17- Mostra els clients ( id i nom ) que no hagin fet cap comanda mai. Ordena per l'id del client.  
+  
+18- Obtenir el número, cognom i càrrec dels empleats que siguin superior d'un altre empleat.

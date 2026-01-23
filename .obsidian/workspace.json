@@ -11,10 +11,28 @@
             "id": "06c089ffd32acd00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL - Ejercicios SELECT"
+            }
+          },
+          {
+            "id": "0dbae8127b84ac27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL - Funciones agregadas i GROUP BY"
             }
           }
         ]
@@ -49,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "join",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de SQL - Ejercicios SELECT"
             }
           },
           {
@@ -148,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/PHP/Get y Post - PHP.md",
+                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Get y Post - PHP"
+              "title": "Enlaces salientes de SQL - Ejercicios SELECT"
             }
           },
           {
@@ -162,16 +181,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de SQL - Ejercicios SELECT"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "7ac2f57f0d4937ed",
@@ -192,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,45 +226,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a21fd362c8ad7bcb",
+  "active": "a756131edcc6e184",
   "lastOpenFiles": [
-    "Sin título.canvas",
-    "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
-    "ABA ENGLISH.md",
-    "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
-    "Programación/PHP/Índice - PHP.md",
-    "Programación/PHP/Sanitización de código - PHP.md",
-    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
-    "Programación/Python/Modulos/__doc__ - Python.md",
-    "Programación/Python/Ejercicios/RA2. Pràctica 1 - Python.md",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
-    "Programación/Python/Basicos/Listas - Python.md",
-    "Programación/Python/Modulos/__init__ - Python.md",
-    "Programación/Python/Modulos/__main__ - Python.md",
-    "Programación/Python/Modulos/Funciones Magicas - Python.md",
-    "Programación/Python/Listas, tuplas y diccionarios",
-    "Programación/Python/Índice - Python.md",
-    "Programación/Python/Basicos",
     "BDD/SQL/Apuntes generales de SQL.md",
     "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
     "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+    "BDD/SQL/Tecnicismos/Tipos de datos.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/Organizacion_Exer1.md",
+    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
+    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
+    "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
+    "Programación/Python/Medios/Sentencia Match - Python.md",
+    "Programación/Python/Modulos/__doc__ - Python.md",
+    "Programación/Python/Modulos/Funciones Magicas - Python.md",
+    "Programación/Python/Modulos/__init__ - Python.md",
+    "Programación/Python/Modulos/__main__ - Python.md",
+    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
+    "Programación/Python/Ejercicios/Sin nombre",
+    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Índice - Python.md",
+    "Programación/Python/Medios",
+    "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
+    "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
+    "Programación/PHP/Índice - PHP.md",
+    "Programación/PHP/Sanitización de código - PHP.md",
+    "Sin título.canvas",
+    "ABA ENGLISH.md",
+    "Programación/Python/Z-Examenes/RA2. Pràctica 1 - Python.md",
+    "Programación/Python/Listas, tuplas y diccionarios",
+    "Programación/Python/Basicos",
     "Seguridad informática/Herramientas/Operating Systems/NodeZero.md",
     "Sistemas operativos/Unix-Like/Índice - UnixLike OS.md",
     "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
     "Imagenes/tux.png",
     "Licencias/- Licencias.md",
-    "Licencias/Índice - Licencias.md",
-    "Sistemas operativos/Índice - Sistemas operativos.md",
     "Documentación personal/Manejo de Linux",
-    "Hardware - M5/Licencias.md",
     "Licencias",
     "Hardware/Sin nombre",
     "Sistemas operativos/Unix-Like/FreeBSD/Sin nombre",
     "Sistemas operativos/MS-DOS/MS-DOS",
     "Sistemas operativos/Unix-Like/OpenBSD",
-    "Sistemas operativos/Unix-Like/Solaris",
-    "Sistemas operativos/Unix-Like/FreeBSD",
     "Imagenes/ñu.webp",
     "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",

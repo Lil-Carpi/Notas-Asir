@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Python/Basicos/Bucles FOR - Python.md",
-                "mode": "preview",
+                "file": "Programación/PHP/Basicos/Variables y strings - PHP.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bucles FOR - Python"
+              "title": "Variables y strings - PHP"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 331.5,
+    "collapsed": true
   },
   "right": {
     "id": "519d5773673c1040",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación/Python/Basicos/Bucles FOR - Python.md",
+                "file": "Programación/PHP/Basicos/Variables y strings - PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bucles FOR - Python"
+              "title": "Enlaces entrantes de Variables y strings - PHP"
             }
           },
           {
@@ -180,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 609.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +197,16 @@
   },
   "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "Sin título.canvas",
+    "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
+    "Programación/PHP/Basicos/Variables y strings - PHP.md",
+    "Programación/PHP/Medios",
+    "Programación/PHP/Basicos",
+    "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
+    "Programación/PHP/Sanitización de código - PHP.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Inyección SQL.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Cross-Site Scripting (XSS).md",
     "Programación/Python/Basicos/Bucles FOR - Python.md",
+    "Sin título.canvas",
     "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
     "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
     "Programación/Python/Medios/Sentencia Match - Python.md",
@@ -217,11 +226,6 @@
     "BDD/SQL/Tecnicismos/Lenguaje de definición de datos (DDL).md",
     "BDD/SQL/Tecnicismos/Lenguaje de Manupulación de Datos (DML).md",
     "BDD/SQL/Tecnicismos/Disparadores.md",
-    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
-    "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
-    "BDD/SQL/Índice - SQL.md",
-    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/Organizacion_Exer1.md",
-    "Programación/Python/Modulos/__doc__ - Python.md",
     "Programación/Python/Ejercicios/Sin nombre",
     "Programación/Python/Medios",
     "Programación/Python/Listas, tuplas y diccionarios",
@@ -231,8 +235,6 @@
     "Licencias",
     "Hardware/Sin nombre",
     "Sistemas operativos/Unix-Like/FreeBSD/Sin nombre",
-    "Sistemas operativos/MS-DOS/MS-DOS",
-    "Sistemas operativos/Unix-Like/OpenBSD",
     "Imagenes/ñu.webp",
     "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",

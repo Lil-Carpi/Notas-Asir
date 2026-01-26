@@ -16,6 +16,18 @@ Python es un lenguaje de alto nivel muy versatil y potente, utilizado actualment
 ## Documentos hijos:
 - [[Docstrings - Python]]
 - [[Tipos de notaciones - Python]]
+- [[__doc__ - Python]]
+- [[__init__ - Python]]
+- [[__main__ - Python]]
+- [[Bucles FOR - Python]]
+- [[Bucles WHILE - Python]]
+- [[Funciones Magicas - Python]]
+- [[Listas, diccionarios y tuplas - Python]]
+- [[Manipulacion avanzada de listas, diccionarios y tuplas - Python]]
+- [[Sentencia IF, ELIF y ELSE - Python]]
+- [[Sentencia Match - Python]]
+- [[Sphinx y Doxygen - Python]]
+- [[Tipos de notaciones - Python]]
 
 #### Ejercicios:
 - [[RA2. Pràctica 1 - Python]]

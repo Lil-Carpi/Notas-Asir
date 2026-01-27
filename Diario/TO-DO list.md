@@ -1,0 +1,6 @@
+- Estudiar Python
+- Avanzar JS
+- Hacer SQL
+- Avanzar LilCMS
+- Estudiar PHP
+- 

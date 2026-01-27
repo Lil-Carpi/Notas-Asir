@@ -35,7 +35,7 @@ SELECT min(fecha) AS mas_antiguo FROM pedido;
 ```
 7.  Mostra la quantitat de comandes de cada tipus.  
 ```SQL
-
+SELECT tipo,COUNT(*) AS total FROM pedido GROUP BY tipo;
 ```
 8. Mostra el preu mitjà de cada producte (mitjana per producte).  
 ```SQL

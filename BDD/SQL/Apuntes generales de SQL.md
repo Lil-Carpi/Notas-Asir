@@ -267,11 +267,6 @@ SELECT * FROM users LIMIT 2;
 > Nota: Se pueden cambiar por la cantidad de líneas que queramos ver.
 
 ---
-
-
-
-
----
 ## Joins (Relacionar tablas, conocido como Llaves Foraneas)
 
 Tengo una tabla, la cual es:

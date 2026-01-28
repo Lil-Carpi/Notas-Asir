@@ -21,7 +21,14 @@ SELECT max(kms) AS maxim, min(kms) AS minim FROM etapa;
 ```SQL
 SELECT SUM(kms) AS suma_kms FROM etapa;
 ```
-
+5. Mostra l'alçada màxima i mínima dels ports per cada categoria.  
+```SQL
+SELECT categoria, MAX(altura) AS alçada_maxima, MIN(altura) AS alçada_minima FROM puerto GROUP BY categoria;
+```
+6. Mostra l'alçada màxima i mínima dels ports per cada categoria si hi ha més de 15 ports a la categoria.
+```SQL
+SELECT categoria, MAX(altura) AS alçada_maxima, MIN(altura) AS alçada_minima FROM puerto GROUP BY categoria HAVING COUNT(*) > 15;
+```
 ---
 ## USE empresa;
 
@@ -39,21 +46,13 @@ SELECT tipo,COUNT(*) AS total FROM pedido GROUP BY tipo;
 ```
 8. Mostra el preu mitjà de cada producte (mitjana per producte).  
 ```SQL
-
+SELECT AVG(total) AS media FROM pedido;
 ```
 9.  Mostra la data més antiga de comanda per cada tipus.  
 ```SQL
-
+SELECT min(fecha) AS fecha_antigua, COUNT(*) FROM pedido GROUP BY tipo;
 ```
 10. Mostra la quantitat venuda de cada producte i la mitjana de preu, només dels productes que surtin a menys de 5 comandes.  
 ```SQL
-
-```
-11. Mostra l'alçada màxima i mínima dels ports per cada categoria.  
-```SQL
-
-```
-12. Mostra l'alçada màxima i mínima dels ports per cada categoria si hi ha més de 15 ports a la categoria.
-```SQL
-
+SELECT P.nombre AS Producte, SUM(D.cantidad) AS Total_Unitats_Venudes, AVG(D.precio) AS Preu_mitja FROM producto P JOIN detalle D ON P.id = D.producto_id GROUP BY P.id, P.nombre HAVING COUNT(D.pedido_id) <5
 ```

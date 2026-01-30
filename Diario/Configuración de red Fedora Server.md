@@ -15,7 +15,7 @@ Configuración de los DNS:
 sudo nmcli connection modify <interfaz de red> ipv4.dns "<ipv4 separado por espacios>"
 ```
 >[!attention]
->Es recomendable poner 2 direcciones DNS, por ejemplo la de Cloudflare <1.1.1.1> y la de Google <8.8.8.8>
+>Es recomendable poner 2 direcciones DNS, por ejemplo la de Cloudflare <1.1.1.1> y la de Google <8.8.8.8>, por temas de disponibilidad.
 
 Cambio a método manual para que no busque DHCP:
 ```shell

@@ -8,48 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9857a4be2d9e5ee6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
             "id": "0810b328af866380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/Configuración de red Fedora Server.md",
+                "file": "Diario/Securización de servidor - Fedora Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuración de red Fedora Server"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "91a90b9dcfa0b778",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0855b8da37a64669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL - Funciones agregadas i GROUP BY"
+              "title": "Securización de servidor - Fedora Server"
             }
           }
         ]
@@ -225,14 +194,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0810b328af866380",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "Diario/Interoperabilidad - Correos electronicos y Bases de datos.md",
-    "Diario/Configuración de red Fedora Server.md",
+    "Diario/SELinux.md",
+    "Diario/Securización de servidor - Fedora Server.md",
     "Diario/Como crear una snapshot de un sistema operativo completo (de un windows en un nvme).md",
     "Diario/Clase 4 de diciembre.md",
-    "Diario/Como funciona la base de datos de los correos electronicos - Bases de datos y correos electronicos.md",
+    "Diario/Configuración de red Fedora Server.md",
+    "Diario/Interoperabilidad - Correos electronicos y Bases de datos.md",
     "Diario/Serializacion - Correos electronicos y Bases de datos.md",
+    "Diario/Como funciona la base de datos de los correos electronicos - Bases de datos y correos electronicos.md",
     "Diario/TO-DO list.md",
     "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
     "BDD/SQL/Tecnicismos/Tipos de datos.md",
@@ -251,8 +222,6 @@
     "BDD/SQL/Apuntes generales de SQL.md",
     "BDD/SQL/Índice - SQL.md",
     "Seguridad informática/Teoria/Explicaciones Generales/Cracker.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Cópia de Seguridad.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Clúster.md",
     "Sin título.base",
     "Seguridad informática/Recursos/1_Imagenes/General/cpts.webp",
     "Programación/PHP/Medios",

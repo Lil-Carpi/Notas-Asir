@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/Configuración de red Fedora Server.md",
+                "file": "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuración de red Fedora Server"
+              "title": "Listas, diccionarios y tuplas - Python"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/Configuración de red Fedora Server.md",
+                "file": "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Configuración de red Fedora Server"
+              "title": "Esquema de Listas, diccionarios y tuplas - Python"
             }
           }
         ],
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,18 +194,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "9857a4be2d9e5ee6",
   "lastOpenFiles": [
-    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+    "Programación/Python/Basicos/Bucles WHILE - Python.md",
+    "Programación/Python/Basicos/Bucles FOR - Python.md",
+    "Diario/Clase 4 de diciembre.md",
+    "Diario/Como crear una snapshot de un sistema operativo completo (de un windows en un nvme).md",
+    "Diario/TO-DO list.md",
     "Diario/Configuración de red Fedora Server.md",
+    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
     "BDD/SQL/Apuntes generales de SQL.md",
     "BDD/SQL/Índice - SQL.md",
     "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
     "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
-    "Diario/TO-DO list.md",
-    "Diario/Clase 4 de diciembre.md",
-    "Programación/Python/Basicos/Bucles WHILE - Python.md",
-    "Programación/Python/Basicos/Bucles FOR - Python.md",
     "Seguridad informática/Teoria/Explicaciones Generales/Cracker.md",
     "Seguridad informática/Teoria/Explicaciones Generales/Cópia de Seguridad.md",
     "Seguridad informática/Teoria/Explicaciones Generales/Clúster.md",
@@ -226,7 +227,6 @@
     "Programación/Python/Medios/Sentencia Match - Python.md",
     "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
     "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
-    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
     "Programación/Python/Ejercicios/Sin nombre",
     "Programación/Python/Medios",
     "Programación/Python/Listas, tuplas y diccionarios",

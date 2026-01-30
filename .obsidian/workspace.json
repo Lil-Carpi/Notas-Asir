@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 884.5
   },
   "right": {
     "id": "519d5773673c1040",
@@ -196,8 +196,16 @@
   },
   "active": "9857a4be2d9e5ee6",
   "lastOpenFiles": [
+    "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Medios/Manipulacion de listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
+    "Programación/Python/Medios/Sentencia Match - Python.md",
+    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
     "Programación/Python/Basicos/Bucles WHILE - Python.md",
     "Programación/Python/Basicos/Bucles FOR - Python.md",
+    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
+    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
+    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
     "Diario/Clase 4 de diciembre.md",
     "Diario/Como crear una snapshot de un sistema operativo completo (de un windows en un nvme).md",
     "Diario/TO-DO list.md",
@@ -218,15 +226,7 @@
     "Programación/PHP/Medios",
     "Programación/PHP/Basicos",
     "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
-    "Programación/PHP/Sanitización de código - PHP.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Inyección SQL.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Cross-Site Scripting (XSS).md",
     "Sin título.canvas",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
-    "Programación/Python/Medios/Sentencia Match - Python.md",
-    "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
     "Programación/Python/Ejercicios/Sin nombre",
     "Programación/Python/Medios",
     "Programación/Python/Listas, tuplas y diccionarios",

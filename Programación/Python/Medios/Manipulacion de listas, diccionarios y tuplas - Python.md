@@ -2,5 +2,4 @@
 Proveniente de [[Índice - Python]]
 
 ---
-## Listas
-Las listas son 
+*Léase antes [[Listas, diccionarios y tuplas - Python]]*

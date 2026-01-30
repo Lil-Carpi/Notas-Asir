@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/Securización de servidor - Fedora Server.md",
+                "file": "Documentación personal/Proyectos/LilCMS/LilCMS - Django, NGINX, MariaDB y JSVanilla-HTML-CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Securización de servidor - Fedora Server"
+              "title": "LilCMS - Django, NGINX, MariaDB y JSVanilla-HTML-CSS"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 675.4999961853027
   },
   "right": {
     "id": "519d5773673c1040",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 614.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +194,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "0810b328af866380",
   "lastOpenFiles": [
-    "Diario/SELinux.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas técnicas de versión.md",
+    "Documentación personal/Proyectos/LilCMS/LilCMS - Django, NGINX, MariaDB y JSVanilla-HTML-CSS.md",
+    "Documentación personal/Proyectos/LilCMS",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Producción/v0.0.1/LilCMS.JS - v0.0.1 - Notas de versión.md",
+    "Documentación personal/Proyectos/LilCMS/JS_Version/Conceptos/LilCMS.JS - Concepto.md",
+    "Diario/Stack para proyecto LilCMS.md",
+    "Diario/Opciones para servidor antiguo multimax.md",
     "Diario/Securización de servidor - Fedora Server.md",
+    "Diario/SELinux.md",
     "Diario/Como crear una snapshot de un sistema operativo completo (de un windows en un nvme).md",
     "Diario/Clase 4 de diciembre.md",
     "Diario/Configuración de red Fedora Server.md",
@@ -216,12 +223,6 @@
     "Programación/Python/Medios/Sentencia Match - Python.md",
     "Programación/Python/Basicos/Bucles WHILE - Python.md",
     "Programación/Python/Basicos/Bucles FOR - Python.md",
-    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
-    "BDD/SQL/Apuntes generales de SQL.md",
-    "BDD/SQL/Índice - SQL.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Cracker.md",
     "Sin título.base",
     "Seguridad informática/Recursos/1_Imagenes/General/cpts.webp",
     "Programación/PHP/Medios",
@@ -234,7 +235,6 @@
     "Imagenes/tux.png",
     "Documentación personal/Manejo de Linux",
     "Licencias",
-    "Hardware/Sin nombre",
     "Imagenes/ñu.webp",
     "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",

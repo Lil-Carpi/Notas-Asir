@@ -1,11 +1,14 @@
 Antes de la instalación de cualquier software, se ha de sanear algunas cosas:
 
+---
 ### Usuario ROOT desactivado
 El usuario Root debe venir desactivado por defecto. Esto se hace en la propia instalación dentro de la anaconda.
 
+---
 #### Usuario administrador en el grupo `wheel`
 El usuario administrador debe estar en el grupo `wheel` para ejecutar lo necesario sin recurrir a Root.
 
+---
 #### Firewalld activo
 Firewalld debe estar activo siempre. Se comprueba con:
 ```shell
@@ -25,6 +28,7 @@ En caso de añadir algún servicio
 sudo firewall-cmd --add-port=XXXX/tcp --permanent
 ```
 
+---
 #### Desactivar login de Root por SSH y usar claves públicas para SSH
 Se ha de desactivar la línea de login de root en `/etc/ssh/sshd_config`:
 ```ini
@@ -43,6 +47,7 @@ En el cliente:
 ssh-copy-id usuario@ip
 ```
 
+---
 #### SELinux
 Mantener siempre activo y en ENFORCING (verificar con `getenforce`). Tener siempre los puertos correctos abiertos y en los contextos correctos.
 Ejemplo de exposición de alguna web:
@@ -50,6 +55,7 @@ Ejemplo de exposición de alguna web:
 sudo semanage port -a -t http_port_t -p tcp 8080
 ```
 
+---
 #### sysctl.d
 Crear el fichero `/etc/sysctl.d/99-hardening.conf`:
 Añadir
@@ -64,3 +70,10 @@ Aplicar cambios con:
 ```shell
 sudo sysctl --system
 ```
+
+---
+## Configuracion de red
+![[Configuración de red Fedora Server]]
+
+---
+Antes de sacar el server a internet, es MUY importante haber configurado el libpam.google.authenticator y el Fail2Ban.

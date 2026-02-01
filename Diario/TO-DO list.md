@@ -3,4 +3,4 @@
 - Hacer SQL
 - Avanzar LilCMS
 - Estudiar PHP
-- 
+- Rellenar todo lo que esté #SinRedactar 

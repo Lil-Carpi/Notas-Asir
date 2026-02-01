@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
+                "file": "Seguridad informática/Herramientas/Software/NESSUS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuración de red - Fedora Server"
-            }
-          },
-          {
-            "id": "ba01ddcfb8355ac0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "NESSUS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SinRedactar  ",
+                "query": "tag:#SinRedactar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,8 +194,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ba01ddcfb8355ac0",
+  "active": "0810b328af866380",
   "lastOpenFiles": [
+    "Seguridad informática/Herramientas/Software/lynis - Auditorias.md",
+    "Diario/TO-DO list.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
     "Teoria/Interoperabilidad - Correos electronicos y Bases de datos.md",
     "Teoria/Como funciona la base de datos de los correos electronicos - Bases de datos y correos electronicos.md",
     "Sistemas operativos/Índice - Sistemas operativos.md",
@@ -221,7 +213,6 @@
     "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
     "Sistemas operativos/MS-DOS/Índice - MS-DOS.md",
     "Sistemas operativos/MS-DOS/MS-DOS/Batch scripting - MS-DOS.md",
     "Seguridad informática/Teoria/Vulnerabilidades/Serializacion - Correos electronicos y Bases de datos.md",
@@ -231,8 +222,6 @@
     "Seguridad informática/Teoria/Tipos de ataque/Sniffing.md",
     "Seguridad informática/Teoria/Tipos de ataque/Ransomware.md",
     "Seguridad informática/Teoria/Tipos de ataque/Phishing.md",
-    "Seguridad informática/Teoria/Tipos de ataque/MITM ATTACK.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Keylogger.md",
     "Seguridad informática/Teoria/Vulnerabilidades",
     "Documentación personal/Proyectos/Infraestructura",
     "Teoria",

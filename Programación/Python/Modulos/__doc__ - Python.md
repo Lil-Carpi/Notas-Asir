@@ -21,8 +21,7 @@ def suma(n1, n2):
 		Returns:
 	        Devuelve la suma de los argumentos.
         """
-    suma = n1 + n2
-    print(f"Resultado: {suma}")
+    return n1 + n2
 
 
 if __name__ == "__main__":

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seguridad informática/Herramientas/Software/NESSUS.md",
+                "file": "Programación/Python/Modulos/__init__ - Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NESSUS"
+              "title": "__init__ - Python"
+            }
+          },
+          {
+            "id": "82296af556b91f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programación/Python/Medios/Sentencia Match - Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sentencia Match - Python"
             }
           }
         ]
@@ -180,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 670.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,34 +208,35 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0810b328af866380",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
+    "Programación/Python/Medios/Sentencia Match - Python.md",
+    "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
+    "Programación/Python/Modulos/__doc__ - Python.md",
+    "Programación/Python/Modulos/__init__ - Python.md",
+    "Programación/Python/Modulos/__main__ - Python.md",
+    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
+    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
+    "Teoria/Interoperabilidad - Correos electronicos y Bases de datos.md",
+    "Teoria/Como funciona la base de datos de los correos electronicos - Bases de datos y correos electronicos.md",
+    "Teoria/Linux/Kernel Linux.md",
+    "Teoria/Linux",
+    "Teoria/Linux/Kernel.md",
+    "Sistemas operativos/Índice - Sistemas operativos.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de cibersec/Distros de cibersec - GNULinux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Terminal - GNULinux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de cibersec",
+    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
+    "Programación/Python/Medios/Clases - Python.md",
+    "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Medios/Manipulacion de listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Modulos/Funciones Magicas - Python.md",
+    "Seguridad informática/Herramientas/Operating Systems/Kali.md",
+    "Seguridad informática/Herramientas/Software/NESSUS.md",
     "Seguridad informática/Herramientas/Software/lynis - Auditorias.md",
     "Diario/TO-DO list.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
-    "Teoria/Interoperabilidad - Correos electronicos y Bases de datos.md",
-    "Teoria/Como funciona la base de datos de los correos electronicos - Bases de datos y correos electronicos.md",
-    "Sistemas operativos/Índice - Sistemas operativos.md",
-    "Sistemas operativos/Unix-Like/Índice - UnixLike OS.md",
-    "Sistemas operativos/Unix-Like/Solaris/Índice - Solaris.md",
-    "Sistemas operativos/Unix-Like/OpenBSD/Índice - OpenBSD.md",
-    "Sistemas operativos/Unix-Like/Minix/Índice - Minix.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Terminal - GNULinux.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
-    "Sistemas operativos/Unix-Like/GNUHurd/Índice - GNUHurd.md",
-    "Sistemas operativos/Unix-Like/FreeBSD/Índice - FreeBSD.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
-    "Sistemas operativos/MS-DOS/Índice - MS-DOS.md",
-    "Sistemas operativos/MS-DOS/MS-DOS/Batch scripting - MS-DOS.md",
-    "Seguridad informática/Teoria/Vulnerabilidades/Serializacion - Correos electronicos y Bases de datos.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Virus informatico.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Troyano (Caballo de Troya).md",
-    "Seguridad informática/Teoria/Tipos de ataque/Spyware.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Sniffing.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Ransomware.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Phishing.md",
     "Seguridad informática/Teoria/Vulnerabilidades",
     "Documentación personal/Proyectos/Infraestructura",
     "Teoria",
@@ -231,8 +246,6 @@
     "Documentación personal/Proyectos/LilCMS",
     "Sin título.base",
     "Seguridad informática/Recursos/1_Imagenes/General/cpts.webp",
-    "Programación/PHP/Medios",
-    "Programación/PHP/Basicos",
     "Sin título.canvas",
     "Imagenes/tux.png",
     "Imagenes/ñu.webp",

@@ -1,6 +1,6 @@
 #Python Programación Python
 Proveniente de [[Índice - Python]]
-
+#SinRedactar 
 ---
 Spynx y Doxygen son módulos de Python, C, C++ y C# para crear documentación a partir de los [[Docstrings - Python|docstrings]] del código.
 
@@ -44,5 +44,3 @@ html_theme = 'shibuya'
 
 Doxygen:
 - [Doxygen documentation](https://www.doxygen.nl/manual/changelog.html)
-
-#SinRedactar 

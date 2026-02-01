@@ -1,5 +1,0 @@
-```shell
-getenforce
-```
->[!Output]
->Enforced

@@ -11,13 +11,28 @@
             "id": "0810b328af866380",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuración de red - Fedora Server"
+            }
+          },
+          {
+            "id": "ba01ddcfb8355ac0",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#SinRedactar  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 614.5
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,47 +205,47 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0810b328af866380",
+  "active": "ba01ddcfb8355ac0",
   "lastOpenFiles": [
-    "Programación/HTML y CSS/CSS/Índice - CSS.md",
-    "Seguridad informática/Herramientas/Hardware/Rubber Ducky.md",
-    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Confort.md",
-    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Enfocate.md",
-    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Manejar la frustración.md",
-    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Preguntar.md",
-    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Organizacion.md",
-    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Atencion.md",
-    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/5_Introduccion a aplicaciones Web.md",
-    "Programación/Python/Basicos/Bucles FOR - Python.md",
-    "Programación/Python/Basicos/Bucles WHILE - Python.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Funciones puras.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Arrays asociativos.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Extra.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Trampas (traps).md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Subshells.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Señales.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Seguridad en scripts.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Procesos hijos y paralelismo.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Patrones de diseño en Bash.md",
-    "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Expansión de parámetros.md",
-    "Diario/SELinux.md",
-    "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
+    "Teoria/Interoperabilidad - Correos electronicos y Bases de datos.md",
+    "Teoria/Como funciona la base de datos de los correos electronicos - Bases de datos y correos electronicos.md",
+    "Sistemas operativos/Índice - Sistemas operativos.md",
+    "Sistemas operativos/Unix-Like/Índice - UnixLike OS.md",
+    "Sistemas operativos/Unix-Like/Solaris/Índice - Solaris.md",
+    "Sistemas operativos/Unix-Like/OpenBSD/Índice - OpenBSD.md",
+    "Sistemas operativos/Unix-Like/Minix/Índice - Minix.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Terminal - GNULinux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
+    "Sistemas operativos/Unix-Like/GNUHurd/Índice - GNUHurd.md",
+    "Sistemas operativos/Unix-Like/FreeBSD/Índice - FreeBSD.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
+    "Sistemas operativos/MS-DOS/Índice - MS-DOS.md",
+    "Sistemas operativos/MS-DOS/MS-DOS/Batch scripting - MS-DOS.md",
+    "Seguridad informática/Teoria/Vulnerabilidades/Serializacion - Correos electronicos y Bases de datos.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Virus informatico.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Troyano (Caballo de Troya).md",
+    "Seguridad informática/Teoria/Tipos de ataque/Spyware.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Sniffing.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Ransomware.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Phishing.md",
+    "Seguridad informática/Teoria/Tipos de ataque/MITM ATTACK.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Keylogger.md",
+    "Seguridad informática/Teoria/Vulnerabilidades",
+    "Documentación personal/Proyectos/Infraestructura",
+    "Teoria",
+    "Documentación personal/Mecanica de Unix/6. Gestión de discos y backups",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores",
+    "Sistemas operativos/Servidores",
     "Documentación personal/Proyectos/LilCMS",
     "Sin título.base",
     "Seguridad informática/Recursos/1_Imagenes/General/cpts.webp",
     "Programación/PHP/Medios",
     "Programación/PHP/Basicos",
     "Sin título.canvas",
-    "Programación/Python/Ejercicios/Sin nombre",
-    "Programación/Python/Medios",
-    "Programación/Python/Listas, tuplas y diccionarios",
-    "Programación/Python/Basicos",
     "Imagenes/tux.png",
-    "Documentación personal/Manejo de Linux",
-    "Licencias",
     "Imagenes/ñu.webp",
     "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",

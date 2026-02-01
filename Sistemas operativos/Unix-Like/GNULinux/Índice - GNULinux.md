@@ -11,4 +11,5 @@ A pesar de que al sistema operativo en sí se le llame solo *Linux*, este es sol
 
 ---
 ## Documentos hijos:
-- 
+
+#SinRedactar 

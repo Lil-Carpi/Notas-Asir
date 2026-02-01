@@ -2,3 +2,4 @@
 Documento padre
 ---
 [[Patch Tuesdays (Evento de actualizaciones periodicas)]]
+#SinRedactar 

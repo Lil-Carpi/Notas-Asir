@@ -1,3 +1,8 @@
+#FedoraServer \ #Fedora - Fedora Server
+Proveniente de [[Índice - Fedora Server]]
+
+---
+
 Se utiliza `nmcli` para configurar la red.
 
 Configuración de IP estática: 

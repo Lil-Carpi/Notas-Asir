@@ -1,1 +1,2 @@
 Kali linux es la distribucion mas famosa despues de [[Parrot Security OS]]. Esta enfocada a investigadores de [[Ciberseguridad]] y [[Pentester|Pentesting]]. Dispone de una basta libreria preinstalada.
+#SinRedactar 

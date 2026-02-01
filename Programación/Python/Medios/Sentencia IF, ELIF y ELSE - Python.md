@@ -2,3 +2,4 @@
 Proveniente de [[Índice - Python]]
 
 ---
+#SinRedactar 

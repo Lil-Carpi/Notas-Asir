@@ -1,3 +1,4 @@
+#SinRedactar 
 Las cosas que puedo hacer con multimax son las siguentes:
 Servidor de staging o pruebas
 backup server / cold standby

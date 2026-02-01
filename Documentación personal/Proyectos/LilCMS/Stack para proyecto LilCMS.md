@@ -1,3 +1,4 @@
+#SinRedactar 
 Django: Backend
 MariaDB: BD
 Nginx: Reverse Proxy

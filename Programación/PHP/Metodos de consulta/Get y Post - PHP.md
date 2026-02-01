@@ -28,3 +28,5 @@ También, podemos editar el método de envío por los botones con `formmethod`:
 </form>
 
 ```
+
+#SinRedactar 

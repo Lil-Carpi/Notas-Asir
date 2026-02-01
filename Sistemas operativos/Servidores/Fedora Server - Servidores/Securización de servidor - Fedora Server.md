@@ -1,3 +1,8 @@
+#FedoraServer \ #Fedora - Fedora Server
+Proveniente de [[Índice - Fedora Server]]
+
+---
+
 Antes de la instalación de cualquier software, se ha de sanear algunas cosas:
 
 ---
@@ -73,7 +78,7 @@ sudo sysctl --system
 
 ---
 ## Configuracion de red
-![[Configuración de red Fedora Server]]
+![[Configuración de red - Fedora Server]]
 
 ---
 Antes de sacar el server a internet, es MUY importante haber configurado el libpam.google.authenticator y el Fail2Ban.

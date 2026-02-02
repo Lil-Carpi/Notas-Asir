@@ -24,7 +24,7 @@ sudo nmcli connection modify <interfaz de red> ipv4.dns "<ipv4 separado por espa
 
 Cambio a método manual para que no busque DHCP:
 ```shell
-sudo nmcli connection modify <interfaz de red> ipv4.methdo manual
+sudo nmcli connection modify <interfaz de red> ipv4.method manual
 ```
 
 Activar la red que acabamos de configurar:

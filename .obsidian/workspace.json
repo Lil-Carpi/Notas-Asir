@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL - Funciones agregadas i GROUP BY"
+              "title": "Securización de servidor - Fedora Server"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "right": {
     "id": "519d5773673c1040",
@@ -197,9 +196,15 @@
   },
   "active": "c08e4580a93f39fe",
   "lastOpenFiles": [
-    "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
-    "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
+    "BDD/SQL/Apuntes generales de SQL.md",
     "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+    "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+    "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
+    "BDD/SQL/Ejercicios/SQL - Ejercicios.md",
     "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
     "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
     "Programación/PHP/Índice - PHP.md",
@@ -217,13 +222,7 @@
     "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
     "Programación/Python/Medios/try, except - Python.md",
     "Programación/Python/Modulos/__doc__ - Python.md",
-    "Programación/Python/Modulos/__init__ - Python.md",
-    "Programación/Python/Modulos/__main__ - Python.md",
-    "Programación/Python/Modulos/Funciones Magicas - Python.md",
-    "Programación/Python/Librerias/DJANGO - Python.md",
     "Programación/Python/Librerias",
-    "Programación/Python/Índice - Python.md",
-    "Diario/Configuración de red Fedora Server.md",
     "Teoria/Linux",
     "Teoria",
     "Sistemas operativos/Unix-Like/GNULinux/Distros de cibersec",

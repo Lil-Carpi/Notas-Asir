@@ -12,10 +12,10 @@
     "bash",
     "Bash",
     "Git",
+    "multiselección",
     "regex",
     "subshells",
-    "trigger",
-    "multiselección"
+    "trigger"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],

@@ -3,7 +3,7 @@ Proveniente de [[Índice - Python]]
 
 ---
 
-El Dunder `__init__` es un caso especial, porque no solo nos sirve como método, sino también como fichero. En su formato fichero, este indica a Python que el directorio en donde se encuentra es un paquete.
+El Dunder `__init__` es un caso especial, porque no solo nos sirve como método, sino también como fichero. En su formato fichero, este indica a Python que el directorio en donde se encuentra es un paquete. Está directamente relacionado con [[Clases - Python]].
 
 ---
 ## Método `__init__`
@@ -53,5 +53,5 @@ mi_proyecto/
      ├── calculos.py 
      └── fechas.py
 ```
-Gracias al init, en `main.py` ahora podemos hacer `from utilidades import calculos`
+Gracias al init, en `main.py` ahora podemos hacer `from utilidades import calculos`.
 

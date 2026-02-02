@@ -29,4 +29,10 @@ También, podemos editar el método de envío por los botones con `formmethod`:
 
 ```
 
-#SinRedactar 
+---
+Para verificar que tipo envío que se le pase, en el fichero PHP se ha de hacer:
+```php
+<?php
+	$type = $_SERVER['REQUEST_METHOD'];
+?>
+```

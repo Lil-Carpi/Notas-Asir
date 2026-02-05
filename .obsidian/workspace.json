@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
+                "file": "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SELinux - Fedora Server"
+              "title": "Listas, diccionarios y tuplas - Python"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control de acceso obligatorio.md",
+                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control de acceso obligatorio"
+              "title": "SELinux - Fedora Server"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+                "file": "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de SQL - Funciones agregadas i GROUP BY"
+              "title": "Enlaces entrantes de Listas, diccionarios y tuplas - Python"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
+                "file": "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de SQL - Ejercicios JOIN"
+              "title": "Enlaces salientes de Listas, diccionarios y tuplas - Python"
             }
           },
           {
@@ -208,37 +208,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c08e4580a93f39fe",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "Control de acceso obligatorio.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
-    "Políticas de control de acceso.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
+    "Control de Acceso Obligatorio (OCS).md",
+    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Basicos/Bucles WHILE - Python.md",
+    "Programación/Python/Basicos/Bucles FOR - Python.md",
+    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
+    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
+    "Programación/Python/Medios/Clases - Python.md",
+    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
+    "Programación/Python/Librerias/DJANGO - Python.md",
+    "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Medios/Manipulacion de listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
+    "Programación/Python/Medios/try, except - Python.md",
+    "Programación/Python/Modulos/__main__ - Python.md",
+    "Programación/Python/Modulos/__doc__ - Python.md",
+    "Programación/Python/Modulos/__init__ - Python.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros cientificos/OpenSUSE Linux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros cientificos/Scientific Linux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros cientificos",
+    "Teoria/Linux/Kernel Linux.md",
+    "Políticas de control de acceso.md",
     "Imagenes/tux.png",
     "C - Índice.md",
     "Imagenes/SELinux.svg",
     "Imagenes/SELinux_logo.svg",
     "BDD/SQL/Apuntes generales de SQL.md",
-    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
-    "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
-    "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
-    "BDD/SQL/Ejercicios/SQL - Ejercicios.md",
-    "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
-    "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
-    "Programación/PHP/Índice - PHP.md",
-    "Programación/PHP/Basicos/Variables y strings - PHP.md",
-    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Medios/Sentencia Match - Python.md",
-    "Programación/Python/Basicos/Bucles FOR - Python.md",
-    "Programación/Python/Basicos/Bucles WHILE - Python.md",
-    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
-    "Programación/Python/Medios/Clases - Python.md",
-    "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Medios/Manipulacion de listas, diccionarios y tuplas - Python.md",
     "Programación/Python/Librerias",
     "Teoria/Linux",
     "Teoria",
@@ -249,7 +250,6 @@
     "Documentación personal/Mecanica de Unix/6. Gestión de discos y backups",
     "Sin título.base",
     "Seguridad informática/Recursos/1_Imagenes/General/cpts.webp",
-    "Programación/PHP/Medios",
     "Sin título.canvas",
     "Imagenes/ñu.webp",
     "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
+                "file": "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Listas, diccionarios y tuplas - Python"
+              "title": "Docstrings - Python"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "SELinux - Fedora Server"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,15 +209,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "463789409f1505e1",
   "lastOpenFiles": [
+    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
+    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
     "Control de Acceso Obligatorio (OCS).md",
-    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
     "Programación/Python/Basicos/Bucles WHILE - Python.md",
     "Programación/Python/Basicos/Bucles FOR - Python.md",
     "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
     "Programación/Python/Medios/Clases - Python.md",
     "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
     "Programación/Python/Librerias/DJANGO - Python.md",

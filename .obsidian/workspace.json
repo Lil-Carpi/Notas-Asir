@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
+                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SELinux - Fedora Server"
+              "title": "Securización de servidor - Fedora Server"
             }
           }
         ],
@@ -211,12 +211,15 @@
   },
   "active": "463789409f1505e1",
   "lastOpenFiles": [
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de firewalld - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de SELinux - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
+    "CentOS.md",
+    "Red Hat.md",
+    "Fedora.md",
     "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Sin nombre",
     "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
@@ -235,10 +238,7 @@
     "Programación/Python/Modulos/__doc__ - Python.md",
     "Programación/Python/Modulos/__init__ - Python.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros cientificos/OpenSUSE Linux.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Distros cientificos/Scientific Linux.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros cientificos",
-    "Teoria/Linux/Kernel Linux.md",
-    "Políticas de control de acceso.md",
     "Imagenes/tux.png",
     "Imagenes/SELinux.svg",
     "Imagenes/SELinux_logo.svg",

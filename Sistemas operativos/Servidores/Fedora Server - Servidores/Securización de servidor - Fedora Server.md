@@ -82,3 +82,8 @@ sudo sysctl --system
 
 ---
 Antes de sacar el server a internet, es MUY importante haber configurado el libpam.google.authenticator y el Fail2Ban.
+
+
+Por lo general, se utilizan las siguientes guias:
+![[SELinux - Fedora Server]]
+![[Activacion de puertos de firewalld - Fedora Server]]

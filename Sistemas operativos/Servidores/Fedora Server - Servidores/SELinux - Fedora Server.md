@@ -9,5 +9,8 @@ SELinux es un sistema de segurización incluido en el paquete de seguridad para 
 
 Está disponible en las distribuciones de [[Fedora]], [[Red Hat]], [[CentOS]] y [[Scientific Linux]] y en Android. En estas distribuciones, está activo por defecto.
 
+Se puede configurar SELinux mediante la consola web [[Cockpit - Fedora Server|Cockpit]], solo disponible en la distribución de servidor de [[Fedora Server|Fedora]].
+
+
 ---
 ![[Activacion de puertos de SELinux - Fedora Server]]

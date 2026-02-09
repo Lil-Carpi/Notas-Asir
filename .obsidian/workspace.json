@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de SELinux - Fedora Server.md",
+                "file": "Políticas de control de acceso.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activacion de puertos de SELinux - Fedora Server"
-            }
-          },
-          {
-            "id": "463789409f1505e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Securización de servidor - Fedora Server"
+              "title": "Políticas de control de acceso"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,35 +194,37 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "463789409f1505e1",
+  "active": "c08e4580a93f39fe",
   "lastOpenFiles": [
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de firewalld - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de SELinux - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
+    "Control de Acceso Obligatorio (OCS).md",
+    "C - Índice.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
-    "CentOS.md",
-    "Red Hat.md",
-    "Fedora.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Cockpit - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de SELinux - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de firewalld - Fedora Server.md",
+    "Imagenes/cockpit-overview.png",
+    "Políticas de control de acceso.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/SUSE Linux Enterprise Micro.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales",
+    "README.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/Red Hat.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Terminal - GNULinux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor",
+    "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de cibersec/Distros de cibersec - GNULinux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Tumbleweed.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Ubuntu.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Arch Linux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Debian.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/Fedora CoreOS.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/CentOS.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Fedora.md",
     "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Sin nombre",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
-    "Control de Acceso Obligatorio (OCS).md",
-    "Programación/Python/Basicos/Bucles WHILE - Python.md",
-    "Programación/Python/Basicos/Bucles FOR - Python.md",
-    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
-    "Programación/Python/Medios/Clases - Python.md",
-    "Programación/Python/Librerias/DJANGO - Python.md",
-    "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Medios/Manipulacion de listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
-    "Programación/Python/Medios/try, except - Python.md",
-    "Programación/Python/Modulos/__main__ - Python.md",
-    "Programación/Python/Modulos/__doc__ - Python.md",
-    "Programación/Python/Modulos/__init__ - Python.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Distros cientificos/OpenSUSE Linux.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros cientificos",
     "Imagenes/tux.png",
     "Imagenes/SELinux.svg",
@@ -248,8 +235,6 @@
     "Sistemas operativos/Unix-Like/GNULinux/Distros de cibersec",
     "Sistemas operativos/Servidores/Fedora Server - Servidores",
     "Sistemas operativos/Servidores",
-    "Seguridad informática/Teoria/Vulnerabilidades",
-    "Documentación personal/Mecanica de Unix/6. Gestión de discos y backups",
     "Seguridad informática/Recursos/1_Imagenes/General/cpts.webp",
     "Sin título.canvas",
     "Imagenes/ñu.webp",
@@ -257,7 +242,6 @@
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/omgcable.webp",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/usbkiller.jpg",
-    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/rubberducky.png",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas"
   ]
 }

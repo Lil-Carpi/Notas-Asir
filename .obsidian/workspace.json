@@ -11,17 +11,14 @@
             "id": "c08e4580a93f39fe",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Cosas a repasar.canvas",
-                "viewState": {
-                  "x": -17.41556216826595,
-                  "y": 1.7433655031227602,
-                  "zoom": -0.6000000000000001
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cosas a repasar"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -199,9 +196,9 @@
   },
   "active": "c08e4580a93f39fe",
   "lastOpenFiles": [
-    "Control de Acceso Obligatorio (MAC).md",
     "Políticas de control de acceso.md",
     "README.md",
+    "Control de Acceso Obligatorio (MAC).md",
     "Cosas a repasar.canvas",
     "2026-02-19.md",
     "Sin nombre",

@@ -13,6 +13,7 @@ Lo que trato:
 	- PHP
 	- JavaScript
 	- HTML y CSS (No son lenguajes de programación, pero lo pongo aquí igualmente)
+	- C (No redactado)
 - Hardware:
 	- Implantación de aplicaciones Web
 	- M5 (no tengo idea de qué nombre ponerle)

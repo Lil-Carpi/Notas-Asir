@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"49bdda9a9c2de7c6","x":-420,"y":-280,"width":657,"height":606,"color":"1","type":"text","text":"# Recuperaciones\n---\n## Materias a recuperar:\n- Base de datos\n    - RA1: Introduccion a las bases de datos\n    - RA3: Diseño fisico de las bases de datos\n    - RA4: Realizacion de consultas\n\n- Programacion Python\n    - RA1: Conceptos de programacion (2 examenes)\n    - RA2: Programacion estructurada (1r examen)\n\n- M9\n    - RA2: Instalacion de wordpress\n    - RA3: Administracion de wordpress \n- M5\n    - RA3: Fog project\n\n- Lenguaje de marcas\n    - RA3: Javascript\n"},
-		{"id":"4f5125e6fc55b878","x":-420,"y":-340,"width":300,"height":60,"color":"1","type":"text","text":"Dia de la recuperación: Junio 2026"},
-		{"id":"9e906c0e648d14ce","x":160,"y":-260,"width":60,"height":72,"type":"file","file":"Imagenes/tux.png"}
+		{"id":"49bdda9a9c2de7c6","type":"text","text":"# Recuperaciones\n---\n## Materias a recuperar:\n- Base de datos\n    - RA1: Introduccion a las bases de datos\n    - RA3: Diseño fisico de las bases de datos\n    - RA4: Realizacion de consultas\n\n- Programacion Python\n    - RA1: Conceptos de programacion (2 examenes)\n    - RA2: Programacion estructurada (1r examen)\n\n- M9\n    - RA2: Instalacion de wordpress\n    - RA3: Administracion de wordpress \n- M5\n    - RA3: Fog project\n\n- Lenguaje de marcas\n    - RA3: Javascript\n","x":-420,"y":-280,"width":657,"height":606,"color":"1"},
+		{"id":"4f5125e6fc55b878","type":"text","text":"Dia de la recuperación: Junio 2026","x":-420,"y":-340,"width":300,"height":60,"color":"4"},
+		{"id":"9e906c0e648d14ce","type":"file","file":"Imagenes/tux.png","x":160,"y":-260,"width":60,"height":72}
 	],
 	"edges":[]
 }

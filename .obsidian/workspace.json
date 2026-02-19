@@ -11,14 +11,17 @@
             "id": "c08e4580a93f39fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Control de Acceso Obligatorio (MAC).md",
-                "mode": "source",
-                "source": false
+                "file": "Cosas a repasar.canvas",
+                "viewState": {
+                  "x": 206.61452740307632,
+                  "y": -148.3702464436833,
+                  "zoom": -0.40000000000000013
+                }
               },
-              "icon": "lucide-file",
-              "title": "Control de Acceso Obligatorio (MAC)"
+              "icon": "lucide-layout-dashboard",
+              "title": "Cosas a repasar"
             }
           }
         ]
@@ -194,10 +197,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "c08e4580a93f39fe",
   "lastOpenFiles": [
-    "Políticas de control de acceso.md",
     "Control de Acceso Obligatorio (MAC).md",
+    "Políticas de control de acceso.md",
+    "README.md",
+    "Cosas a repasar.canvas",
+    "2026-02-19.md",
+    "Sin nombre",
+    "Sin título.md",
     "C - Índice.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
@@ -210,7 +218,6 @@
     "Imagenes/cockpit-overview.png",
     "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/SUSE Linux Enterprise Micro.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales",
-    "README.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/Red Hat.md",
     "Sistemas operativos/Unix-Like/GNULinux/Terminal - GNULinux.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor",
@@ -222,8 +229,6 @@
     "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Debian.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/Fedora CoreOS.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/CentOS.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Fedora.md",
-    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Sin nombre",
     "Sistemas operativos/Unix-Like/GNULinux/Distros cientificos",
     "Imagenes/tux.png",
@@ -234,9 +239,7 @@
     "Teoria",
     "Sistemas operativos/Unix-Like/GNULinux/Distros de cibersec",
     "Sistemas operativos/Servidores/Fedora Server - Servidores",
-    "Sistemas operativos/Servidores",
     "Seguridad informática/Recursos/1_Imagenes/General/cpts.webp",
-    "Sin título.canvas",
     "Imagenes/ñu.webp",
     "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",
     "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",

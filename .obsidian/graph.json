@@ -3,7 +3,7 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "tag:#PHP",
+      "query": "tag:#PHP  ",
       "color": {
         "a": 1,
-        "rgb": 7292927
+        "rgb": 9830655
       }
     },
     {
@@ -32,42 +32,35 @@
       "query": "tag:#Temario-ASG  ",
       "color": {
         "a": 1,
-        "rgb": 9889942
+        "rgb": 10747811
       }
     },
     {
       "query": "tag:#Temario-BSA  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#Servidores  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711705
+        "rgb": 65450
       }
     },
     {
       "query": "tag:#JavaScript  ",
       "color": {
         "a": 1,
-        "rgb": 16770667
+        "rgb": 16759552
       }
     },
     {
       "query": "tag:#HTML  ",
       "color": {
         "a": 1,
-        "rgb": 16741120
+        "rgb": 16737280
       }
     },
     {
       "query": "tag:#CSS  ",
       "color": {
         "a": 1,
-        "rgb": 137142
+        "rgb": 57855
       }
     },
     {
@@ -78,51 +71,65 @@
       }
     },
     {
-      "query": "tag:#LilCMS-JS  ",
+      "query": "tag:#LilCMS",
       "color": {
         "a": 1,
-        "rgb": 65280
+        "rgb": 16777215
       }
     },
     {
-      "query": "tag:#CPTS  ",
+      "query": "tag:#CPTS",
       "color": {
         "a": 1,
         "rgb": 16711935
       }
     },
     {
-      "query": "tag:#CAPE",
-      "color": {
-        "a": 1,
-        "rgb": 2075135
-      }
-    },
-    {
       "query": "tag:#UnixLike  ",
       "color": {
         "a": 1,
-        "rgb": 49667
+        "rgb": 9895680
       }
     },
     {
-      "query": "TAG:#SinRedactar ",
+      "query": "tag:#Fedora  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 6599935
+      }
+    },
+    {
+      "query": "tag:#FedoraServer ",
+      "color": {
+        "a": 1,
+        "rgb": 786611
+      }
+    },
+    {
+      "query": "Ciberseguridad",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#SinRedactar  ",
+      "color": {
+        "a": 1,
+        "rgb": 8063498
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 1.42540983606557,
-  "lineSizeMultiplier": 0.98725782414307,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 15.424739195231,
-  "linkStrength": 0.455290611028316,
-  "linkDistance": 250,
-  "scale": 0.05260485185197547,
-  "close": true
+  "centerStrength": 0.562593144560358,
+  "repelStrength": 10.0596125186289,
+  "linkStrength": 0.282414307004471,
+  "linkDistance": 129,
+  "scale": 0.200225830078125,
+  "close": false
 }

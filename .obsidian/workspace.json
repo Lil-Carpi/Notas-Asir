@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Python/Librerias/DJANGO - Python.md",
+                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para FogProject - Fedora Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DJANGO - Python"
+              "title": "Configuracion de SELinux para FogProject - Fedora Server"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ransomware",
+                "query": "firewall-cmd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.49999618530273
+    "width": 505.49999618530273
   },
   "right": {
     "id": "519d5773673c1040",
@@ -194,37 +194,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a21fd362c8ad7bcb",
+  "active": "64cf571a78a07e16",
   "lastOpenFiles": [
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para MariaDB - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para FogProject - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para Wordpress - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Sin nombre",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Cockpit - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de firewalld - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de SELinux - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros científicas/Scientific Linux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros científicas/OpenSUSE Linux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de cibersec/Distros de cibersec - GNULinux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/CentOS.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/Fedora CoreOS.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/SUSE Linux Enterprise Micro.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/Red Hat.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Ubuntu.md",
+    "Programación/Python/Librerias/DJANGO - Python.md",
     "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
     "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
     "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
     "Programación/Python/Librerias/Índice - Librerias · Python.md",
-    "Programación/Python/Librerias/DJANGO - Python.md",
     "Programación/Python/Medios/Clases - Python.md",
     "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
-    "Programación/Python/Medios/Sentencia Match - Python.md",
-    "Programación/Python/Medios/try, except - Python.md",
-    "Programación/Python/Modulos/getopt - Python/getopt - Índice · Python.md",
-    "Programación/Python/Modulos/OS - Python/Funciones básicas (os) - Python.md",
-    "Programación/Python/Modulos/OS - Python/OS - Índice · Python.md",
-    "Programación/Python/Modulos/Shutil - Python/Funciones básicas (Shutil) - Python.md",
-    "Programación/Python/Modulos/Sys - Python/Funciones básicas (sys) - Python.md",
-    "Programación/Python/Modulos/Sys - Python/sys - Índice · Python.md",
-    "Programación/Python/Modulos/__main__ - Python.md",
-    "Programación/Python/Modulos/__init__ - Python.md",
-    "Programación/Python/Modulos/__doc__ - Python.md",
-    "Programación/Python/Índice - Python.md",
-    "Programación/Python/Z-Examenes/RA2. Pràctica 1 - Python.md",
-    "Seguridad informática/Teoria/Tipos de ataque/Ransomware.md",
-    "Redes/Packet Tracer/Índice - Packet Tracer.md",
-    "Programación/C/C - Índice.md",
     "Redes/Packet Tracer",
     "Redes",
     "Diario/Cosas a repasar.canvas",
-    "Diario/TO-DO list.md",
-    "BDD/SQL/Apuntes generales de SQL.md",
     "Seguridad informática/Teoria/Explicaciones Generales/Control de acceso",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones",
     "Imagenes/tux.png",
@@ -237,7 +238,6 @@
     "Programación/Python/Modulos/Shutil - Python",
     "Programación/Python/Modulos/OS - Python",
     "Programación/C",
-    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales",
     "Imagenes/SELinux_logo.svg",
     "Seguridad informática/Recursos/1_Imagenes/General/cpts.webp",
     "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",

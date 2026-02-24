@@ -1,3 +1,5 @@
 Bitlocker es una aplicacion de cifrado diseñada por Microsoft en el año 2013.
 
+
+![[PICO TPM SNIFFER]]
 #SinRedactar 

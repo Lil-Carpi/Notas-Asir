@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98494810ac498656",
+            "id": "cce6e63491ef97e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diario/M2 - FSTAB.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M2 - FSTAB"
+              "title": "README"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -184,46 +184,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98494810ac498656",
+  "active": "cce6e63491ef97e3",
   "lastOpenFiles": [
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Enfocate.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Manejar la frustración.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/1_Proceso de aprendizaje/1_Proceso de aprendizaje--Atencion.md",
+    "Seguridad informática/Practica/Certificados/CPTS/M1_Pre-Compromiso/2_Linux.md",
+    "Seguridad informática/Practica/Certificados/CAPE/Índice - CAPE.md",
+    "Seguridad informática/Teoria/Microsoft/Bitlocker.md",
+    "Seguridad informática/Teoria/Microsoft/Patch Tuesdays (Evento de actualizaciones periodicas).md",
+    "Seguridad informática/Teoria/Microsoft/Actualizaciones Generales de Microsoft.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Botnet.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Backdoor (Puerta trasera).md",
+    "Seguridad informática/Teoria/Tipos de ataque/Ataques de Replay.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Ataque a fuerza bruta.md",
+    "Seguridad informática/Teoria/Tipos de ataque/AS-REP Roasting.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Kerberoasting.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Delegación Insegura.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Golden Ticket.md",
+    "Modelo Cliente-Servidor.md",
+    "Seguridad informática/Teoria/Vulnerabilidades/Serializacion - Correos electronicos y Bases de datos.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Pass-the-Ticket.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Eavesdropping.md",
+    "Seguridad informática/Teoria/Tipos de ataque/Silver Ticket.md",
+    "Seguridad informática/Teoria/Explicaciones Generales/Kerberos.md",
+    "Pasted image 20260224185309.png",
+    "Sistemas operativos/Índice - Sistemas operativos.md",
     "Diario/M2 - FSTAB.md",
     "Imagenes/fstab-config.png",
     "Diario/Cosas a repasar.canvas",
     "Diario/TO-DO list.md",
-    "Seguridad informática/Teoria/Explicaciones Generales/Kerberos.md",
-    "Sistemas operativos/Índice - Sistemas operativos.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Índice - Distros GNULinux.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de firewalld - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de SELinux - Fedora Server.md",
-    "Seguridad informática/Herramientas/Hardware/Cable O.MG.md",
-    "Seguridad informática/Herramientas/Hardware/PICO TPM SNIFFER.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para Wordpress - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para MariaDB - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para FogProject - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Sin nombre",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Cockpit - Fedora Server.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Distros científicas/Scientific Linux.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Distros científicas/OpenSUSE Linux.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Distros de cibersec/Distros de cibersec - GNULinux.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/CentOS.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/Fedora CoreOS.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/SUSE Linux Enterprise Micro.md",
     "Redes/Packet Tracer",
     "Redes",
     "Seguridad informática/Teoria/Explicaciones Generales/Control de acceso",
@@ -241,7 +243,6 @@
     "Imagenes/SELinux_logo.svg",
     "Seguridad informática/Recursos/1_Imagenes/General/cpts.webp",
     "Seguridad informática/Recursos/1_Imagenes/cualquiercosa/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp",
-    "Seguridad informática/Recursos/1_Imagenes/tools/hardware/Flipper Zero.jpg",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas"
   ]
 }

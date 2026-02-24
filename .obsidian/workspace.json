@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64cf571a78a07e16",
+            "id": "98494810ac498656",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para FogProject - Fedora Server.md",
+                "file": "Seguridad informática/Teoria/Explicaciones Generales/Kerberos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuracion de SELinux para FogProject - Fedora Server"
+              "title": "Kerberos"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "firewall-cmd",
+                "query": "Uno de los propositos del sistema operativo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.49999618530273
+    "width": 505.49999618530273,
+    "collapsed": true
   },
   "right": {
     "id": "519d5773673c1040",
@@ -194,20 +195,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "64cf571a78a07e16",
+  "active": "98494810ac498656",
   "lastOpenFiles": [
+    "Seguridad informática/Teoria/Explicaciones Generales/Kerberos.md",
+    "Sistemas operativos/Índice - Sistemas operativos.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Índice - Distros GNULinux.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de firewalld - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de SELinux - Fedora Server.md",
+    "Seguridad informática/Herramientas/Hardware/Cable O.MG.md",
+    "Seguridad informática/Herramientas/Hardware/PICO TPM SNIFFER.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para Wordpress - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para MariaDB - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para FogProject - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Configuracion de SELinux para Wordpress - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Sin nombre",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Cockpit - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de firewalld - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de SELinux - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros científicas/Scientific Linux.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros científicas/OpenSUSE Linux.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros de cibersec/Distros de cibersec - GNULinux.md",
@@ -217,12 +224,6 @@
     "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/Red Hat.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Ubuntu.md",
     "Programación/Python/Librerias/DJANGO - Python.md",
-    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
-    "Programación/Python/Librerias/Índice - Librerias · Python.md",
-    "Programación/Python/Medios/Clases - Python.md",
-    "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
     "Redes/Packet Tracer",
     "Redes",
     "Diario/Cosas a repasar.canvas",

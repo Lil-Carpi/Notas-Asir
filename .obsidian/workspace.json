@@ -11,17 +11,14 @@
             "id": "98494810ac498656",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Diario/Cosas a repasar.canvas",
-                "viewState": {
-                  "x": -78.91000000000186,
-                  "y": 137.28999999999914,
-                  "zoom": 0
-                }
+                "file": "BDD/SQL/SQL - Consultas Avanzadas y Subconsultas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cosas a repasar"
+              "icon": "lucide-file",
+              "title": "SQL - Consultas Avanzadas y Subconsultas"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Uno de los propositos del sistema operativo",
+                "query": "nmcli connection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,8 +194,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "98494810ac498656",
   "lastOpenFiles": [
+    "BDD/SQL/Apuntes generales de SQL.md",
+    "BDD/SQL/SQL - Consultas Avanzadas y Subconsultas.md",
+    "Diario/Cosas a repasar.canvas",
+    "Diario/TO-DO list.md",
+    "Diario/M2 - FSTAB.md",
+    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
+    "Redes/Packet Tracer/Índice - Packet Tracer.md",
     "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
     "Sistemas operativos/Unix-Like/GNULinux/Terminal - GNULinux.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Fedora.md",
@@ -220,16 +224,9 @@
     "Seguridad informática/Teoria/Tipos de ataque/AS-REP Roasting.md",
     "Modelo Cliente-Servidor.md",
     "Imagenes/fstab-config.png",
-    "Diario/M2 - FSTAB.md",
-    "Sistemas operativos/Índice - Sistemas operativos.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
-    "Sistemas operativos/Unix-Like/GNULinux/Índice - Distros GNULinux.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de firewalld - Fedora Server.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Sin nombre",
     "Redes/Packet Tracer",
     "Redes",
-    "Diario/Cosas a repasar.canvas",
     "Seguridad informática/Teoria/Explicaciones Generales/Control de acceso",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones",
     "Imagenes/tux.png",

@@ -11,12 +11,14 @@
             "id": "98494810ac498656",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "SMX/M4/UF3-Conexio de carpetes/imgs/Pasted image 20250518211539.png"
+                "file": "SMX/M12/RASPI-SERVER-HOSTING/Auditorias/2_Grups/Ataque a maquinas - M12.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250518211539"
+              "icon": "lucide-file",
+              "title": "Ataque a maquinas - M12"
             }
           }
         ]
@@ -194,6 +196,7 @@
   },
   "active": "98494810ac498656",
   "lastOpenFiles": [
+    "SMX/M4/UF3-Conexio de carpetes/imgs/Pasted image 20250518211539.png",
     "SMX/RECUPERACIONES/M8/Lista de UFs suspendidas - M8.md",
     "SMX/M4/Integracio-LINUXxSAMBA/Integració de clients heterogenis en un servei de directori.pdf",
     "SMX/M4/Integracio-LINUXxSAMBA/Integració de clients heterogenis en un servei de directori.md",
@@ -228,7 +231,6 @@
     "SMX/M8/UF4-Portals_d'aprenentatge/Instal·lacio de Moodle - Cursos i categories - Perfils i rols.md",
     "SMX/M7/SSH/SSH.md",
     "SMX/M7/PROXY/EXAMEN M7.md",
-    "SMX/M7/PROXY/M7_Manual_Proxy_Obsidian.md",
     "SMX/M7/DHCP/ESQUEMA-DHCPxMAC.canvas",
     "SMX/M7/DHCP/ESQUEMA-DHCPxDHCP_DISCOVER.canvas",
     "SMX/M7/DHCP/ESQUEMA-APIPA.canvas",

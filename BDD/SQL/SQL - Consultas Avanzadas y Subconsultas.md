@@ -105,7 +105,7 @@ WHERE etapa_num IN (
 
 ---
 
-## El poder del `LEFT JOIN` en las estadísticas
+## LEFT JOIN` en las estadísticas
 
 A veces los exámenes piden cosas como: _"Muestra todos los ciclistas y cuántas etapas han ganado"_. Si usas un `INNER JOIN` o simplemente juntas las tablas con el `WHERE`, los ciclistas que han ganado **0 etapas** desaparecerán del resultado. Para evitarlo, se usa el `LEFT JOIN`.
 

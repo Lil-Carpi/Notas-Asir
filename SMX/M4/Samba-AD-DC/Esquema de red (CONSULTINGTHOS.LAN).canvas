@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"4d500dd0b609a85e","type":"group","x":-757,"y":-721,"width":1709,"height":941,"color":"4","label":"consultingthos.lan"},
+		{"id":"acb8571afcf345bd","type":"group","x":-666,"y":-530,"width":1014,"height":651,"color":"2","label":"Ubuntu Server"},
+		{"id":"e5341b0efcad2efe","type":"group","x":-432,"y":-1149,"width":400,"height":400,"color":"6","label":"INTERNET"},
+		{"id":"7464f2778a7df11d","type":"group","x":606,"y":-243,"width":291,"height":281,"color":"5","label":"Clientes"},
+		{"id":"dc5ac04e06dce237","type":"text","text":"Reglas de IPTABLES\n![[iptables_rc-local.png]]","x":-593,"y":-366,"width":786,"height":311},
+		{"id":"6c0e7e92607200d1","type":"text","text":"IPTABLES","x":-324,"y":-451,"width":250,"height":60},
+		{"id":"2d35b64c31e5b285","type":"file","file":"Seguridad Informática/1_Imagenes/Brainroot/DAAAAAANMMMMMMM!!!!!!!!!!!!!!.bmp","x":-399,"y":-1112,"width":331,"height":329},
+		{"id":"9bf5a448033eabc3","type":"text","text":"enp0s3 (externa)\n10.0.2.15/10","x":31,"y":-549,"width":250,"height":60,"color":"1"},
+		{"id":"3822dd581bc9d4ef","type":"text","text":"🟩 - Dominio\n🟧 - Ubuntu Server\n⬛ - Servicios\n🟦 - Red interna + clientes\n🟥 - Red externa\n🟪 - Internet (DAAAAMMMMM!!!)","x":166,"y":-1065,"width":321,"height":184},
+		{"id":"f65a828ade911202","type":"text","text":"Samba-AD-DC\n","x":-526,"y":21,"width":250,"height":60,"color":"4"},
+		{"id":"6e65ae74011cbb40","type":"text","text":"enp0s8 (interna)\n192.168.0.1/24","x":152,"y":-37,"width":250,"height":74,"color":"5"},
+		{"id":"7c994ecc2fe784d6","type":"text","text":"UBUNTU CLIENT\n192.168.0.200/24","x":627,"y":-65,"width":250,"height":71},
+		{"id":"4c7390f4aa7160a8","type":"text","text":"WIN11\n192.168.0.100/24","x":626,"y":-207,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"470b4ee139f19132","fromNode":"7c994ecc2fe784d6","fromSide":"left","toNode":"6e65ae74011cbb40","toSide":"right"},
+		{"id":"819f9df427f6c560","fromNode":"4c7390f4aa7160a8","fromSide":"left","toNode":"6e65ae74011cbb40","toSide":"right"},
+		{"id":"7bc58b4fbbb94aaf","fromNode":"6c0e7e92607200d1","fromSide":"top","toNode":"9bf5a448033eabc3","toSide":"bottom"},
+		{"id":"97e1719f010bd66e","fromNode":"6e65ae74011cbb40","fromSide":"bottom","toNode":"f65a828ade911202","toSide":"right"},
+		{"id":"02db1f875054b883","fromNode":"f65a828ade911202","fromSide":"top","toNode":"6e65ae74011cbb40","toSide":"bottom"},
+		{"id":"eb1ea1b71d1b7b4e","fromNode":"9bf5a448033eabc3","fromSide":"top","toNode":"e5341b0efcad2efe","toSide":"bottom"},
+		{"id":"682858def6332098","fromNode":"6e65ae74011cbb40","fromSide":"top","toNode":"dc5ac04e06dce237","toSide":"right"},
+		{"id":"7094befdbdcd04b4","fromNode":"dc5ac04e06dce237","fromSide":"top","toNode":"6c0e7e92607200d1","toSide":"bottom"}
+	]
+}

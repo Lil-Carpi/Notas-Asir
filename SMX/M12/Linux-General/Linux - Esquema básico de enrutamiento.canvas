@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"0234e0a87ab21f51","type":"group","x":-726,"y":-362,"width":992,"height":792,"color":"#a81a1a","label":"Esquema básico de enrutamiento - IPTABLES"},
+		{"id":"2af159ae77aeda7a","type":"group","x":-320,"y":-88,"width":378,"height":95,"color":"6","label":"SERVER"},
+		{"id":"6152fb7c0c9d01f1","type":"text","text":"IPTABLES","x":-300,"y":-68,"width":161,"height":57,"color":"5"},
+		{"id":"4607fc2479facb77","type":"text","text":"CLIENTE\n192.168.0.100","x":-279,"y":344,"width":160,"height":66,"color":"4"},
+		{"id":"06cd9bb30d320aa0","type":"text","text":"1. El cliente pide salida a internet y tiene como gateway al server","x":-344,"y":231,"width":300,"height":101},
+		{"id":"1464d419d47122d0","type":"text","text":"3. IPTABLES repasa la petición, y si las reglas lo permiten, envía la petición de forma masquerade al adaptador enp0s3","x":-692,"y":-64,"width":285,"height":184},
+		{"id":"adb8c7fc8f09d284","type":"text","text":"Leyenda\n🟪 - Server\n🟦 - Internet\n🟥 - Adaptador externo (10.0.2.15/8)\n🟨 - Adaptador interno (192.168.0.0/24)\n🟩 - Cliente (192.168.0.100)\n⬛ - Pasos","x":-706,"y":-342,"width":345,"height":209},
+		{"id":"888a5ef4dac66379","type":"text","text":"By Lil_Carpi","x":-711,"y":358,"width":147,"height":60,"color":"#a81a1a"},
+		{"id":"bab658e31a638d59","type":"text","text":"4. enp0s3 manda la petición a internet","x":10,"y":-258,"width":236,"height":87},
+		{"id":"e54a0b8e8aff92fd","type":"text","text":"REGLAS DE IPTABLES","x":-116,"y":-68,"width":162,"height":57,"color":"5"},
+		{"id":"2d059e5c95635f07","type":"text","text":"2. El servidor recibe la petición en el adaptador interno (enp0s8) y le da la petición a IPTABLES","x":-60,"y":60,"width":289,"height":151},
+		{"id":"9fabf8bb67082751","type":"text","text":"enp0s8\n192.168.0.1","x":-290,"y":0,"width":183,"height":77,"color":"3"},
+		{"id":"311c9ea257946e48","type":"text","text":"enp0s3\n10.0.2.15","x":-212,"y":-149,"width":134,"height":60,"color":"1"},
+		{"id":"61f161c1d937039f","type":"text","text":"INTERNET","x":-221,"y":-318,"width":152,"height":60,"color":"#0091ff"}
+	],
+	"edges":[
+		{"id":"cfb7ebeaa3867646","fromNode":"4607fc2479facb77","fromSide":"top","toNode":"9fabf8bb67082751","toSide":"bottom"},
+		{"id":"702a8d19708a1e00","fromNode":"9fabf8bb67082751","fromSide":"right","toNode":"e54a0b8e8aff92fd","toSide":"bottom"},
+		{"id":"f237595f7b7d0f55","fromNode":"e54a0b8e8aff92fd","fromSide":"top","toNode":"311c9ea257946e48","toSide":"right"},
+		{"id":"92f98f6efee5e23d","fromNode":"311c9ea257946e48","fromSide":"top","toNode":"61f161c1d937039f","toSide":"bottom"},
+		{"id":"ac04eaedd081b4c8","fromNode":"2d059e5c95635f07","fromSide":"left","toNode":"9fabf8bb67082751","toSide":"right"},
+		{"id":"a638a893acc266f0","fromNode":"6152fb7c0c9d01f1","fromSide":"right","toNode":"e54a0b8e8aff92fd","toSide":"left"},
+		{"id":"d080b0a7d7fbfce5","fromNode":"1464d419d47122d0","fromSide":"right","toNode":"6152fb7c0c9d01f1","toSide":"left"},
+		{"id":"ad4b35be8eb542ac","fromNode":"bab658e31a638d59","fromSide":"left","toNode":"311c9ea257946e48","toSide":"right"}
+	]
+}

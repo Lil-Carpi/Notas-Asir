@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"fefc233e22b20b07","x":-366,"y":-668,"width":103,"height":64,"type":"text","text":"WEB"},
+		{"id":"679d4967a5036635","x":-398,"y":-522,"width":167,"height":53,"type":"text","text":"M12 - Síntesis"},
+		{"id":"56ff4efa4e040ffb","x":-249,"y":-425,"width":250,"height":60,"type":"text","text":"Auditorias"},
+		{"id":"dd6474e41981a1ad","x":-163,"y":-658,"width":311,"height":125,"type":"text","text":"Los hiperenlaces vinculados al apartado de \"Auditorias\", estaran desvinculados totalmente de la pagina principal."},
+		{"id":"36c3c3ab4d77c464","x":65,"y":-373,"width":146,"height":310,"type":"text","text":"Grupos:\n- G1\n- G2\n- G3\n- G4\n- G5\n- G6\n- G7\n- G8"},
+		{"id":"9dce56585a058280","x":16,"y":-515,"width":196,"height":123,"type":"text","text":"Por ende, no sera posible volver a navegar hasta la pagina principal."},
+		{"id":"51cc10aff8a6c8c8","x":-259,"y":-307,"width":245,"height":244,"type":"text","text":"Para poder visualizar las auditorias, se hara desde el previsualizador de archivos. En caso de que sea molesto, se accedera al documento directamente desde el link del previsualizador."}
+	],
+	"edges":[
+		{"id":"ce5b65fc61e8d711","fromNode":"fefc233e22b20b07","fromSide":"bottom","toNode":"679d4967a5036635","toSide":"top"},
+		{"id":"7a8a623c21c973b9","fromNode":"679d4967a5036635","fromSide":"bottom","toNode":"56ff4efa4e040ffb","toSide":"left"},
+		{"id":"87befe20a466ece6","fromNode":"56ff4efa4e040ffb","fromSide":"bottom","toNode":"36c3c3ab4d77c464","toSide":"left"},
+		{"id":"d9569548bdc02f0e","fromNode":"36c3c3ab4d77c464","fromSide":"top","toNode":"679d4967a5036635","toSide":"right"}
+	]
+}

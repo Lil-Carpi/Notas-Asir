@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"04d04bb244e30537","x":-195,"y":-307,"width":292,"height":155,"color":"2","type":"group","label":"SERVIDOR"},
+		{"id":"aa8d69642b9c9f4e","x":206,"y":-317,"width":294,"height":229,"color":"5","type":"text","text":"LLISTA DE DIRECCIONS IPs HABILITADES:\n192.168.0.0 - /null/\n192.168.0.1 - [MAC: 01:01:F1:F1:F2]\n192.168.0.2 - [MAC: 01:01:F1:F1:F1]\n192.168.0.3 - [MAC: 01:01:F1:F1:F3]\n192.168.0.4"},
+		{"id":"933302b1c24a8679","x":517,"y":-341,"width":303,"height":158,"color":"1","type":"text","text":"2. Segon, el DHCP assignará una direccio IP als hosts que n'hi ha. Preferiblement, assignara la segona IP a la porta d'enllaç (192.168.0.1)"},
+		{"id":"c9df23b9cc8060e7","x":519,"y":-475,"width":297,"height":123,"color":"1","type":"text","text":"1. Primer, el servidor DHCP demanará les direccions MAC dels dispositius que es troben a la xarxa."},
+		{"id":"975ad804ca8b11ac","x":-557,"y":-444,"width":339,"height":208,"type":"text","text":"Llegenda\n🟨 - Servidor\n🟩 - Serveis i protocols\n🟦 - Llista d'adreces MAC i IP del DHCP\n🟪 - HOSTS\n🟥 - Passos"},
+		{"id":"486ba485cd699309","x":-174,"y":-287,"width":250,"height":60,"color":"4","type":"text","text":"PORTA D'ENLLAÇ"},
+		{"id":"a121b220ab25006a","x":-173,"y":-232,"width":250,"height":60,"color":"4","type":"text","text":"DHCP\n"},
+		{"id":"e51b501bd87bfc43","x":194,"y":23,"width":250,"height":132,"color":"6","type":"text","text":"HOST 2\nMAC: 01:01:F1:F1:F3\nIP DONADA PER DHCP: 192.168.0.3"},
+		{"id":"ed65f3c7a4322bc1","x":-560,"y":33,"width":250,"height":130,"color":"6","type":"text","text":"HOST 1\nMAC: 01:01:F1:F1:F1\nIP DONADA PER DHCP:\n192.168.0.2"},
+		{"id":"b37fceabffff3c32","x":-172,"y":29,"width":243,"height":133,"color":"6","type":"text","text":"PORTA D'ENLLAÇ\nMAC: 01:01:F1:F1:F2\nIP DONADA PER DHCP:\n192.168.0.1"}
+	],
+	"edges":[
+		{"id":"eec46e8c3a598d8e","fromNode":"aa8d69642b9c9f4e","fromSide":"left","toNode":"a121b220ab25006a","toSide":"right"},
+		{"id":"b7aeeacb590cb058","fromNode":"a121b220ab25006a","fromSide":"bottom","toNode":"ed65f3c7a4322bc1","toSide":"top"},
+		{"id":"072ab5dd215c016a","fromNode":"a121b220ab25006a","fromSide":"bottom","toNode":"e51b501bd87bfc43","toSide":"top"},
+		{"id":"5691eb2b4533687a","fromNode":"b37fceabffff3c32","fromSide":"top","toNode":"a121b220ab25006a","toSide":"bottom"}
+	]
+}

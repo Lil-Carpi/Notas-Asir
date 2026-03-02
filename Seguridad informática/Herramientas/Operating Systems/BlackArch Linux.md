@@ -19,4 +19,4 @@ Tambien es posible descargar una ISO y ejecutarlo como un sistema vivo.
 
 ![[Full instalation of Black Arch.png]]
 
-![[Black Arch with Awesome.png]]
+![[Black Arch with Awesome.png]]ñ

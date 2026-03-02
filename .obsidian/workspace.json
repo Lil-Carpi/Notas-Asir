@@ -34,9 +34,26 @@
               "icon": "lucide-file",
               "title": "2026-03-02 - ISOR"
             }
+          },
+          {
+            "id": "1002f4da1bf4dfa8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Diario/Cosas a repasar.canvas",
+                "viewState": {
+                  "x": -70,
+                  "y": 40,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Cosas a repasar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nmcli connection",
+                "query": "awes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,8 +226,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "1002f4da1bf4dfa8",
   "lastOpenFiles": [
+    "Seguridad informática/Herramientas/Operating Systems/BlackArch Linux.md",
     "Modelo Cliente-Servidor.md",
     "README.md",
     "Sin título.md",
@@ -241,7 +259,6 @@
     "SMX/M6/L.O.D.P/LSSICE - M6.md",
     "SMX/M6/L.O.D.P/LPI - M6.md",
     "SMX/M6/L.O.D.P/LOPDGDD-RGPD_M6.md",
-    "SMX/M8/UF4-Portals_d'aprenentatge/Instal·lacio de Moodle.md",
     "SMX/M12/Linux-General/Linux - Esquema básico de enrutamiento.canvas",
     "SMX/M12/RASPI-SERVER-HOSTING/IMGs/duck-sh-script.png",
     "SMX/M12/RASPI-SERVER-HOSTING/IMGs/Certificado-CertBot.gif",

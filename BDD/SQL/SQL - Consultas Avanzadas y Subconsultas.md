@@ -3,7 +3,7 @@ Proveniente de [[Índice - SQL]]
 - Fecha de creación: 27/02/2026
 ---
 ```table-of-contents
-````
+```
 
 ---
 

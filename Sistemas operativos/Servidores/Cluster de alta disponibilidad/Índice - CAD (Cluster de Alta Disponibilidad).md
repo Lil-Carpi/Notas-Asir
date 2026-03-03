@@ -2,4 +2,6 @@
 Documento padre
 
 ---
+![[Clúster]]
+
 [[Proxmox - CAD]]

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMX/M4/Samba-AD-DC/Creación de un Samba Active Directory Domain Controller - Conexión con Windows 11.md",
+                "file": "Diario/M2 - FSTAB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creación de un Samba Active Directory Domain Controller - Conexión con Windows 11"
+              "title": "M2 - FSTAB"
             }
           }
         ],
@@ -199,20 +199,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "graph:Abrir vista gráfica": false,
       "switcher:Abrir selector rápido": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f1f044391d005fd8",
   "lastOpenFiles": [
-    "SMX/M4/Proyectos-IMG/Samba-AD-DC/W11-CONFIGS/instalation/disk-selection.png",
+    "SMX/M4/UF3-Conexio de carpetes/NFS/Compartició de recursos amb NFS.md",
+    "SMX/M4/UF3-Conexio de carpetes/SAMBA/Comparticio de recursos amb SAMBA - M4.md",
+    "SMX/M4/UF3-Conexio de carpetes/SAMBA/Comparticio de recursos amb SAMBA.md",
     "SMX/M4/Samba-AD-DC/Creación de un Samba Active Directory Domain Controller - Conexión con Windows 11.md",
+    "SMX/M4/Proyectos-IMG/Samba-AD-DC/W11-CONFIGS/instalation/disk-selection.png",
     "SMX/M12/RASPI-SERVER-HOSTING/Configuracio WebHosting Raspi.md",
     "SMX/M12/RASPI-SERVER-HOSTING/SMTPRELAY/SMTPRELAY2/SMTP - M12.md",
     "SMX/M12/RASPI-SERVER-HOSTING/Auditorias/2_Grups/G1.md",
@@ -237,8 +240,6 @@
     "README.md",
     "Sin título.md",
     "BDD/SQL/Índice - SQL.md",
-    "BDD/SQL/Apuntes generales de SQL.md",
-    "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
     "SMX/M12/RASPI-SERVER-HOSTING/SMTP/Pasted image 20250524201215.png",
     "SMX/M7/DHCP/ESQUEMA-DHCPxMAC.canvas",
     "SMX/M7/DHCP/ESQUEMA-APIPA.canvas",
@@ -254,7 +255,6 @@
     "SMX/M7/DHCP/ESQUEMA-DHCPxDHCP_DISCOVER.canvas",
     "SMX/M4/Samba-AD-DC/PDFs/pt4.1-Sebastian-Ariel.pdf",
     "SMX/M4/Proyectos-IMG/Samba-AD-DC/U-SERVER/carpeta-compartida/smb-conf-carpetacompartida.png",
-    "SMX/M4/Proyectos-IMG/Samba-AD-DC/U-SERVER/carpeta-compartida/path-carpeta-compartida+test.png",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuraciones de SELinux en aplicaciones/Sin nombre",
     "Redes/Packet Tracer",
     "Redes",

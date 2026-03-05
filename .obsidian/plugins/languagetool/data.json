@@ -16,7 +16,8 @@
     "multiselección",
     "regex",
     "subshells",
-    "trigger"
+    "trigger",
+    "sanitización"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],

@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
-  "search": "tag:#Manuales  ",
+  "search": "tag:#SinRedactar",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -131,5 +131,5 @@
   "linkStrength": 0.6162109375,
   "linkDistance": 223,
   "scale": 0.46822130772747866,
-  "close": true
+  "close": false
 }

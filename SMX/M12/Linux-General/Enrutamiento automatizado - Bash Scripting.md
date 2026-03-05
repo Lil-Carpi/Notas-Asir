@@ -1,3 +1,4 @@
+#Manuales
 ![[Linux - Esquema básico de enrutamiento.canvas|Linux - Esquema básico de enrutamiento]]
 
 #### Si quieres entender mejor el enrutamiento, mira esto ☝️.

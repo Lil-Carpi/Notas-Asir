@@ -1,3 +1,4 @@
+#Manuales
 [[M7_Manual_Proxy_Obsidian]]
 Lo que entra:
 ``` plain text

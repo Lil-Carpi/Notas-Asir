@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCSA Mosaic.md",
+                "file": "Teoria/Historia del Internet y sus componentes/Historia de internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NCSA Mosaic"
-            }
-          },
-          {
-            "id": "f1f044391d005fd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación/Python/Basicos/Bucles WHILE - Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bucles WHILE - Python"
+              "title": "Historia de internet"
             }
           }
         ]
@@ -92,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5,
-    "collapsed": true
+    "width": 447.5
   },
   "right": {
     "id": "519d5773673c1040",
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control de Acceso Obligatorio (MAC).md",
+                "file": "Teoria/Historia del Internet y sus componentes/Historia de internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Control de Acceso Obligatorio (MAC)"
+              "title": "Enlaces entrantes de Historia de internet"
             }
           },
           {
@@ -167,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
+                "file": "Teoria/Historia del Internet y sus componentes/Historia de internet.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Listas, diccionarios y tuplas - Python"
+              "title": "Enlaces salientes de Historia de internet"
             }
           },
           {
@@ -195,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 732.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,35 +194,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac0584e8ff344cb0",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
+    "Teoria/Historia del Internet y sus componentes/Arpanet.md",
+    "Assets/PrimerServidorWeb.jpg",
+    "Teoria/Historia del Internet y sus componentes/Historia de internet.md",
+    "SMX/M4/UF3-Conexio de carpetes/NFS/Compartició de recursos amb NFS.md",
+    "SMX/M12/RASPI-SERVER-HOSTING/Configuracio WebHosting Raspi.md",
+    "SMX/M12/RASPI-SERVER-HOSTING/SMTP/SMTP.md",
+    "SMX/M12/RASPI-SERVER-HOSTING/FTP/Configuracion SFTP.md",
+    "SMX/M12/RASPI-SERVER-HOSTING/Auditorias/Esquema de auditorias.canvas",
+    "SMX/M12/RASPI-SERVER-HOSTING/Auditorias/Auditories - M12.md",
+    "SMX/M12/Linux-General/Linux - Esquema básico de enrutamiento.canvas",
+    "SMX/M12/Linux-General/Enrutamiento automatizado - Bash Scripting.md",
+    "SMX/M7/SSH/SSH.md",
+    "SMX/M7/PROXY/EXAMEN M7.md",
+    "SMX/M7/DHCP/MANUAL DHCP - M7.md",
+    "SMX/M7/DHCP/MANUAL DHCP.md",
+    "SMX/M7/DHCP/ESQUEMA-DHCPxMAC.canvas",
+    "SMX/M7/DHCP/ESQUEMA-DHCPxDHCP_DISCOVER.canvas",
+    "SMX/M7/DHCP/ESQUEMA-APIPA.canvas",
+    "SMX/M4/UF3-Conexio de carpetes/SAMBA/Comparticio de recursos amb SAMBA - M4.md",
+    "SMX/M4/UF3-Conexio de carpetes/SAMBA/Comparticio de recursos amb SAMBA.md",
+    "SMX/M4/UF3-Conexio de carpetes/NFS/Compartir carpetes entre OS.md",
+    "SMX/M4/Samba-AD-DC/MANUAL EXAMEN M4.md",
+    "SMX/M4/Samba-AD-DC/Esquema de red (CONSULTINGTHOS.LAN).canvas",
+    "SMX/M4/Samba-AD-DC/Creación de un Samba Active Directory Domain Controller - Conexión con Windows 11.md",
+    "SMX/M4/LDAP/Configuracio basica LDAP.md",
+    "SMX/M4/Integracio-LINUXxSAMBA/Integració de clients heterogenis en un servei de directori.pdf",
+    "SMX/M4/Integracio-LINUXxSAMBA/Integració de clients heterogenis en un servei de directori.md",
+    "Teoria/Historia del Internet y sus componentes/World Wide Web.md",
+    "Teoria/Historia del Internet y sus componentes/NCSA Mosaic.md",
+    "Assets/MapadeInternet.jpg",
+    "Assets/portals_d'aprenentatge/Pasted image 20250518233838.png",
+    "Modelo Cliente-Servidor.md",
     "Assets/NSAMosaic.png",
     "README.md",
     "Redes/Protocolos de red/TCP_IP - Protocolos de red.md",
     "Programación/Python/Basicos/Bucles WHILE - Python.md",
-    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Programación/Python/Medios/try, except - Python.md",
-    "Programación/Python/Medios/Sentencia Match - Python.md",
-    "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
-    "Programación/Python/Medios/Manipulacion de listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Medios/Clases - Python.md",
-    "NCSA Mosaic.md",
-    "Teoria/ARPANET/Historia de internet.md",
-    "Teoria/ARPANET/Índice - ARPANET.md",
-    "Redes/Protocolos de red/HTTP - Protocolos de red.md",
-    "Teoria/Vulnerabilidades/Serializacion - Correos electronicos y Bases de datos.md",
     "Teoria/Vulnerabilidades",
-    "Teoria/Tipos de ataque/Troyano (Caballo de Troya).md",
-    "Teoria/Tipos de ataque/Virus informatico.md",
-    "Teoria/Tipos de ataque/Spyware.md",
-    "Teoria/Tipos de ataque/Sniffing.md",
-    "Teoria/Tipos de ataque/Silver Ticket.md",
-    "Teoria/Tipos de ataque/Ransomware.md",
-    "Teoria/Tipos de ataque/Phishing.md",
-    "Teoria/Tipos de ataque/Pass-the-Ticket.md",
-    "Teoria/Tipos de ataque/MITM ATTACK.md",
     "Teoria/Tipos de ataque",
     "Teoria/Microsoft",
     "Teoria/Triada CIA",
@@ -246,23 +241,14 @@
     "Teoria/Hacker/Tipo de hackers",
     "Teoria/Hacker",
     "Teoria/Criptografia",
-    "Teoria/Control de acceso",
     "Assets/ñu.webp",
     "Assets/win11PRO.png",
     "Assets/web-server-identificat.png",
     "Assets/w11-adapter.png",
     "Assets/usuari-contasenya-g4.png",
     "Assets/username_password.png",
-    "Assets/username.png",
-    "Assets/user-login.png",
-    "Assets/user-creation2.png",
-    "Assets/user-creation1.png",
     "Sin título.canvas",
     "Diario/Cosas a repasar.canvas",
-    "SMX/M7/DHCP/ESQUEMA-DHCPxMAC.canvas",
-    "SMX/M7/DHCP/ESQUEMA-APIPA.canvas",
-    "SMX/M12/Linux-General/Linux - Esquema básico de enrutamiento.canvas",
-    "SMX/M7/DHCP/ESQUEMA-DHCPxDHCP_DISCOVER.canvas",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas"
   ]
 }

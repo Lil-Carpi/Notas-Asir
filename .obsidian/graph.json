@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#Manuales  ",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -130,6 +130,6 @@
   "repelStrength": 7.96549479166667,
   "linkStrength": 0.6162109375,
   "linkDistance": 223,
-  "scale": 0.1387322393266605,
+  "scale": 0.46822130772747866,
   "close": true
 }

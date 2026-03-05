@@ -1,6 +1,11 @@
+#Teoria / #HistoriaInternet
+
 El internet estaba originalmente pensado como una red de carácter militar creada para el Departamento de Defensa de los Estados Unidos. El 29 de octubre del 1969 se iniciaba en la UCLA (Universidad de California de los Ángeles) el primer nodo de la red, llamada [[Arpanet]]. Pero técnicamente el "nacimiento" de internet se da el 1 de enero del 1983, con la primera red de largo alcance (WAN) basada en la tecnología [[TCP_IP - Protocolos de red|TCP/IP]], puesta en marcha por la National Science Foundation (NSF) de los EE. UU. En el año 1995, esta red se abre a los intereses comerciales.
 
 En la década de los 90, la red gana densidad. En agosto del 1991, el CERN publica el proyecto [[World Wide Web]], y dos años después, Tim Berners-Lee inicia la creación de [[Índice - HTML|HTML]] y [[HTTP - Protocolos de red|HTTP]]. En el año 1993 el centro nacional para las aplicaciones de supercomputación de la Universidad de Illinois desarrolla el primer navegador web, *[[NCSA Mosaic]]* en la versión 1.0.
 
 Internet como medio de comunicación se comenzó a generalizar en países desarrollados a mediados de los años 90. En gran parte, Internet se ha ido formando gracias a los *internautas*, creando servicios mayormente gratuitos. De todos modos, desde finales de los 90, los servicios de pago y el comercio electrónico comenzaba a tener una presencia cada vez más grande.
 
+---
+## La World Wide Web
+![[World Wide Web]]

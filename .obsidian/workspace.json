@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Protocolos de red/TCP_IP - Protocolos de red.md",
+                "file": "NCSA Mosaic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP_IP - Protocolos de red"
+              "title": "NCSA Mosaic"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Protocolos de red/HTTP - Protocolos de red.md",
+                "file": "Programación/Python/Basicos/Bucles WHILE - Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP - Protocolos de red"
+              "title": "Bucles WHILE - Python"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 447.5,
+    "collapsed": true
   },
   "right": {
     "id": "519d5773673c1040",
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +209,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a21fd362c8ad7bcb",
+  "active": "ac0584e8ff344cb0",
   "lastOpenFiles": [
+    "Assets/NSAMosaic.png",
+    "README.md",
+    "Redes/Protocolos de red/TCP_IP - Protocolos de red.md",
+    "Programación/Python/Basicos/Bucles WHILE - Python.md",
+    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
+    "Programación/Python/Medios/try, except - Python.md",
+    "Programación/Python/Medios/Sentencia Match - Python.md",
+    "Programación/Python/Medios/Sentencia IF, ELIF y ELSE - Python.md",
+    "Programación/Python/Medios/Manipulacion de listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Medios/Clases - Python.md",
+    "NCSA Mosaic.md",
+    "Teoria/ARPANET/Historia de internet.md",
+    "Teoria/ARPANET/Índice - ARPANET.md",
+    "Redes/Protocolos de red/HTTP - Protocolos de red.md",
     "Teoria/Vulnerabilidades/Serializacion - Correos electronicos y Bases de datos.md",
     "Teoria/Vulnerabilidades",
     "Teoria/Tipos de ataque/Troyano (Caballo de Troya).md",
@@ -222,22 +238,6 @@
     "Teoria/Tipos de ataque/Phishing.md",
     "Teoria/Tipos de ataque/Pass-the-Ticket.md",
     "Teoria/Tipos de ataque/MITM ATTACK.md",
-    "Teoria/Tipos de ataque/Keylogger.md",
-    "Teoria/Tipos de ataque/Kerberoasting.md",
-    "Teoria/Tipos de ataque/Inyección SQL.md",
-    "Teoria/Tipos de ataque/Gusano.md",
-    "Teoria/Tipos de ataque/Golden Ticket.md",
-    "Teoria/Tipos de ataque/Exploits.md",
-    "Teoria/Tipos de ataque/DoS.md",
-    "Teoria/Tipos de ataque/Eavesdropping.md",
-    "Teoria/Tipos de ataque/Delegación Insegura.md",
-    "Teoria/Tipos de ataque/DDoS.md",
-    "Teoria/Tipos de ataque/Cross-Site Scripting (XSS).md",
-    "Teoria/Tipos de ataque/Botnet.md",
-    "Teoria/Tipos de ataque/Bomba Lógica.md",
-    "Teoria/Tipos de ataque/Backdoor (Puerta trasera).md",
-    "Teoria/Tipos de ataque/Ataques de Replay.md",
-    "Teoria/Tipos de ataque/Ataque a fuerza bruta.md",
     "Teoria/Tipos de ataque",
     "Teoria/Microsoft",
     "Teoria/Triada CIA",

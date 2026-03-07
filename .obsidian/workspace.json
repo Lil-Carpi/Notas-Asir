@@ -11,10 +11,14 @@
             "id": "ac0584e8ff344cb0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Programación/JavaScript/Sanitización de código - JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sanitización de código - JavaScript"
             }
           }
         ]
@@ -192,6 +196,7 @@
   },
   "active": "ac0584e8ff344cb0",
   "lastOpenFiles": [
+    "Teoria/Tipos de ataque/Ataque a fuerza bruta.md",
     "Teoria/Historia del Internet y sus componentes/World Wide Web.md",
     "Teoria/Historia del Internet y sus componentes/NCSA Mosaic.md",
     "Teoria/Historia del Internet y sus componentes/Historia de internet.md",

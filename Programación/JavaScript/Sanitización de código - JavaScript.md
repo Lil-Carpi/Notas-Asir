@@ -2,7 +2,7 @@
 proveniente de [[Índice -JavaScript]]
 
 ---
-La sanitización del código es una parte importante de la programación, sobre todo cuando ponemos en disposición a usuarios servicios tales como foros, subida de fotos para su visualización de forma pública, u otros servicios que incluyen bases de datos. También, sirve para evitar el phishing a causa de una mala alitización de la página web.
+La sanitización del código es una parte importante de la programación, sobre todo cuando ponemos en disposición a usuarios servicios tales como foros, subida de fotos para su visualización de forma pública, u otros servicios que incluyen bases de datos. También, sirve para evitar el phishing a causa de una mala sanitización de la página web.
 
 La vulnerabilidad más grave por falta de sanitización es el [[Cross-Site Scripting (XSS)]], y en caso de que el back-end esté programado con Node.js, las [[Inyección SQL|Inyecciones SQL]].
 
@@ -60,3 +60,11 @@ Lo que pasa el atacante:
 SELECT * FROM usuarios WHERE nombre = 'admin' AND clave='' OR '1'='1';
 ```
 Esto le garantiza el acceso al atacante al usuario admin.
+
+También pueden borrar completamente la base de datos:
+Lo que pasa el atacante:
+	user: `' ; DROP DATABASE; --`
+	password: `goodbyeDB`
+```SQL
+SELECT * FROM usuarios WHERE nombre = '' ; DROP DARTABASE; --AND clave=goodbyeDB;
+```

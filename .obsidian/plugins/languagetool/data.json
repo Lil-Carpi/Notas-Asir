@@ -15,9 +15,9 @@
     "Git",
     "multiselección",
     "regex",
+    "sanitización",
     "subshells",
-    "trigger",
-    "sanitización"
+    "trigger"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],

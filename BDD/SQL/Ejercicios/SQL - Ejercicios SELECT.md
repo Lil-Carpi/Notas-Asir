@@ -1,7 +1,7 @@
 #SQL - Structured Query Language
 Proveniente de [[Índice - SQL]]
 
-Ariel Duarte Oruez, Sebastian
+
 
 ---
 Source:

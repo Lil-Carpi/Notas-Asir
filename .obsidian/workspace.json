@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+                "file": "BDD/SQL/Ejercicios/Edicio de dades/SQL - Exercicis amb UPDATE i INSERT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL - Funciones agregadas i GROUP BY"
+              "title": "SQL - Exercicis amb UPDATE i INSERT"
             }
           }
         ]
@@ -197,12 +197,13 @@
   "active": "ac0584e8ff344cb0",
   "lastOpenFiles": [
     "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+    "BDD/SQL/Apuntes generales de SQL.md",
+    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
     "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
     "BDD/SQL/Ejercicios/Edicio de dades/SQL - Exercicis amb UPDATE i INSERT.md",
     "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
     "BDD/SQL/Ejercicios/Edicio de dades",
     "BDD/SQL/Índice - SQL.md",
-    "BDD/SQL/Apuntes generales de SQL.md",
     "Programación/Python/Modulos/Sys - Python/Funciones básicas (sys) - Python.md",
     "Programación/Python/Modulos/Sys - Python/sys - Índice · Python.md",
     "Programación/Python/Modulos/__doc__ - Python.md",
@@ -225,7 +226,6 @@
     "SMX/M4/Samba-AD-DC/MANUAL EXAMEN M4.md",
     "SMX/M4/Samba-AD-DC/Esquema de red (CONSULTINGTHOS.LAN).canvas",
     "SMX/M4/Samba-AD-DC/PDFs/pt4.1-Sebastian-Ariel.pdf",
-    "SMX/M4/Samba-AD-DC/Creación de un Samba Active Directory Domain Controller - Conexión con Windows 11.md",
     "Assets/PrimerServidorWeb.jpg",
     "SMX/M12/RASPI-SERVER-HOSTING/Auditorias/Esquema de auditorias.canvas",
     "SMX/M12/Linux-General/Linux - Esquema básico de enrutamiento.canvas",

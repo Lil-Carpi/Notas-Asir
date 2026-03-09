@@ -1,8 +1,6 @@
 #SQL - Structured Query Language
 Proveniente de [[Índice - SQL]]
 
-
-
 ---
 Source:
 - [Exercicis de consultes | Aulavirtual Ies Thos i Codina](https://aulavirtual.iesthosicodina.cat/moodle/mod/page/view.php?id=179323)

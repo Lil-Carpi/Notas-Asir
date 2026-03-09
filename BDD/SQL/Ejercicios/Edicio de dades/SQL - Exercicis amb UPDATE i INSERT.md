@@ -2,17 +2,18 @@
 Proveniente de [[Índice - SQL]]
 
 ---
-1- Crea un mallot per a cada equip.  
+### 1. Crea un mallot per a cada equip.  
 Amb un 'codigo' creat a partir de l'atribut equipo.nombre, amb tipo='Equipo', color='Taronja' i premio=0.  
 ```SQL
-
+INSERT INTO maillot SELECT LEFT(REPLACE(nombre,'TEAM ',''),3) as codigo, 'Equipo' as tipo, 'Taronja' as color, 0 as premio FROM equipo;
 ```
-
 
 2- Crea un nou equip 'Veterans' amb tots els ciclistes d'edat >=34.  
    2a- Versió INSERT duplicant els ciclistes  
-   2b- Versió UPDATE  
+```SQL
 
+```
+   2b- Versió UPDATE  
 ```SQL
 
 ```

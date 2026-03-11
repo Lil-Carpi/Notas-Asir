@@ -1,5 +1,5 @@
+#Manuales
 M8: Aplicacions Web
-Sebastian Ariel Duarte Oruez
 Grupo: G4
 Año: 24/25
 [[Instal·lacio de Moodle]]

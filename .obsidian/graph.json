@@ -71,10 +71,10 @@
       }
     },
     {
-      "query": "tag:#LilCMS",
+      "query": "tag:#Manuales",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16689798
       }
     },
     {
@@ -130,6 +130,6 @@
   "repelStrength": 7.96549479166667,
   "linkStrength": 0.6162109375,
   "linkDistance": 223,
-  "scale": 0.4682213077274784,
+  "scale": 0.20809835898999002,
   "close": false
 }

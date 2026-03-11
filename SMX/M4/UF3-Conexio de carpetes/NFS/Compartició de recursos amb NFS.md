@@ -1,9 +1,10 @@
-#Manuales
-**Creador: Sebastian Ariel Duarte Oruez
+#Manuales 
+Vinculable con:
+- [[NFS]]
+---
 M4: Sistemes operatius en xarxa
 Grupo: G4
 Año: 24/25**
-![[banana.gif]]
 
 **FET EN MARKDOWN - OBSIDIAN**
 

@@ -17,12 +17,18 @@
     "regex",
     "sanitización",
     "subshells",
-    "trigger"
+    "trigger",
+    "Proxmox",
+    "Proxmox",
+    "Proxmox",
+    "Proxmox",
+    "Proxmox",
+    "Kernel"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
   "longCheckNotification": true,
-  "staticLanguage": "es-ES",
+  "staticLanguage": "ca-ES",
   "disabledRules": "AGREEMENT_POSTPONED_ADJ,WRONG_IMPERATIVE"
 }

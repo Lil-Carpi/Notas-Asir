@@ -13,22 +13,18 @@
     "Bash",
     "Fedora",
     "Git",
+    "Kernel",
     "multiselección",
+    "Proxmox",
     "regex",
     "sanitización",
     "subshells",
-    "trigger",
-    "Proxmox",
-    "Proxmox",
-    "Proxmox",
-    "Proxmox",
-    "Proxmox",
-    "Kernel"
+    "trigger"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
   "longCheckNotification": true,
-  "staticLanguage": "ca-ES",
+  "staticLanguage": "es-ES",
   "disabledRules": "AGREEMENT_POSTPONED_ADJ,WRONG_IMPERATIVE"
 }

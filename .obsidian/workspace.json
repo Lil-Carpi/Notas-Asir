@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMX/M4/UF3-Conexio de carpetes/NFS/Compartició de recursos amb NFS.md",
+                "file": "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compartició de recursos amb NFS"
+              "title": "Proxmox - CAD"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KVM.md",
+                "file": "Canal de fibra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KVM"
+              "title": "Canal de fibra"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Proxmox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 447.5,
+    "collapsed": true
   },
   "right": {
     "id": "519d5773673c1040",
@@ -209,27 +210,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c67652551617499f",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
+    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
+    "Canal de fibra.md",
+    "SMX/M4/UF3-Conexio de carpetes/NFS/Compartició de recursos amb NFS.md",
+    "KVM.md",
     "GlusterFS.md",
     "Corosync.md",
     "CEPH.md",
-    "Canal de fibra.md",
     "SMX/RECUPERACIONES/M8/Lista de UFs suspendidas - M8.md",
-    "SMX/M4/UF3-Conexio de carpetes/NFS/Compartició de recursos amb NFS.md",
     "SMX/M8/UF4-Portals_d'aprenentatge/Instal·lacio de Moodle - Cursos i categories.md",
     "SMX/M8/UF4-Portals_d'aprenentatge/Instal·lacio de Moodle.md",
     "SMX/M12/RASPI-SERVER-HOSTING/SMTPRELAY/SMTPRELAY2/SMTP - M12.md",
     "SMX/M8/UF4-Portals_d'aprenentatge/Instal·lacio de Moodle - Cursos i categories - Perfils i rols.md",
     "SMX/M4/Samba-AD-DC/MANUAL EXAMEN M4.md",
     "SMX/M4/UF3-Conexio de carpetes/NFS/Compartir carpetes entre OS.md",
-    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
     "Assets/IdentificadorDeXarxa-PT9.1-RA4-M5.png",
     "Assets/pve3-PT9.1-RA4-M5.png",
     "Assets/pve2-PT9.1-RA4-M5.png",
     "Assets/pve1-PT9.1-RA4-M5.png",
     "OpenVZ.md",
-    "KVM.md",
     "ZFS.md",
     "iSCSI.md",
     "NFS.md",

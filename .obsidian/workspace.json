@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "938301416a08464a",
+        "id": "3ac5c0959dfef9f9",
         "type": "tabs",
         "children": [
           {
-            "id": "2be4d312d902abee",
+            "id": "dc147836dd230535",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Python/Modulos/Sys - Python/Funciones básicas (sys) - Python.md",
-                "mode": "source",
+                "file": "SMX/M4/UF3-Conexio de carpetes/NFS/Compartició de recursos amb NFS.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funciones básicas (sys) - Python"
-            }
-          },
-          {
-            "id": "1420923dc937a1a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación/Python/Modulos/OS - Python/Funciones básicas (os) - Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Funciones básicas (os) - Python"
-            }
-          },
-          {
-            "id": "7a6268a247c87860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programación/Python/Modulos/Sys - Python/Receptor de argumentos - Sys (Python).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Receptor de argumentos - Sys (Python)"
+              "title": "Compartició de recursos amb NFS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,38 +195,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a6268a247c87860",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "Programación/Python/Modulos/OS - Python/Funciones básicas (os) - Python.md",
-    "Programación/Python/Modulos/Sys - Python/Funciones básicas (sys) - Python.md",
-    "Programación/Python/Modulos/Sys - Python/Receptor de argumentos - Sys (Python).md",
-    "Programación/Python/Modulos/Sys - Python/sys - Índice · Python.md",
-    "Programación/Python/Modulos/Shutil - Python/Funciones básicas (Shutil) - Python.md",
-    "Programación/Python/Modulos/Shutil - Python/Shutil - Índice · Python.md",
+    "NFS.md",
     "SMX/M4/UF3-Conexio de carpetes/NFS/Compartició de recursos amb NFS.md",
-    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Basicos/Bucles WHILE - Python.md",
-    "Programación/Python/Basicos/Bucles FOR - Python.md",
-    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
-    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Índice - CAD (Cluster de Alta Disponibilidad).md",
-    "Canal de fibra.md",
+    "Assets/stop-servicios.png",
+    "Sin título.base",
+    "TurnKey Linux Virtual Appliance Library.md",
+    "Red Hat Cluster Suite (RHCS).md",
+    "README.md",
+    "OpenVZ.md",
+    "Modelo Cliente-Servidor.md",
     "KVM.md",
+    "iSCSI.md",
     "GlusterFS.md",
     "Corosync.md",
     "CEPH.md",
-    "SMX/RECUPERACIONES/M8/Lista de UFs suspendidas - M8.md",
-    "SMX/M8/UF4-Portals_d'aprenentatge/Instal·lacio de Moodle - Cursos i categories.md",
-    "SMX/M8/UF4-Portals_d'aprenentatge/Instal·lacio de Moodle.md",
-    "SMX/M12/RASPI-SERVER-HOSTING/SMTPRELAY/SMTPRELAY2/SMTP - M12.md",
-    "SMX/M8/UF4-Portals_d'aprenentatge/Instal·lacio de Moodle - Cursos i categories - Perfils i rols.md",
-    "SMX/M4/Samba-AD-DC/MANUAL EXAMEN M4.md",
-    "SMX/M4/UF3-Conexio de carpetes/NFS/Compartir carpetes entre OS.md",
+    "Canal de fibra.md",
+    "SMX/M4/Samba-AD-DC/Creación de un Samba Active Directory Domain Controller - Conexión con Windows 11.md",
+    "SMX/M4/LDAP/Configuracio basica LDAP.md",
+    "BDD/SQL/Ejercicios/Edicio de dades/SQL - Exercicis amb UPDATE i INSERT.md",
+    "Programación/Python/Modulos/Sys - Python/Receptor de argumentos (script)- Sys (Python).md",
+    "Programación/Python/Modulos/OS - Python/Funciones básicas (os) - Python.md",
+    "Programación/Python/Modulos/Sys - Python/Funciones básicas (sys) - Python.md",
+    "Programación/Python/Modulos/Sys - Python/sys - Índice · Python.md",
+    "Programación/Python/Modulos/Shutil - Python/Funciones básicas (Shutil) - Python.md",
+    "Programación/Python/Modulos/Shutil - Python/Shutil - Índice · Python.md",
+    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
+    "Programación/Python/Basicos/Bucles WHILE - Python.md",
+    "Programación/Python/Basicos/Bucles FOR - Python.md",
     "Assets/IdentificadorDeXarxa-PT9.1-RA4-M5.png",
     "Assets/pve3-PT9.1-RA4-M5.png",
     "Assets/pve2-PT9.1-RA4-M5.png",
     "Assets/pve1-PT9.1-RA4-M5.png",
-    "OpenVZ.md",
-    "ZFS.md",
     "Assets/Pt9.1. Clúster dalta disponibilitat.pdf",
     "Sistemas operativos/Servidores/Windows Server - Servidores",
     "BDD/SQL/Ejercicios/Edicio de dades",
@@ -275,9 +247,7 @@
     "Teoria/Tipos de ataque",
     "Teoria/Microsoft",
     "Teoria/Triada CIA",
-    "Teoria/Pentesting/Tipos de prueba de penetracion",
     "Assets/ñu.webp",
-    "Assets/win11PRO.png",
     "Sin título.canvas",
     "Diario/Cosas a repasar.canvas",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas"

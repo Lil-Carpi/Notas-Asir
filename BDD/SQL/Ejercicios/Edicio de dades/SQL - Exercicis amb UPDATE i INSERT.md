@@ -11,11 +11,11 @@ INSERT INTO maillot SELECT LEFT(REPLACE(nombre,'TEAM ',''),3) as codigo, 'Equipo
 2- Crea un nou equip 'Veterans' amb tots els ciclistes d'edat >=34.  
    2a- Versió INSERT duplicant els ciclistes  
 ```SQL
-
+INSERT INTO ciclista (num, nombre, edad, equipo_id) SELECT num + 500, nombre, edad, 23 FROM ciclista WHERE edad >= 34;
 ```
    2b- Versió UPDATE  
 ```SQL
-
+UPDATE ciclista SET equipo_id = 23 WHERE edad >= 34;
 ```
 
 3- Afegeix a cada pedido un producto 'Cesta para pelotas'.  

@@ -2,9 +2,19 @@
 Documento Padre
 
 ---
-
 ### Documento padre de Python.
-Python es un lenguaje de alto nivel muy versatil y potente, utilizado actualmente para la IA, analisis de datos y ciberseguridad.
+
+![[Python-logo-notext.svg]]
+
+Python es un lenguaje de alto nivel de programacion interpretado, creado por Guido van Rossum, cuya filosofia hace incapie en la legibilidad de su codigo. Se trata de un lenguaje de programacion multiparadigma, ya que soporta parcialmente la orientacion a objetos, programacion imperativa y, en menor medida, programacion funcional. Es un lenguaje interpretado, dinamico y multiplataforma.
+
+Administrado por Pytho Software Foundation, posee una licencia de codigo abierto, denominada Python Software Foundation License. Python se clasifica constantemente como uno de los lenguajes de programacion mas populares, siendo ya en 2025 el mas popular y ademas con una amplia diferencia récord historico de mas de 15 puntos porcentuales sobre el siguiente.
+
+---
+![[GuidoVanRossumOSCON.jpg|350]]
+***[[Guido van Rossum|Guido van Rossum]], creador de Python en la OSCON del 2006***
+
+---
 
 
 ## Documentaciones (inglés):

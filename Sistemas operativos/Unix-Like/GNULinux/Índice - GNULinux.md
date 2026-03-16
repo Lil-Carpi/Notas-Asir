@@ -10,6 +10,8 @@ GNU/Linux surge de las contribuciones de varios proyectos de software, GNU (Inic
 
 A pesar de que al sistema operativo en sí se le llame solo *Linux*, este es solo el [[Kernel]]. El sistema operativo completo incluye el sistema GNU.
 
+![[linusAndRichard.jpg|1000]]
+*Linus Torvalds y Richard Stallman, creadores de GNU/Linux*
 ---
 ## Documentos hijos:
 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "nfs",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -130,6 +130,6 @@
   "repelStrength": 7.96549479166667,
   "linkStrength": 0.6162109375,
   "linkDistance": 223,
-  "scale": 0.20809835898999002,
-  "close": true
+  "scale": 0.702331961591216,
+  "close": false
 }

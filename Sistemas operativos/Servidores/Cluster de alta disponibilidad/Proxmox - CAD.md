@@ -153,4 +153,34 @@ Esperem al fet que acabi. Aquest és el resultat que volem:
 ***Fem el mateix amb el `pve2` i `pve3`***.
 
 ---
-![[Pasted image 20260317002819.png]]
+
+## Creació de monitors
+Ara, cal crear un monitor per fer servir totes les màquines.
+
+>[!Monitors]
+>```
+>pve1 > Monitor > Crear > Seleccionem el 3 pves
+>```
+![[proxmoxMonitorCreation.png]]
+>![[proxmoxMonitorCreationPVEs.png]]
+
+Ha de quedar-ne així:
+![[proxmoxMonitorCreationResults.png]]
+
+---
+
+## Configuració dels ODS
+Ara, configurem l'ODS per fer servir els discos de les tres màquines pve com un sol:
+```Instruccions
+ODS > Crear: ODS
+```
+![[proxmoxOSDconfig.png]]
+Ens sortirà una petita finestra per seleccionar el disc per fer l'ODS. Donem a següent:
+![[proxmoxCephOSD.png]]
+***Fem el mateix en les pestanyes de pve2 i pve3***.
+
+Ens hauria de quedar aixi, amb els tres discos funcionant:
+![[proxmoxCephOSDResult.png]]
+
+![[proxmoxCephOSDResultGeneral.png]]
+

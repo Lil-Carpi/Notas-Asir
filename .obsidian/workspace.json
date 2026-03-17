@@ -22,51 +22,27 @@
             }
           },
           {
-            "id": "3768931e9121748e",
+            "id": "e293b67043d052e6",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/proxmoxCephInstallSuccess.png"
+                "file": "Assets/proxmoxCephOSDResult.png"
               },
               "icon": "lucide-image",
-              "title": "proxmoxCephInstallSuccess"
+              "title": "proxmoxCephOSDResult"
             }
           },
           {
-            "id": "9825aa0b2b2fd3dc",
+            "id": "8fe0c206a5b0bede",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/proxmoxCephConfig.png"
+                "file": "Assets/proxmoxCephOSDResultGeneral.png"
               },
               "icon": "lucide-image",
-              "title": "proxmoxCephConfig"
-            }
-          },
-          {
-            "id": "b5ecad7a778153ab",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/proxmoxCephInstallStart.png"
-              },
-              "icon": "lucide-image",
-              "title": "proxmoxCephInstallStart"
-            }
-          },
-          {
-            "id": "b7c2f266c9d52e3f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/proxmoxCephInstall.png"
-              },
-              "icon": "lucide-image",
-              "title": "proxmoxCephInstall"
+              "title": "proxmoxCephOSDResultGeneral"
             }
           }
         ]
@@ -228,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.5
+    "width": 710.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,20 +221,22 @@
   },
   "active": "81447d669a718843",
   "lastOpenFiles": [
-    "Assets/Pasted image 20260317002819.png",
-    "Assets/proxmoxCephInstallSuccess.png",
+    "Assets/proxmoxCephOSDResultGeneral.png",
+    "Assets/proxmoxCephOSDResult.png",
     "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
-    "Assets/proxmoxCephConfig.png",
-    "Assets/proxmoxCephInstallStart.png",
-    "Assets/proxmoxCephInstall.png",
-    "Assets/proxmoxAditionalDrive.png",
-    "Assets/proxmoxDiskCreations.png",
-    "Assets/proxmoxDiskAttatchement.png",
-    "Assets/proxmoxClusterConnected.png",
-    "Assets/proxmoxJoinCluster.png",
-    "Assets/proxmoxClusterJoinResults.png",
-    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Índice - CAD (Cluster de Alta Disponibilidad).md",
+    "Assets/proxmoxCephOSD.png",
+    "Assets/Pasted image 20260317164455.png",
+    "Assets/proxmoxOSDconfig.png",
+    "Assets/proxmoxMonitorCreationResults.png",
+    "Assets/proxmoxMonitorCreationPVEs.png",
+    "Assets/proxmoxMonitorCreation.png",
     "SMX/M4/UF3-Conexio de carpetes/NFS/Compartició de recursos amb NFS.md",
+    "Assets/creacio-directoris-srv_nfs.png",
+    "NFS.md",
+    "Assets/proxmoxCephInstall.png",
+    "SMX/M4/Samba-AD-DC/MANUAL EXAMEN M4.md",
+    "BDD/SQL/Índice - SQL.md",
+    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Índice - CAD (Cluster de Alta Disponibilidad).md",
     "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
     "OpenVZ.md",
     "Red Hat Cluster Suite (RHCS).md",
@@ -272,15 +251,12 @@
     "Programación/Python/Modulos/__main__ - Python.md",
     "Programación/Python/Modulos/Funciones Magicas - Python.md",
     "Programación/Python/Índice - Python.md",
-    "NFS.md",
     "Assets/Pt9.1. Clúster dalta disponibilitat.pdf",
     "Programación/Python/Modulos/OS - Python/Funciones básicas (os) - Python.md",
     "Programación/Python/Modulos/OS - Python/OS - Índice · Python.md",
     "Programación/Python/Medios/Manipulacion de listas, diccionarios y tuplas - Python.md",
     "Programación/Python/Medios/Manipulacion avanzada de listas, diccionarios y tuplas - Python.md",
     "Programación/Python/Medios/Clases - Python.md",
-    "Programación/Python/Medios/Sentencia Match - Python.md",
-    "Programación/Python/Medios/try, except - Python.md",
     "Assets/GuidoVanRossumOSCON.jpg.wkdownload",
     "Sin título.base",
     "Sistemas operativos/Servidores/Windows Server - Servidores",

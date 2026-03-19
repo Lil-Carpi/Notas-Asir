@@ -25,6 +25,7 @@
   "remoteDictionary": [],
   "pickyMode": false,
   "longCheckNotification": true,
-  "staticLanguage": "ca-ES",
+  "injectProperties": true,
+  "staticLanguage": "es-ES",
   "disabledRules": "AGREEMENT_POSTPONED_ADJ,WRONG_IMPERATIVE"
 }

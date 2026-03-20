@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab386003953f5c9a",
+        "id": "9655b7b5770de554",
         "type": "tabs",
         "children": [
           {
-            "id": "a646a2fed0e1d457",
+            "id": "4ee1c57cd6334846",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,8 +196,18 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "a646a2fed0e1d457",
+  "active": "4ee1c57cd6334846",
   "lastOpenFiles": [
+    "Corosync.md",
+    "DNS Rebinding - Vulnerabilidades.md",
+    "GlusterFS.md",
+    "CEPH.md",
+    "RHEL.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros de consumidor/Fedora.md",
+    "UDP_IP - Protocolos de red.md",
+    "Alta disponibilidad.md",
+    "Redes/Protocolos de red/DNS - Protocolos de red.md",
+    "Totem Single Ring Ordering and Membership Protocol  - Protocolos de red.md",
     "Canal de fibra.md",
     "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
     "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
@@ -222,19 +232,9 @@
     "Sistemas operativos/Unix-Like/GNULinux/Índice - GNULinux.md",
     "OpenVZ.md",
     "Red Hat Cluster Suite (RHCS).md",
-    "Corosync.md",
     "BDD/SQL/Ejercicios/Edicio de dades/SQL - Exercicis amb UPDATE i INSERT.md",
     "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
-    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
-    "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
-    "SMX/M4/UF3-Conexio de carpetes/NFS/Compartir carpetes entre OS.md",
-    "SMX/M4/UF3-Conexio de carpetes/SAMBA/Comparticio de recursos amb SAMBA - M4.md",
-    "SMX/M4/UF3-Conexio de carpetes/SAMBA/Comparticio de recursos amb SAMBA.md",
-    "Programación/Python/Modulos/__main__ - Python.md",
-    "Programación/Python/Modulos/Funciones Magicas - Python.md",
-    "Programación/Python/Índice - Python.md",
     "Assets/Pt9.1. Clúster dalta disponibilitat.pdf",
-    "Programación/Python/Modulos/OS - Python/Funciones básicas (os) - Python.md",
     "Assets/GuidoVanRossumOSCON.jpg.wkdownload",
     "Sin título.base",
     "Sistemas operativos/Servidores/Windows Server - Servidores",

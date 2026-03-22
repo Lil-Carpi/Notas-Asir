@@ -26,6 +26,6 @@
   "pickyMode": false,
   "longCheckNotification": true,
   "injectProperties": true,
-  "staticLanguage": "es-ES",
+  "staticLanguage": "ca-ES",
   "disabledRules": "AGREEMENT_POSTPONED_ADJ,WRONG_IMPERATIVE"
 }

@@ -86,8 +86,3 @@ with open('log.txt', 'w') as f:
 	
 	sys.stdout = sys.__stdout__
 ```
-
-
----
-## Script: Receptor de argumentos:
-![[Receptor de argumentos (script)- Sys (Python)]]

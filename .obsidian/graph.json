@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#ProtocolosDeRed  ",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -130,6 +130,6 @@
   "repelStrength": 7.96549479166667,
   "linkStrength": 0.6162109375,
   "linkDistance": 223,
-  "scale": 0.1397580014842688,
-  "close": false
+  "scale": 0.13975800148426876,
+  "close": true
 }

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
+                "file": "Configuracion de NFS para Windows Cliete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxmox - CAD"
+              "title": "Configuracion de NFS para Windows Cliete"
+            }
+          },
+          {
+            "id": "d16aa817cbd498bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuracion de NFS para Windows Cliete.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuracion de NFS para Windows Cliete"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:proxmoxPVE2Shutdown",
+                "query": "file:Red Hat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,10 +211,40 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "4ee1c57cd6334846",
+  "active": "d16aa817cbd498bb",
   "lastOpenFiles": [
-    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Índice - CAD (Cluster de Alta Disponibilidad).md",
-    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
+    "Compartir recursos entre Windows y Linux mediante NFS.md",
+    "Configuracion de NFS para Windows Cliete.md",
+    "Teoria/Empresas/Red Hat/Red Hat Inc.md",
+    "Teoria/Tipo de hackers/Red Hat (Sombrero rojo).md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/Red Hat.md",
+    "DNS Poisoning.md",
+    "Corosync.md",
+    "KVM.md",
+    "Bob Young.md",
+    "SMX/M4/UF3-Conexio de carpetes/NFS/Compartició de recursos amb NFS.md",
+    "SMX/M4/Samba-AD-DC/Creación de un Samba Active Directory Domain Controller - Conexión con Windows 11.md",
+    "SMX/M4/Integracio-LINUXxSAMBA/Integració de clients heterogenis en un servei de directori.pdf",
+    "SMX/M4/Integracio-LINUXxSAMBA/Integració de clients heterogenis en un servei de directori.md",
+    "SMX/M4/UF3-Conexio de carpetes/NFS/Compartir carpetes entre OS.md",
+    "Assets/nfsWindowsClientInstallation.png",
+    "Assets/nfsWindowsClientInstallationActivation.png",
+    "Assets/nfsWindowsClientInstallationSearch.png",
+    "Redes/Protocolos de red/DNS - Protocolos de red.md",
+    "ZFS.md",
+    "Sistemas operativos/Unix-Like/Índice - UnixLike OS.md",
+    "Sistemas operativos/Índice - Sistemas operativos.md",
+    "Teoria/Kerberos.md",
+    "Teoria/Interoperabilidad - Correos electronicos y Bases de datos.md",
+    "Teoria/Ingeniería inversa.md",
+    "Teoria/HoneyPot.md",
+    "Teoria/HoneyNet.md",
+    "Teoria/Espionaje.md",
+    "Teoria/DMZ (Zona Desmilitarizada).md",
+    "Teoria/Defacer.md",
+    "Teoria/Deep Web (Web oscura).md",
+    "Assets/PDFs/Pràctica 9.1. Clúster d'alta disponibilitat.pdf",
+    "Assets/PDFs",
     "Assets/proxmoxItWorksScreen.png",
     "Assets/proxmoxHACreation.png",
     "Assets/proxmoxHAMachine.png",
@@ -207,35 +252,8 @@
     "Assets/proxmoxHATestPVE1Shutdown.png",
     "Assets/proxmoxHATestPVE1ShuttedDown.png",
     "Assets/proxmoxHATestPVE1ShuttedDown2.png",
-    "Assets/proxmoxHATestSuccessful.png",
-    "Assets/proxmoxHATestPVE1ShuttedDown4.png",
-    "Assets/proxmoxHATestPVE1ShuttedDown3.png",
-    "SMX/M8/UF4-Portals_d'aprenentatge/Instal·lacio de Moodle.md",
-    "Linus Torvalds.md",
-    "CEPH.md",
-    "GlusterFS.md",
-    "Teoria/Empresas/Red Hat/Red Hat Inc.md",
-    "Red Hat Linux.md",
-    "Red Hat Enterprise Linux.md",
-    "Bob Young.md",
-    "Canal de fibra.md",
-    "Marc Ewing.md",
     "Teoria/Empresas/Red Hat",
     "Teoria/Empresas",
-    "DNS Rebinding - Vulnerabilidades.md",
-    "Corosync.md",
-    "Programación/C/C - Índice.md",
-    "Programación/Python/Modulos/Shutil - Python/Shutil - Índice · Python.md",
-    "Programación/Python/Modulos/Shutil - Python/Funciones básicas (Shutil) - Python.md",
-    "Programación/Python/Modulos/OS - Python/OS - Índice · Python.md",
-    "Programación/Python/Modulos/OS - Python/Funciones básicas (os) - Python.md",
-    "Programación/Python/Modulos/getopt - Python/getopt - Índice · Python.md",
-    "Programación/Python/Modulos/Sys - Python/Xperimento - Python.md",
-    "Programación/Python/Modulos/Sys - Python/sys - Índice · Python.md",
-    "Programación/Python/Modulos/Sys - Python/Funciones básicas (sys) - Python.md",
-    "SMX/M12/Linux-General/Enrutamiento automatizado - Bash Scripting.md",
-    "SMX/M4/Samba-AD-DC/Creación de un Samba Active Directory Domain Controller - Conexión con Windows 11.md",
-    "SMX/M4/Integracio-LINUXxSAMBA/Integració de clients heterogenis en un servei de directori.pdf",
     "SMX/M4/Samba-AD-DC/Esquema de red (CONSULTINGTHOS.LAN).canvas",
     "SMX/M7/DHCP/ESQUEMA-APIPA.canvas",
     "SMX/M12/Linux-General/Linux - Esquema básico de enrutamiento.canvas",
@@ -245,10 +263,8 @@
     "Sin título.base",
     "Sistemas operativos/Servidores/Windows Server - Servidores",
     "BDD/SQL/Ejercicios/Edicio de dades",
-    "SMX/M4/Samba-AD-DC/PDFs/pt4.1-Sebastian-Ariel.pdf",
     "SMX/M7/DHCP/ESQUEMA-DHCPxMAC.canvas",
     "SMX/M7/DHCP/ESQUEMA-DHCPxDHCP_DISCOVER.canvas",
-    "Teoria/Vulnerabilidades",
     "Sin título.canvas",
     "Diario/Cosas a repasar.canvas",
     "Documentación personal/Seguridad-Informatica/Vista General 1.canvas"

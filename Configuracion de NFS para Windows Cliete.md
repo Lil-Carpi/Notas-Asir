@@ -16,5 +16,7 @@ Install-WindowsFeature -Name NFS-Client
 
 Montar una carpeta compartida en windows por la shell
 ```shell
-mount -o anon \\IP_SERVER\RUTA X:
+mount -o anon IP_SERVIDOR:/ruta/compartida X:
 ```
+>[!attention]
+>Para ponerle una letra en especifico, se ha de cambiar la `X` por la letra deseada. Si quieres poner una letra aleatoria, ponga `*`

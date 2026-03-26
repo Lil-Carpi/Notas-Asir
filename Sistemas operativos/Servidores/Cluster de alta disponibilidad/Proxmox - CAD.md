@@ -14,7 +14,7 @@ Proxmox és un entorn de virtualització de servidors de codi obert. És una dis
 *Proxmox VE està baix llicència GNU Affero General Public License, versió 3.*
 
 ### Models d'emmagatzematge
-Proxmox suporta emmagatzematge local amb el grup LVM, el directori i [[ZFS|ZFS]], així com tipus de xarxa d'emmagatzematge com [[iSCSI|iSCSI]], [[Canal de fibra|Canal de fibra]], [[NFS|NFS]], [[GlusterFS|GlusterFS]] i [[CEPH|CEPH]].
+Proxmox suporta emmagatzematge local amb el grup LVM, el directori i [[ZFS|ZFS]], així com tipus de xarxa d'emmagatzematge com [[iSCSI|iSCSI]], [[Canal de fibra|Canal de fibra]], [[Índice - NFS|NFS]], [[GlusterFS|GlusterFS]] i [[CEPH|CEPH]].
 
 ### Clúster d'alta disponibilitat
 Proxmox pot ser agrupat a través de múltiples nodes del servidor.
@@ -302,3 +302,18 @@ I veurem que el servidor Apache passa a mans de `pve2`
 
 Provem d'entrar a la web i veurem que funciona com si res ha passat
 ![[proxmoxHATestSuccessful.png]]
+
+---
+## Configuracio de prioritats
+Es pot configurar la prioritat del cluster si cal. 
+Modus operandi:
+- Maquina virtual es troba a `pve1`
+- `pve1` cau, la maquina virtual passa a `pve2`
+- Quan `pve1` torna a estar-ne operatiu, la maquina virtual passa del `pve2` al `pve1`
+
+```instruccions
+Centro de datos > HA > Reglas de afinidad > Reglas de afinidad con el nodo HA
+```
+![[proxmoxHAPriority.png]]
+
+![[proxmoxHAPriorityConfigured.png]]

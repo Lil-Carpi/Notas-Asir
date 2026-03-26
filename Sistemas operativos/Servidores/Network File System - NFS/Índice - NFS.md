@@ -6,3 +6,10 @@
 - También se pueden compartir a través de la red dispositivos de almacenamiento con disqueteras, CD-ROM y unidades ZIP. Esto puede reducir la inversión en dichos dispositivos y mejorar el aprovechamiento del hardware existente en la organización.
 
 Todas las operaciones sobre ficheros son síncronas. Esto significa que la operación solo retorna cuando el servidor ha completado todo el trabajo asociado para esa operación. En caso de una solicitud de escritura, el servidor escribirá físicamente los datos en el disco, y si es necesario, actualizará la estructura de directorios, antes de devolver una respuesta al cliente. Esto garantiza la integridad de los ficheros.
+
+---
+## Los manuales de configuracion de NFS o actividades hechas con NFS son:
+
+- [[Compartició de recursos amb NFS]]
+- [[Compartir carpetes entre OS]]
+- [[Configuracion de NFS para Windows Cliete]]

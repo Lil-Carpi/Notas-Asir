@@ -1,6 +1,6 @@
 #Manuales 
 Vinculable con:
-- [[NFS]]
+- [[Índice - NFS]]
 ---
 M4: Sistemes operatius en xarxa
 Grupo: G4

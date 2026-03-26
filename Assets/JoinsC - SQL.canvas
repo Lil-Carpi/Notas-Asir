@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"026922725c6278e8","type":"group","x":-430,"y":-200,"width":310,"height":281,"color":"1","label":"Consulta"},
+		{"id":"02a0aa3883739274","type":"text","text":"# B","x":-320,"y":-178,"width":180,"height":158,"color":"2"},
+		{"id":"8f4ed051c26bb802","type":"text","text":"# A","x":-410,"y":-97,"width":180,"height":162,"color":"4"},
+		{"id":"4f335cc8dda9f68c","type":"text","text":"# LEFT JOIN\nTodas las lineas de la tabla `A`, aún si estas no existen en la tabla `B`.","x":-780,"y":120,"width":300,"height":160,"color":"4"},
+		{"id":"d4f8e22f4a58f634","type":"text","text":"# INNER JOIN (`C`)\nMuestra el resultado que existe en ambas tablas.","x":-440,"y":120,"width":300,"height":160,"color":"5"},
+		{"id":"caaa8c2d96cc0bb5","type":"text","text":"# C","x":-320,"y":-99,"width":90,"height":75,"color":"5"},
+		{"id":"8d30b31168c03a59","type":"text","text":"# RIGHT JOIN\nTodas las lineas de la tabla `B`, aún si estas no existen en la tabla `A`","x":-100,"y":120,"width":300,"height":160,"color":"2"}
+	],
+	"edges":[
+		{"id":"7cda9461b1857853","fromNode":"8f4ed051c26bb802","fromSide":"left","toNode":"4f335cc8dda9f68c","toSide":"top"},
+		{"id":"59d76f9770559cea","fromNode":"caaa8c2d96cc0bb5","fromSide":"bottom","toNode":"d4f8e22f4a58f634","toSide":"top"},
+		{"id":"d668bc7fca3b0aeb","fromNode":"02a0aa3883739274","fromSide":"right","toNode":"8d30b31168c03a59","toSide":"top"}
+	]
+}

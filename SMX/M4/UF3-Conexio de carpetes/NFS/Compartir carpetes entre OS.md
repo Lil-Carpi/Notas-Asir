@@ -1,6 +1,6 @@
 #Manuales
 Vinculable con:
-- [[NFS]]
+- [[Índice - NFS]]
 ---
 
 ```table-of-contents

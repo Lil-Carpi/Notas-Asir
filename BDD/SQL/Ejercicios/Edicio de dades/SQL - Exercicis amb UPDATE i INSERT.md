@@ -32,7 +32,7 @@ Amb 'fecha' d'avui, tipo 'd' i 'fecha_envio' demà.
 S’han de fer dos INSERT, un per ‘pedido’ i un altre per ‘detalle’.  
 
 ```SQL
-INSERT INTO pedido SELECT (SELEC MAX(id) FROM pedido)+ROW_NUMBRER() OVER() AS pedido,curdate(), 'd', id AS cliente, DATE_ADD(curdate(),interval 1 day)AS fecha_envio, 0 FROM cliente ORDER BY cliente.id;
+INSERT INTO pedido SELECT (SELECT MAX(id) FROM pedido)+ROW_NUMBRER() OVER() AS pedido,curdate(), 'd', id AS cliente, DATE_ADD(curdate(),interval 1 day)AS fecha_envio, 0 FROM cliente ORDER BY cliente.id;
 
 INSERT INTO detalle SELECT MAX(id), 1, (SELECT id FROM producto WHERE nombre='Pack de 6 pelotas de tenis') AS producto, 0, 1 FROM pedido GROUP BY cliente_id;
 ```

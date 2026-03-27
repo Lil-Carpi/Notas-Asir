@@ -6,29 +6,57 @@ Tambien, el resultado de las consultas dependeran directamente de la posicion de
 ![[JoinsC - SQL.png]]
 
 ---
-## `LEFT JOIN`
-Esta consulta, mostrara todas las lineas que existan en la tabla `A`, aún si estas no existen en la tabla `B`.
-
-***Sintaxis:***
+## Como hacer JOINS
+Antes, se ha de tener en cuenta la estructura de la consulta:
 ```SQL
-SELECT nombre_columna (s) FROM tabla1 LEFT JOIN tabla2 ON tabla1.nombre_columna = tabla2.nombre_columna
+SELECT ...
+FROM tabla1
+JOIN tabla2 ON condición_A
+JOIN tabla3 on condicion_B
 ```
 
-## Ejemplo
+### JOIN natural
 
-Esta es la tabla "*Customers*":
+La sintaxis para hacer joins, tiene tres partes:
+- SELECT: Columnas que se quiere visualizar
+- FROM `[...]` JOIN `[...]`: Las dos tablas a juntar
+- ON: La condición de la unión, es decir, las columnas que se tienen en común, que normalmente se pilla la clave primaria de una y la clave foránea de la otra.
 
-| CustomerID | CustomerName                       | ContactName    | Address                       | City        | PostalCode | Country |
-| ---------- | ---------------------------------- | -------------- | ----------------------------- | ----------- | ---------- | ------- |
-| 1          | Alfreds Futterkiste                | Maria Anders   | Obere Str. 57                 | Berlin      | 12209      | Germany |
-| 2          | Ana Trujillo Emparedados y helados | Ana Trujillo   | Avda. de la Constitución 2222 | México D.F. | 05021      | Mexico  |
-| 3          | Antonio Moreno Taquería            | Antonio Moreno | Mataderos 2312                | México D.F. | 05023      | Mexico  |
+La estructura general es así:
+```SQL
+SELECT tabla1.columna, tabla2.columna
+FROM tabla1
+JOIN tabla2 ON tabla1.clave_foranea = tabla2.clave_primaria;
+```
 
-y esta es la tabla "*Orders*":
+Vamos a hacer unos ejercicios de ejemplo para ver como funciona. Usaré la tabla de ciclismo.
 
-| OrderID | CustomerID | EmployeeID | OrderDate  | ShipperID |
-| ------- | ---------- | ---------- | ---------- | --------- |
-| 10308   | 2          | 7          | 1996-09-18 | 3         |
-| 10309   | 37         | 3          | 1996-09-19 | 1         |
-| 10310   | 77         | 8          | 1996-09-20 | 2         |
+---
+#### Muestra el nombre de cada ciclista junto con el nombre de su equipo.
+Aquí, se necesitará conectar la tabla ciclista con la tabla equipos
+```SQL
+SELECT ciclista.nombre, equipo.nombre AS equipo 
+FROM ciclista 
+JOIN equipo ON ciclista.equipo_id = equipo.id;
+```
+Selecciona de la tabla ciclista, la columna nombre, de la tabla equipo, la columna nombre como "equipo" de la tabla ciclista y júntalo con la tabla ciclista columna equipo_id con la tabla equipo columna id.
 
+#### Muestra el nombre de los ciclistas que hayan ganado la etapa junto con la ciudad de llegada de esa etapa.
+Aquí, se conecta la tabla ciclista con la tabla etapa.
+```SQL
+SELECT ciclista.nombre, etapa.ganador_num, etapa.llegada 
+FROM ciclista 
+JOIN etapa ON ciclista.num = etapa.ganador_num;
+```
+Selecciona de la tabla ciclista, el nombre, de la tala etapa, la columna ganador_num y también la columna llegada de la tabla ciclista y únelo con la tabla etapa con la columna número de la tabla ciclista y la columna ganador_num de la tabla etapa.
+
+#### Queremos saber quién ha llevado cada maillot. Muestra el nombre del ciclista, el color del maillot y el número de etapa correspondiente.
+Aquí, se unen tres tablas: Ciclista, lleva y maillot
+```SQL
+SELECT ciclista.nombre, maillot.color, lleva.etapa_num
+JOIN lleva on ciclista.num = lleva.ciclista_num
+JOIN maillot ON lleva.maillot_codigo = maillot.codigo;
+```
+
+---
+### LEFT JOIN

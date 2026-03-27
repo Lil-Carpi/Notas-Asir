@@ -24,7 +24,7 @@ Per cada 'pedido_id' haurem de calcular l'atribut 'numero' adequat, amb producte
  a) Crea la subconsulta  
  b) INSERT amb la subconsulta.  
 ```SQL
-
+INSERT INTO detalle SELECT pedido_id, MAX(numero)+1,102140, 0, 1 FROM detalle GROUP BY pedido_id;
 ```
 
 4- Crea una comanda(‘pedido’) per a cada ‘cliente’ amb el producte 'Pack de 6 pelotas de tenis' de regal.  
@@ -32,13 +32,18 @@ Amb 'fecha' d'avui, tipo 'd' i 'fecha_envio' demà.
 S’han de fer dos INSERT, un per ‘pedido’ i un altre per ‘detalle’.  
 
 ```SQL
+INSERT INTO pedido SELECT (SELEC MAX(id) FROM pedido)+ROW_NUMBRER() OVER() AS pedido,curdate(), 'd', id AS cliente, DATE_ADD(curdate(),interval 1 day)AS fecha_envio, 0 FROM cliente ORDER BY cliente.id;
 
+INSERT INTO detalle SELECT MAX(id), 1, (SELECT id FROM producto WHERE nombre='Pack de 6 pelotas de tenis') AS producto, 0, 1 FROM pedido GROUP BY cliente_id;
 ```
 
 5- Afegeix totes les marques de 'marca' a 'practica' si són millors que les actuals a 'practica'.  
 Segons els casos, podria ser necessari fer DELETE i INSERT o UPDATE. Hi ha diverses possibilitats.
 ```SQL
+SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;
+START TRANSACTION;
 
+DELETE FROM practica WHERE(numllicencia, codiesp) IN (SELECT DISTINCT numllicencia, codiesp FROM marca NATURAL LEFT JOIN practica NATURAL LEFT JOIN especialitat WHERE UNITATMARQUES='segons' AND registre < marca_personal OR unitatmarques!='segons' AND registre > marca_personal OR marca_personal IS NULL);
 ```
 
 

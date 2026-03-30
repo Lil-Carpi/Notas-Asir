@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BDD/SQL/Joins - SQL.md",
-                "mode": "source",
+                "file": "Programación/PHP/Conexiones/Prepared Statements - PHP.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Joins - SQL"
+              "title": "Prepared Statements - PHP"
             }
           }
         ]
@@ -199,10 +199,17 @@
   },
   "active": "a739787aeafcbad4",
   "lastOpenFiles": [
+    "Programación/PHP/Conexiones/Configuración de base de datos para la conexión PHP - PHP.md",
+    "Programación/PHP/Conexiones/Conexion a base de datos MariaDB - PHP.md",
+    "Programación/PHP/Conexiones/Prepared Statements - PHP.md",
+    "Programación/PHP/Sanitización de código - PHP.md",
+    "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
+    "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
+    "Programación/PHP/Conexiones",
+    "BDD/SQL/Joins - SQL.md",
     "BDD/SQL/SQL - Consultas Avanzadas y Subconsultas.md",
     "BDD/SQL/Sin título.md",
     "BDD/SQL/Índice - SQL.md",
-    "BDD/SQL/Joins - SQL.md",
     "BDD/SQL/Ejercicios/Edicio de dades/SQL - Exercicis amb UPDATE i INSERT.md",
     "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
     "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
@@ -220,14 +227,8 @@
     "Telnet.md",
     "IPMI.md",
     "JMX.md",
-    "XMPP.md",
-    "GNU General Public License.md",
-    "Sistema de monitorizacion de redes.md",
-    "CEPH.md",
     "Assets/Zabbix.png",
     "Sistemas operativos/Servidores/Monitorizacion",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Linus Torvalds.md",
     "Assets/proxmoxHAPriority.png",
     "Assets/proxmoxHAPriorityConfigured.png",
     "Inicio.base",
@@ -249,7 +250,6 @@
     "SMX/M7/DHCP/ESQUEMA-APIPA.canvas",
     "SMX/M12/Linux-General/Linux - Esquema básico de enrutamiento.canvas",
     "SMX/M12/RASPI-SERVER-HOSTING/Auditorias/Esquema de auditorias.canvas",
-    "Assets/Pt9.1. Clúster dalta disponibilitat.pdf",
     "SMX/M7/DHCP/ESQUEMA-DHCPxMAC.canvas",
     "SMX/M7/DHCP/ESQUEMA-DHCPxDHCP_DISCOVER.canvas",
     "Diario/Cosas a repasar.canvas",

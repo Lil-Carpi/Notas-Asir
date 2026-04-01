@@ -1,3 +1,4 @@
+#SoftwareTools
 Metasploit es una herramienta que proporciona informacion acerca de [[Vulnerabilidad|vulnerabilidades]] y atuda a tests "[[Tipos de pruebas de penetración|pentesting]]" y el desarrollo de firmas para sistemas de deteccion de intrusos.
 
 ![[metasploitlogo.png]]

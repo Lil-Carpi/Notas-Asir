@@ -1,3 +1,4 @@
+#HardwareTools
 Un Cable O.MG es un cable programable para el robo de token de conneccion a una red Wi-Fi y robo de datos en general.
 
 ![[omgcable.webp]]

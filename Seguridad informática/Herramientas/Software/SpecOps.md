@@ -1,3 +1,4 @@
+#SoftwareTools
 SpecOps es una extensión para Active Directory desarrollado por OUTPOST24. Sirve para aconsejar a sus usuarios de las contraseñas que son seguras o no.
 ![[specops.svg|400]]
 

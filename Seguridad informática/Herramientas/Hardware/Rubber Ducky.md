@@ -1,3 +1,4 @@
+#HardwareTools
 Un Rubber Ducky es un tipo de [[BadUSB]]. Se utiliza para automatizar tareas de robo de datos o de instalacion de malware mediante scripts.
 
 ![[rubberducky.png]]

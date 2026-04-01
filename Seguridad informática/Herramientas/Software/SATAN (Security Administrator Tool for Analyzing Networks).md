@@ -1,3 +1,4 @@
+#SoftwareTools
 S.A.T.A.N (Security Administrator Tool for Analyzing Networks) es una herramienta de testeo que recolecta una variedad de informacion acerca de host de red y fue considerada una de las mejores en su momento. De hecho, fue el primer scanner amigable con el usuario: Posee una interfaz HTML completa con formularios para ingresar objetivos, tablas para mostrar resultados y tutoriales que aparecen cuando se ha encontrado un [[Vulnerabilidad|agujero de seguridad]].
 ![[satan.png]]
 

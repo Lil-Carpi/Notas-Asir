@@ -1,3 +1,4 @@
+#SoftwareTools
 NESSUS es un programa de escaneo de [[Vulnerabilidad|vulnerabilidades]] en diversos sistemas operativos. Consiste en un Demonio o Diablo (daemon), _nessusd_, que realiza el escaneo en el sistema objetivo, y _NESSUS_, el cliente (basado en consola o grafico) que muestra el avance e informa sobre el estado de los escaneos. Desde consola _NESSUS_ puede ser programado para hacer escaneos. Desde consola _NESSUS_ puede ser programado para hacer escaneos programados con cron.
 ![[nessuslogo.png|400]]
 

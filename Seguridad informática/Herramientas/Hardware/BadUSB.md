@@ -1,3 +1,4 @@
+#HardwareTools
 ![[BADUSB con un Firmware Custom.jpg|350]]
 
 _Un BadUSB. En la forma 2, podemos observar un Firmware custom._

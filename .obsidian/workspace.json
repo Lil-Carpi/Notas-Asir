@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a89e68f154395b",
+        "id": "f92766b46af24230",
         "type": "tabs",
         "children": [
           {
-            "id": "a739787aeafcbad4",
+            "id": "648b633a63d28bb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Programación/PHP/Conexiones/Prepared Statements - PHP.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Alta disponibilidad.md",
+                "bFile": "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Alta disponibilidad.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Prepared Statements - PHP"
+              "icon": "diff",
+              "title": "Diff: Alta disponibilidad  (Working Tree)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "samba",
+                "query": "zabbi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5,
-    "collapsed": true
+    "width": 447.5
   },
   "right": {
     "id": "519d5773673c1040",
@@ -95,17 +94,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMX/M4/UF3-Conexio de carpetes/SAMBA/Comparticio de recursos amb SAMBA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Comparticio de recursos amb SAMBA"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -153,12 +151,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria/Historia del Internet y sus componentes/Historia de internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Historia de internet"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -197,36 +194,36 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "a739787aeafcbad4",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
+    "Redes/Protocolos de red/IPMI.md",
+    "Programación/PHP/Conexiones/Prepared Statements - PHP.md",
     "Programación/PHP/Conexiones/Configuración de base de datos para la conexión PHP - PHP.md",
     "Programación/PHP/Conexiones/Conexion a base de datos MariaDB - PHP.md",
-    "Programación/PHP/Conexiones/Prepared Statements - PHP.md",
-    "Programación/PHP/Sanitización de código - PHP.md",
-    "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
-    "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
     "Programación/PHP/Conexiones",
-    "BDD/SQL/Joins - SQL.md",
-    "BDD/SQL/SQL - Consultas Avanzadas y Subconsultas.md",
-    "BDD/SQL/Sin título.md",
-    "BDD/SQL/Índice - SQL.md",
-    "BDD/SQL/Ejercicios/Edicio de dades/SQL - Exercicis amb UPDATE i INSERT.md",
-    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
-    "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
-    "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
-    "Alta disponibilidad.md",
-    "Sistemas operativos/Servidores/Monitorizacion/ZABBIX - Monitorizacion de redes.md",
     "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
     "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Índice - CAD (Cluster de Alta Disponibilidad).md",
-    "SMX/M4/UF3-Conexio de carpetes/SAMBA/Comparticio de recursos amb SAMBA.md",
+    "Redes/Protocolos de red/Totem Single Ring Ordering and Membership Protocol  - Protocolos de red.md",
+    "Redes/Protocolos de red/Telnet.md",
+    "Sistemas operativos/Servidores/Monitorizacion/Sistema de monitorizacion de redes.md",
+    "README.md",
+    "Marc Ewing.md",
+    "Linus Torvalds.md",
+    "Configuracion de NFS para Windows Cliete.md",
+    "Compartir recursos entre Windows y Linux mediante NFS.md",
+    "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/RHEL.md",
+    "Red Hat Enterprise Linux.md",
+    "Red Hat Linux.md",
+    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Red Hat Cluster Suite (RHCS).md",
+    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/OpenVZ.md",
+    "Sistemas operativos/Servidores/Monitorizacion/ZABBIX - Monitorizacion de redes.md",
+    "Teoria/Tipos de ataque/DNS Poisoning.md",
+    "Redes/Protocolos de red/Canal de fibra.md",
+    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Alta disponibilidad.md",
+    "Seguridad informática/Herramientas/Software/Metasploit.md",
+    "Seguridad informática/Herramientas/Software/NMAP.md",
+    "Seguridad informática/Herramientas/Software/SATAN (Security Administrator Tool for Analyzing Networks).md",
     "Assets/zabbixNatNetworkConfig.png",
-    "().md",
-    "ITIL.md",
-    "SNMP.md",
-    "Windows.md",
-    "Telnet.md",
-    "IPMI.md",
-    "JMX.md",
     "Assets/Zabbix.png",
     "Sistemas operativos/Servidores/Monitorizacion",
     "Assets/proxmoxHAPriority.png",

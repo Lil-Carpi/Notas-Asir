@@ -1,3 +1,4 @@
+#HardwareTools
 Acceder a un disco duro con Windows puede ser una tarea fácil, pero no tanto cuando este se encuentra encriptado con [[Bitlocker]] y no es posible descifrarlo mediante software. Para ello, se ha inventado un pequeño tool llamado TPM SNIFFER montado en un Raspberry Pico (de ahí el nombre PICO TPM SNIFFER).
 
 ![[pico_tpm_sniffer.webp]]

@@ -1,3 +1,4 @@
+#HardwareTools
 Un USB KILLER es una unidad de prueba de alto voltaje. Se utiliza para probar puertos de coneccion contra sobretensiones.
 
 ![[usbkiller.jpg|300]]

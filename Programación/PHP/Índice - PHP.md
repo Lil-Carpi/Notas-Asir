@@ -7,6 +7,6 @@ Documento Padre
 Documentos Hijos:
 - [[Get y Post - PHP]]
 - [[Sanitización de código - PHP]]
-
-
-#SinRedactar 
+- [[Conexion a base de datos MariaDB - PHP]]
+- [[Configuración de base de datos para la conexión PHP - PHP]]
+- [[Prepared Statements - PHP]]

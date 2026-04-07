@@ -11,14 +11,14 @@
             "id": "648b633a63d28bb7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Alta disponibilidad.md",
-                "bFile": "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Alta disponibilidad.md",
-                "aRef": ""
+                "file": "Programación/PHP/Basicos/Control de flujo - PHP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Alta disponibilidad  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Control de flujo - PHP"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zabbi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,35 +194,35 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "648b633a63d28bb7",
   "lastOpenFiles": [
-    "Redes/Protocolos de red/IPMI.md",
-    "Programación/PHP/Conexiones/Prepared Statements - PHP.md",
+    "Programación/PHP/Basicos/Sintaxis básica - PHP.md",
+    "Programación/PHP/Basicos/Control de flujo - PHP.md",
+    "Programación/PHP/Basicos/Variables y strings - PHP.md",
     "Programación/PHP/Conexiones/Configuración de base de datos para la conexión PHP - PHP.md",
+    "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
+    "Programación/PHP/Metodos de consulta/REQUEST_METHOD - PHP.md",
+    "Programación/PHP/Índice - PHP.md",
+    "Programación/PHP/Metodos de consulta/Get y Post - PHP.md",
+    "Redes/Packet Tracer/Índice - Packet Tracer.md",
+    "Programación/PHP/Sanitización de código - PHP.md",
+    "Programación/PHP/Conexiones/Prepared Statements - PHP.md",
     "Programación/PHP/Conexiones/Conexion a base de datos MariaDB - PHP.md",
-    "Programación/PHP/Conexiones",
+    "Linus Torvalds.md",
+    "Marc Ewing.md",
+    "README.md",
+    "Configuracion de NFS para Windows Cliete.md",
+    "Compartir recursos entre Windows y Linux mediante NFS.md",
     "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
+    "SMX/RECUPERACIONES/M4/Lista de UFs suspendidas - M4.md",
+    "Redes/Protocolos de red/IPMI.md",
+    "Programación/PHP/Conexiones",
     "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Índice - CAD (Cluster de Alta Disponibilidad).md",
     "Redes/Protocolos de red/Totem Single Ring Ordering and Membership Protocol  - Protocolos de red.md",
     "Redes/Protocolos de red/Telnet.md",
     "Sistemas operativos/Servidores/Monitorizacion/Sistema de monitorizacion de redes.md",
-    "README.md",
-    "Marc Ewing.md",
-    "Linus Torvalds.md",
-    "Configuracion de NFS para Windows Cliete.md",
-    "Compartir recursos entre Windows y Linux mediante NFS.md",
     "Sistemas operativos/Unix-Like/GNULinux/Distros empresariales/RHEL.md",
     "Red Hat Enterprise Linux.md",
-    "Red Hat Linux.md",
-    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Red Hat Cluster Suite (RHCS).md",
-    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/OpenVZ.md",
-    "Sistemas operativos/Servidores/Monitorizacion/ZABBIX - Monitorizacion de redes.md",
-    "Teoria/Tipos de ataque/DNS Poisoning.md",
-    "Redes/Protocolos de red/Canal de fibra.md",
-    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Alta disponibilidad.md",
-    "Seguridad informática/Herramientas/Software/Metasploit.md",
-    "Seguridad informática/Herramientas/Software/NMAP.md",
-    "Seguridad informática/Herramientas/Software/SATAN (Security Administrator Tool for Analyzing Networks).md",
     "Assets/zabbixNatNetworkConfig.png",
     "Assets/Zabbix.png",
     "Sistemas operativos/Servidores/Monitorizacion",

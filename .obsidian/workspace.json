@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Directiva de grupo - Windows AD.md",
+                "file": "BDD/SQL/Backups/Copia de seguridad Física - SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Directiva de grupo - Windows AD"
+              "title": "Copia de seguridad Física - SQL"
+            }
+          },
+          {
+            "id": "40c01bea68b4a6a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BDD/SQL/Backups/Copia de seguridad Lógica - SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copia de seguridad Lógica - SQL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 447.5,
+    "collapsed": true
   },
   "right": {
     "id": "519d5773673c1040",
@@ -194,8 +210,24 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "648b633a63d28bb7",
+  "active": "40c01bea68b4a6a1",
   "lastOpenFiles": [
+    "BDD/SQL/Backups/Copia de seguridad Física - SQL.md",
+    "BDD/SQL/Backups/Copia de seguridad Lógica - SQL.md",
+    "BDD/SQL/Backups/mysqldump - SQL.md",
+    "BDD/SQL/Backups/Tipos de copias de seguridad - SQL.md",
+    "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
+    "BDD/SQL/Apuntes generales de SQL.md",
+    "BDD/SQL/SQL - Consultas Avanzadas y Subconsultas.md",
+    "Programación/HTML y CSS/CSS/Como centrar un DIV - CSS.md",
+    "BDD/SQL/Usuarios/Usuarios de MariaDB - SQL.md",
+    "BDD/SQL/Errores",
+    "BDD/SQL/Joins - SQL.md",
+    "BDD/SQL/Índice - SQL.md",
+    "BDD/SQL/Usuarios",
+    "BDD/SQL/Tecnicismos/Lenguaje de definición de datos (DDL).md",
+    "Directiva de grupo - Windows AD.md",
+    "BDD/SQL/Backups",
     "Assets/aniqtoohigh.png",
     "Assets/Pasted image 20260407170545.png",
     "Assets/Pasted image 20260407170422.png",
@@ -206,9 +238,7 @@
     "Assets/Pasted image 20260407170055.png",
     "Assets/Pasted image 20260407170035.png",
     "Assets/Pasted image 20260407170016.png",
-    "Assets/Pasted image 20260407165951.png",
     "Diario/2026-03-02 - ISOR.md",
-    "Directiva de grupo - Windows AD.md",
     "nigga.md",
     "Diario/2026-03-23 - PHP.md",
     "Diario/Cosas a repasar.canvas",
@@ -222,17 +252,6 @@
     "Teoria/Medio Inseguro.md",
     "Teoria/Malware.md",
     "Teoria/Lamers.md",
-    "Teoria/Kernel.md",
-    "Teoria/Kerberos.md",
-    "Teoria/ITIL.md",
-    "Teoria/Ingenieria Social.md",
-    "Teoria/Ingeniería inversa.md",
-    "Programación/PHP/Basicos/Control de flujo - PHP.md",
-    "Programación/PHP/Basicos/Sintaxis básica - PHP.md",
-    "Programación/PHP/Basicos/Variables y strings - PHP.md",
-    "Programación/PHP/Conexiones/Configuración de base de datos para la conexión PHP - PHP.md",
-    "Programación/PHP/Metodos de consulta/Formularios - PHP.md",
-    "Programación/PHP/Metodos de consulta/REQUEST_METHOD - PHP.md",
     "Programación/PHP/Conexiones",
     "Sistemas operativos/Servidores/Monitorizacion",
     "Inicio.base",
@@ -241,9 +260,6 @@
     "Sistemas operativos/Servidores/Network File System - NFS",
     "SMX/M4/Integracio-LINUXxSAMBA/Integració de clients heterogenis en un servei de directori.pdf",
     "Assets/PDFs/Pràctica 9.1. Clúster d'alta disponibilitat.pdf",
-    "Assets/PDFs",
-    "Teoria/Empresas/Red Hat",
-    "Teoria/Empresas",
     "SMX/M4/Samba-AD-DC/Esquema de red (CONSULTINGTHOS.LAN).canvas",
     "SMX/M7/DHCP/ESQUEMA-APIPA.canvas",
     "SMX/M12/Linux-General/Linux - Esquema básico de enrutamiento.canvas",

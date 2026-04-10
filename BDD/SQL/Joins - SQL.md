@@ -1,3 +1,7 @@
+#SQL - Structure Query Language
+Proveniente de [[Índice - SQL]]
+
+---
 Los Joins en SQL sirven principalmente para juntar datos de varias tablas a un resultado. El resultado variará por el tipo de join, aun utilizando las mismas dos tablas para hacer la consulta.
 
 Tambien, el resultado de las consultas dependeran directamente de la posicion de las tablas en el momento de hacer la consulta, ya que las consultas se hacen de izquierda a derecha o de derecha a izquierda dependiendo de la consulta que hagamos.

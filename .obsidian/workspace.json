@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f92766b46af24230",
+        "id": "757454cf26f68259",
         "type": "tabs",
         "children": [
           {
-            "id": "648b633a63d28bb7",
+            "id": "e07b0078aaacc26f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/Python/Modulos/__doc__ - Python.md",
+                "file": "BDD/SQL/Usuarios/Usuarios de MariaDB - SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__doc__ - Python"
+              "title": "Usuarios de MariaDB - SQL"
             }
           }
         ]
@@ -31,7 +31,7 @@
     "type": "split",
     "children": [
       {
-        "id": "091db656fff611fa",
+        "id": "ba8afca9058ec73b",
         "type": "tabs",
         "children": [
           {
@@ -48,12 +48,22 @@
             }
           },
           {
+            "id": "6fbb4ecbca265024",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
             "id": "362954ec695c5c1a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gpo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,16 +72,6 @@
               },
               "icon": "lucide-search",
               "title": "Buscar"
-            }
-          },
-          {
-            "id": "6fbb4ecbca265024",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
             }
           }
         ]
@@ -164,13 +164,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control de Acceso Obligatorio (MAC).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Control de Acceso Obligatorio (MAC)"
+              "title": "Esquema"
             }
           }
         ],
@@ -178,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.5,
-    "collapsed": true
+    "width": 710.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,40 +193,40 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "648b633a63d28bb7",
+  "active": "e07b0078aaacc26f",
   "lastOpenFiles": [
+    "BDD/SQL/Usuarios/Usuarios de MariaDB - SQL.md",
+    "BDD/SQL/Ejercicios/Edicio de dades/SQL - Exercicis amb UPDATE i INSERT.md",
+    "BDD/SQL/Índice - SQL.md",
+    "BDD/SQL/Joins - SQL.md",
+    "BDD/SQL/SQL - Consultas Avanzadas y Subconsultas.md",
+    "BDD/SQL/Apuntes generales de SQL.md",
+    "Programación/PHP/Planes estructurales (backend)/Flujo de trabajo (Login Minetest).canvas",
+    "SMX/M4/Samba-AD-DC/MANUAL EXAMEN M4.md",
+    "SMX/M4/Integracio-LINUXxSAMBA/Integració de clients heterogenis en un servei de directori.md",
+    "Directiva de grupo - Windows AD.md",
+    "Diario/2026-03-02 - ISOR.md",
+    "Programación/PHP/Conexiones/Prepared Statements - PHP.md",
+    "Programación/PHP/Conexiones/Configuración de base de datos para la conexión PHP - PHP.md",
+    "Programación/Python/Z-Examenes/RA2. Pràctica 4 - Python.md",
+    "Programación/Python/Modulos/__init__ - Python.md",
+    "Programación/Python/Z-Examenes/RA2. Pràctica 1 - Python.md",
+    "Programación/Python/Modulos/OS - Python/Ejercicio - Detector de extensiones.md",
+    "Programación/Python/Z-Examenes/RA2. Pràctica 2 - Python.md",
+    "Programación/Python/Modulos/Funciones Magicas - Python.md",
+    "Programación/Python/Modulos/__main__ - Python.md",
+    "Programación/Python/Modulos/__doc__ - Python.md",
     "Programación/Python/Modulos/Sys - Python/sys - Índice · Python.md",
     "Programación/Python/Modulos/Sys - Python/Funciones básicas (sys) - Python.md",
+    "si.md",
     "Programación/Python/Modulos/OS - Python/Funciones básicas (os) - Python.md",
     "Programación/Python/Modulos/OS - Python/OS - Índice · Python.md",
     "Programación/Python/Modulos/Shutil - Python/Funciones básicas (Shutil) - Python.md",
-    "Programación/Python/Modulos/getopt - Python/getopt - Índice · Python.md",
-    "Programación/Python/Cualquier cosa/Xperimento - Python.md",
-    "Programación/Python/Librerias/DJANGO - Python.md",
-    "Programación/Python/Librerias/Índice - Librerias · Python.md",
-    "Programación/Python/Comentarios y documentación/Tipos de notaciones - Python.md",
-    "Programación/Python/Comentarios y documentación/Sphinx y Doxygen - Python.md",
-    "Programación/Python/Comentarios y documentación/Docstrings - Python.md",
-    "Programación/Python/Basicos/Listas, diccionarios y tuplas - Python.md",
-    "Programación/Python/Basicos/Bucles FOR - Python.md",
-    "Programación/Python/Basicos/Bucles WHILE - Python.md",
-    "Programación/Python/Basicos/Arquitecturas/Procesamiento Secuencial de Estado - Python.md",
-    "README.md",
-    "BDD/SQL/Usuarios/Usuarios de MariaDB - SQL.md",
-    "Linus Torvalds.md",
-    "Teoria/Empresas/Red Hat/Bob Young.md",
-    "Teoria/Empresas/Red Hat/Red Hat Inc.md",
-    "Compartir recursos entre Windows y Linux mediante NFS.md",
-    "Configuracion de NFS para Windows Cliete.md",
-    "Directiva de grupo - Windows AD.md",
-    "Marc Ewing.md",
-    "Programación/Python/Índice - Python.md",
     "Assets/LinusTorvalds.jpg",
     "Programación/Python/Basicos/Arquitecturas",
     "Programación/Python/Modulos/Sys - Python/argv",
     "Programación/Python/Modulos/Sin nombre",
     "Programación/Python/Cualquier cosa",
-    "Programación/PHP/Planes estructurales (backend)/Flujo de trabajo (Login Minetest).canvas",
     "Programación/PHP/Planes estructurales (backend)",
     "BDD/SQL/Errores",
     "BDD/SQL/Usuarios",

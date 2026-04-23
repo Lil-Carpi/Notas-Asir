@@ -41,3 +41,7 @@ El entorno de red será el siguiente:
 Red NAT (Zabbix)
 - Identificador de red: 192.168.100.0/24
 ![[zabbixNatNetworkConfig.png]]
+
+---
+## Máquinas virtuales
+Direcciones IP y Hostnames de las maquinas virtuales

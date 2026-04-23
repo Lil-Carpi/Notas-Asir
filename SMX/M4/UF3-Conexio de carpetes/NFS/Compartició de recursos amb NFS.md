@@ -64,7 +64,7 @@ Aquí definim que:
 
 Apliquem la configuració amb:
 ```shell
-sudo exportfs -a
+sudo exportfs -aº
 ```
 ![[exportfs-a.png]]
 ---

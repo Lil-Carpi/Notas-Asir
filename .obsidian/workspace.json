@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5,
-    "collapsed": true
+    "width": 447.5
   },
   "right": {
     "id": "519d5773673c1040",
@@ -178,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 710.5
+    "width": 710.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +196,14 @@
   },
   "active": "976096a1141b0cbd",
   "lastOpenFiles": [
+    "Sistemas operativos/Maquinas virtuales/KVM_QEMU/VIRSH - KVM_QEMU.md",
+    "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Redes - KVM_QEMU.md",
+    "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Índice - KVM_QEMU.md",
+    "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Espacios de disco - KVM_QEMU.md",
+    "Sistemas operativos/Servidores/Monitorizacion/ZABBIX - Monitorización de redes.md",
     "Sistemas operativos/Particiones de disco/Crear particiones y formatarlas en linux.md",
     "Documentación personal/Mecanica de Unix/6. Gestión de discos y backups/Clonado de disco completo (dd y zstd).md",
     "Sistemas operativos/Particiones de disco",
-    "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Redes - KVM_QEMU.md",
-    "Sistemas operativos/Maquinas virtuales/KVM_QEMU/VIRSH - KVM_QEMU.md",
-    "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Índice - KVM_QEMU.md",
     "Sistemas operativos/Maquinas virtuales/VirtualBox/VirtualBox - Índice.md",
     "Sistemas operativos/Maquinas virtuales/VirtualBox",
     "Assets/Pasted image 20260424154253.png",
@@ -219,7 +221,6 @@
     "Programación/XML/XSLT/Transformacion de XML - XSLT.md",
     "Programación/XML/XSLT/Índice - XSLT.md",
     "Programación/XML/XSLT",
-    "Sistemas operativos/Servidores/Monitorizacion/ZABBIX - Monitorización de redes.md",
     "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
     "Teoria/Ciberseguridad.md",
     "Programación/PHP/Conexiones/Configuración de base de datos para la conexión PHP - PHP.md",
@@ -228,7 +229,6 @@
     "Teoria/Cracker.md",
     "Teoria/Tipo de hackers/Hacker.md",
     "BDD/SQL/Índice - SQL.md",
-    "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
     "BDD/SQL/Usuarios/Seguridad",
     "BDD/SQL/Ejercicios/Creacio d'usuaris",
     "Programación/PHP/Planes estructurales (backend)/Flujo de trabajo (Login Minetest).canvas",

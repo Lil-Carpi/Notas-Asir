@@ -23,3 +23,5 @@ sudo nmcli connection modify br0 bridge.stp no
 Véase [[STP - Protocolos de red|STP]] para más info.
 Esto quita el protocolo STP a al switch virtual de la conexión bridge de br0, dándole una conexión instantánea a la red.
 
+---
+## Red Nat

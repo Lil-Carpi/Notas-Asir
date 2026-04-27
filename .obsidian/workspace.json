@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas operativos/Servidores/Monitorizacion/ZABBIX - Monitorización de redes.md",
+                "file": "Sistemas operativos/Servidores/Monitorizacion/Sistema de monitorizacion de redes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZABBIX - Monitorización de redes"
+              "title": "Sistema de monitorizacion de redes"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "e9af9d9b83c73a73",
   "lastOpenFiles": [
-    "Assets/ZabbixCreated.png",
     "Sistemas operativos/Servidores/Monitorizacion/ZABBIX - Monitorización de redes.md",
+    "Sistemas operativos/Servidores/Monitorizacion/Sistema de monitorizacion de redes.md",
+    "Assets/ZabbixCreated.png",
     "Assets/zabbixAddWin.png",
     "Assets/zabbixCubuntuADD.png",
     "Assets/zabbixWinPCs.png",

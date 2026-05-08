@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "17da7ad57b3f006c",
+        "id": "e1f767e55dbad4d6",
         "type": "tabs",
         "children": [
           {
-            "id": "48f0b9db0530b252",
+            "id": "025dc41a29ea76aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/Tipos de ataque/Backdoor (Puerta trasera).md",
+                "file": "BDD/SQL/Tecnicismos/Disparadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backdoor (Puerta trasera)"
-            }
-          },
-          {
-            "id": "040244c3640843b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teoria/Chernobyl (virus informatico).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chernobyl (virus informatico)"
-            }
-          },
-          {
-            "id": "fd1440c426128df2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMX/M4/UF3-Conexio de carpetes/NFS/Compartir carpetes entre OS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Compartir carpetes entre OS"
+              "title": "Disparadores"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Virus informatico",
+                "query": "#for",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,17 +193,20 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "fd1440c426128df2",
+  "active": "025dc41a29ea76aa",
   "lastOpenFiles": [
-    "Teoria/Tipos de ataque/Virus informatico.md",
+    "BDD/SQL/Ejercicios/Triggers.md",
+    "BDD/SQL/Usuarios/Seguridad/Seguridad - SQL.md",
     "Teoria/Chernobyl (virus informatico).md",
-    "Teoria/Malware.md",
     "Teoria/Tipos de ataque/Backdoor (Puerta trasera).md",
+    "Teoria/Tipos de ataque/Phishing.md",
+    "Teoria/2FA.md",
+    "SMX/M4/UF3-Conexio de carpetes/NFS/Compartir carpetes entre OS.md",
+    "Teoria/Tipos de ataque/Virus informatico.md",
+    "Teoria/Malware.md",
     "Teoria/Suplantación de identidad.md",
     "Teoria/Tipos de ataque/Ransomware.md",
-    "Teoria/Tipos de ataque/Phishing.md",
     "Teoria/Cópia de Seguridad.md",
-    "Teoria/2FA.md",
     "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Sistema de monitorizacion de redes.md",
     "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Redes - KVM_QEMU.md",
     "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Índice - KVM_QEMU.md",
@@ -251,9 +225,6 @@
     "Sistemas operativos/Servidores/Fedora Server - Servidores/SELinux - Fedora Server.md",
     "Sistemas operativos/Servidores/Apuntes sobre CPDs.md",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Securización de servidor - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Índice - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Configuración de red - Fedora Server.md",
-    "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de SELinux - Fedora Server.md",
     "Assets/SELinux.svg",
     "Sistemas operativos/Servidores/ticketing",
     "Assets/ZabbixCreated.png",

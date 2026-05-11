@@ -138,7 +138,7 @@ Ponemos el idioma (en mi caso, el español) y comprobamos que cumplimos con los 
 Luego, toca configurar la base de datos. Lo unico que hay que poner es la contraseña del usuario de la base de datos.
 ![[zabbixbrwserDBconfig.png]]
 
-La siguiente pantalla es de horario, temas y nombre del servidor Zabbix. En mi caso, pondre `Rui López`, haciendo referencia a la apertura del mismo nombre, tambien conocida como Apertura Española.
+La siguiente pantalla es de horario, temas y nombre del servidor Zabbix. En mi caso, pondre `Rui López`, haciendo referencia a la apertura del mismo nombre, tambien conocida como Apertura Española (me gusta el ajedrez).
 ![[zabbixName.png]]
 
 Resumen de la instalación:

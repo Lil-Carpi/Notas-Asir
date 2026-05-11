@@ -1,3 +1,4 @@
+#ForPublic 
 Aplicaciones: [[Phishing]]
 
 La suplantación de identidad es un delito que consiste en hacerse pasar por otra persona, empresa o entidad que genere la suficiente confianza a la victima como para ceder voluntariamente datos explotables por el atacante. 

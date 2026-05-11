@@ -24,6 +24,21 @@ Crea un archivo llamado `mi_red.xml` con tu editor favorito y añade lo siguient
 </network>
 ```
 
+**En caso de que se quiera poner una dirección IP a un equipo con base en su dirección MAC**:
+```xml
+<network>
+  <name>red_privada</name>
+  <bridge name='virbr1' stp='on' delay='0'/>
+  <ip address='192.168.100.1' netmask='255.255.255.0'>
+    <dhcp>
+      <range start='192.168.100.50' end='192.168.100.200'/>
+      <host mac='aa:aa:aa:12:34:56' name='nombre-vm' ip='192.168.56.1'/>
+    </dhcp>
+  </ip>
+</network>
+```
+*Añadimos `<host>` con los parámetros `mac`, `name` (hostname del equipo) y `ip`*
+
 **Paso B: Definir, iniciar y habilitar la red**
 
 Una vez creado el archivo, inyectamos la configuración en `libvirt`:
@@ -77,8 +92,6 @@ virt-install \
 
 **Listar las máquinas virtuales:**
 
-
-
 ```Bash
 # Ver solo las VMs encendidas
 virsh list
@@ -102,10 +115,8 @@ virsh autostart mi_debian
 
 Aquí hay una distinción crítica que debes conocer:
 
-
-
 ```Bash
-# Apagado elegante (envía una señal ACPI al SO invitado para que se apague bien)
+# Apagado normal (envía una señal ACPI al SO invitado para que se apague bien)
 virsh shutdown mi_debian
 
 # Apagado forzoso (Equivale a "desconectar el cable de la corriente". Úsalo solo si la VM se cuelga)

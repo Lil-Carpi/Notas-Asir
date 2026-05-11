@@ -1,3 +1,4 @@
+#ForPublic
 Una copia de seguridad es un un metodo de seguridad de los datos. Se encarga de que, en caso de robo, accidente o infeccion de algun tipo de [[Malware]], los datos puedan ser recuperados en su totalidad o una buena parte de ella.
 
 Las copias de seguridad de suelen realizar periodicamente. Suele ser mas o menos entre 1 a 3 meses.

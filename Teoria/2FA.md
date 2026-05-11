@@ -1,3 +1,4 @@
+#ForPublic
 La autenticacion de dos factores (2FA), es un metodo aplicable de la [[Ciberseguridad]] que confirma que un usuario es quien dice ser combinando dos componentes diferentes entre:
 
 1) Algo que saben

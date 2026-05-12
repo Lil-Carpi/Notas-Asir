@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d93b1bf39ec78c4f",
+        "id": "a20709a1464e5365",
         "type": "tabs",
         "children": [
           {
-            "id": "976096a1141b0cbd",
+            "id": "562f03df7d5771c7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "BDD/SQL/RA1/Introducción a las bases de datos - SQL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Introducción a las bases de datos - SQL"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 447.5,
+    "collapsed": true
   },
   "right": {
     "id": "519d5773673c1040",
@@ -193,9 +194,12 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "976096a1141b0cbd",
+  "active": "562f03df7d5771c7",
   "lastOpenFiles": [
+    "Sin título.md",
     "BDD/SQL/RA1/Introducción a las bases de datos - SQL.md",
+    "Assets/relational.png",
+    "Assets/comoFuncionaUnaDB.png",
     "conflict-files-obsidian-git.md",
     "Sistemas operativos/Servidores/ticketing/HESK.md",
     "Sistemas operativos/Servidores/ticketing",
@@ -210,7 +214,6 @@
     "Assets/independenciaFisicaYLogica.png",
     "Assets/ANSI-SPARC_DB_model.jpg",
     "Assets/esquemasDeBasesDeDatos.png",
-    "Assets/indexat.png",
     "BDD/SQL/Backups/Copia de seguridad Física - SQL.md",
     "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
     "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Espacios de disco - KVM_QEMU.md",
@@ -218,7 +221,6 @@
     "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Índice - KVM_QEMU.md",
     "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Redes - KVM_QEMU.md",
     "Sistemas operativos/Maquinas virtuales/KVM_QEMU/VIRSH - KVM_QEMU.md",
-    "Assets/zabbixinstallation.png",
     "Compartir recursos entre Windows y Linux mediante NFS.md",
     "Sistemas operativos/Servidores/Monitorizacion/ZABBIX - Monitorización de redes.md",
     "Sistemas operativos/Particiones de disco/Crear particiones y formatarlas en linux.md",
@@ -237,7 +239,6 @@
     "Diario/2026-03-23 - PHP.md",
     "Diario/2026-03-02 - ISOR.md",
     "Programación/XML/XSLT/Transformacion de XML - XSLT.md",
-    "Programación/XML/XSLT/Índice - XSLT.md",
     "Programación/XML/XSLT",
     "BDD/SQL/Usuarios/Seguridad",
     "BDD/SQL/Ejercicios/Creacio d'usuaris",

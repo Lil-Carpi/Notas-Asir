@@ -1,5 +1,8 @@
 use empresa;  
 -- 1- Crea un trigger a la taula "cliente" que, en fer insert, elimini espais als extrems del "nombre" i eviti que s'insereixi un nom buit.  
+```SQL
+CREATE TRIGGER 
+```
   
 -- 2- Crea un trigger a la taula "empleado" que, en fer update, no permeti increments salarials de més del 10%.  
   

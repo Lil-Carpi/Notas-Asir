@@ -1,4 +1,4 @@
-#SQL - Structured Query Language
+ #SQL - Structured Query Language
 Proveniente de [[Índice - SQL]]
 Santo recopilatorio.
 

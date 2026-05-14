@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/PHP/Creación de plugins para Wordpress/Sin título.md",
+                "file": "Programación/PHP/Conexiones/Configuración de base de datos para la conexión PHP - PHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Configuración de base de datos para la conexión PHP - PHP"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "selinux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 545.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +194,18 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "0e183bb3816a260d",
   "lastOpenFiles": [
-    "Sin título.md",
+    "Programación/PHP/Conexiones/Conexion a base de datos MariaDB - PHP.md",
+    "Programación/PHP/Creación de plugins para Wordpress/Sin título.md",
+    "Programación/PHP/Sanitización de código - PHP.md",
+    "Programación/PHP/Índice - PHP.md",
+    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
+    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Índice - CAD (Cluster de Alta Disponibilidad).md",
     "BDD/SQL/RA1/Introducción a las bases de datos - SQL.md",
+    "BDD/SQL/Backups/mysqldump - SQL.md",
+    "BDD/SQL/Backups/Copia de seguridad Lógica - SQL.md",
+    "Sin título.md",
     "BDD/SQL/RA1",
     "Assets/relational.png",
     "Assets/indexat.png",
@@ -211,14 +219,11 @@
     "Assets/Pasted image 20260511200159.png",
     "Sistemas operativos/Servidores/Fedora Server - Servidores/Activacion de puertos de SELinux - Fedora Server.md",
     "Documentación personal/Mecanica de Unix/1. Bash Scripting Avanzado/Funciones puras/Ejercicios/Ejercicios - Funciones puras.md",
-    "Programación/PHP/Creación de plugins para Wordpress/Sin título.md",
     "Programación/PHP/Creación de plugins para Wordpress",
     "BDD/SQL/Ejercicios/Triggers.md",
     "BDD/SQL/Tecnicismos/Disparadores.md",
     "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
     "BDD/SQL/Backups/Tipos de copias de seguridad - SQL.md",
-    "BDD/SQL/Backups/mysqldump - SQL.md",
-    "BDD/SQL/Backups/Copia de seguridad Lógica - SQL.md",
     "BDD/SQL/Backups/Copia de seguridad Física - SQL.md",
     "BDD/SQL/Usuarios/Seguridad/Seguridad - SQL.md",
     "Teoria/Chernobyl (virus informatico).md",
@@ -229,11 +234,6 @@
     "Teoria/Tipos de ataque/Virus informatico.md",
     "Teoria/Malware.md",
     "Teoria/Suplantación de identidad.md",
-    "Teoria/Tipos de ataque/Ransomware.md",
-    "Teoria/Cópia de Seguridad.md",
-    "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Sistema de monitorizacion de redes.md",
-    "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Redes - KVM_QEMU.md",
-    "Sistemas operativos/Maquinas virtuales/KVM_QEMU/Índice - KVM_QEMU.md",
     "Sistemas operativos/Servidores/ticketing",
     "Sistemas operativos/Particiones de disco",
     "Sistemas operativos/Maquinas virtuales/VirtualBox",

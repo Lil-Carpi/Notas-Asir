@@ -20,7 +20,11 @@ carpi@localhost:~$ sudo dnf install httpd mariadb-server php php-bcmath php-curl
 ![[Pasted image 20260511195656.png]]
 
 ## SELinux
-![[Pasted image 20260511200024.png]]
+![[Pasted image 20260511200024.png|697]]
+
+```SELinux
+sudo restorecon -Rv /var/www/html
+```
 
 ---
 

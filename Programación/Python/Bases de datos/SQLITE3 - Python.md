@@ -41,7 +41,25 @@ Al hacer el `SELECT`, se ejecuta la sentencia, pero se ha de pedir al cursor los
 ##### `cursor.fetchone()`-> Devuelve una **tupla** `(valor1, valor2, ...)`
 - Da una sola fila (la primera que encuentre).
 - Usala para buscar PKs (`id`), para comprovar si algo existe, o con fuinciones agregadas (`COUNT`, `MAX`, `MIN`).
-- Para sacar el dato limpio, se accede por indice de posicion:
+- Para sacar el dato limpio, se accede poEl caso real más complejo del examen es cuando haces un `fetchall()` y tienes que recorrer la **lista de tuplas**:
+
+Python
+
+```
+# Esto es lo que te escupe cursor.fetchall() al pedir los atletas
+filas_bd = [
+    (1, "Asafa Powell", "555893834"),
+    (2, "Maurice Greene", "55592223")
+]
+
+# Recorremos la LISTA. En cada vuelta, 'fila' es una TUPLA individual
+for fila in filas_bd:
+    num_llicencia = fila[0]
+    nom_atleta = fila[1]
+    print(f"Llicència: {num_llicencia} -> Atleta: {nom_atleta}")
+```
+
+Guárdate este bloque de apuntes en el escritorio. Con esto tienes claras las reglas de juego de las tres estructuras principales de Python. ¡Mucho éxito en el examen! ¿Tienes alguna duda de última hora sobre cómo aplicar esto en los métodos?r indice de posicion:
 ```python
 cursor.execute("SELECT won_battles FROM characters WHERE name = ?", (nombre,))
 fila = cursor.fetchone() # devuelve por ejemplo: (12,)
@@ -123,4 +141,21 @@ def main():
     # Una vez el bucle while termina de parsear y validar, 
     # abres la conexión y ejecutas la lógica de base de datos usando 
     # las variables 'nombre' o 'id_personaje' que capturó el bucle.
+```
+
+El caso real más complejo del examen es cuando haces un `fetchall()` y tienes que recorrer la **lista de tuplas**:
+
+```Python
+
+# Esto es lo que te escupe cursor.fetchall() al pedir los atletas
+filas_bd = [
+    (1, "Asafa Powell", "555893834"),
+    (2, "Maurice Greene", "55592223")
+]
+
+# Recorremos la LISTA. En cada vuelta, 'fila' es una TUPLA individual
+for fila in filas_bd:
+    num_llicencia = fila[0]
+    nom_atleta = fila[1]
+    print(f"Llicència: {num_llicencia} -> Atleta: {nom_atleta}")
 ```

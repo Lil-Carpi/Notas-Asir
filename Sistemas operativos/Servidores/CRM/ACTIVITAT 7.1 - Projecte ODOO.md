@@ -39,12 +39,15 @@ El desenvolupament de mòduls es realitza editant arxius Python i XML. No hi ha 
 *-Wikipedia ([Odoo](https://ca.wikipedia.org/wiki/Odoo))*
 
 ---
+## Justificació del sistema triat
+
+---
 # Índex
 ```table-of-contents
 ```
 
 ---
-# Configuracio de xarxa i sistema operatiu
+# Configuració de xarxa i sistema operatiu
 #### Xarxa
 La xarxa està en l'entorn de Zabbix (que és d'un altra pràctica)
 - Identificador de xarxa: 192.168.100.0/24
@@ -139,7 +142,7 @@ Quan acabi d'instal·lar, iniciem el servidor:
 ```
 ![[odooServerIni.png]]
 
-Ara, cal continuar l'instal·lació des de la pàgina web
+Ara, cal continuar la instal·lació des de la pàgina web
 
 ---
 ## Instal·lació Web
@@ -189,10 +192,10 @@ Pitgem el botó de `Nuevo` a la part superior esquerre per crear un usuari nou. 
 
 Explicaré una mica que és cada cosa:
 - **Sales (Ventas)**: Controla què pot fer en el fluxe de pressupostos i comandes de clients
-- **Accounting (Contabilidad)**: Defineix el nivell d'access a les factures, comptes bancaris, asents contables i informes financers. El part més sensible de totes.
+- **Accounting (Contabilidad)**: Defineix el nivell d'accés a les factures, comptes bancaris, asents contables i informes financers. El part més sensible de totes.
 - **Banco**: Habilitat per registrar extractes bancaris, fer pagaments i gestionar comptes de l'empresa
 - **Inventory (Inventario)**: Accés al magatzem, control d'estoc, receptors de mercaderia i enviaments.
-- **Administration (Administración)**: Dona acces a configuracions globals del sistema. Instal·lacions de nous mòduls i edició de codi o configuracions tècniques d'Odoo.
+- **Administration (Administración)**: Dona accés a configuracions globals del sistema. Instal·lacions de nous mòduls i edició de codi o configuracions tècniques d'Odoo.
 
 ---
 Crearem dos usuaris:
@@ -206,9 +209,9 @@ Crearem dos usuaris:
 
 - `Jane Smith` amb correu `jsmith@lilcarpi.com`: **Contable / Gestora financiera**.
 **Configuració de permisos de l'usuari** 
-- **Comptabilitat i Banc:** Se li assignen permisos de nivell _Director / Comptable_ per tal de permetre la gestió integral dels llibres diaris, conciliació bancària, control de venciments i la generació d'informes financers i d'anàlisi.
+- **Comptabilitat i Banc:** Se li assignen permisos de nivell _director / Comptable_ per tal de permetre la gestió integral dels llibres diaris, conciliació bancària, control de venciments i la generació d'informes financers i d'anàlisi.
 - **Vendes i Inventari:** Es restringeix completament l'accés (`Ningú`) a aquests mòduls. Com que el seu rol és purament administratiu de fons, no requereix visualitzar l'estat del magatzem ni interactuar amb el flux de pressupostos.
-- **Seguretat Organitzativa:** Mitjançant la separació de deures (_Segregation of Duties_), s'assegura que l'usuari que gestiona els diners de l'empresa (Jane) sigui un perfil totalment diferent del que realitza les vendes i mou l'estoc (John), evitant conflictes d'interessos i errors humans en la base de dades.
+- **Seguretat Organitzativa:** Mitjançant la separació de deures (_Segregation of Duties_), s'assegura que l'usuari que gestiona els diners de l'empresa (Jane) sigui un perfil totalment diferent del que fa les vendes i mou l'estoc (John), evitant conflictes d'interessos i errors humans en la base de dades.
 ![[odooUserJane.png]]
 
 Als dos usuaris, li donem a l'engranatge de dalt a l'esquerra i a `Cambiar contraseña` per assignar-li una contrasenya a cada compte:
@@ -327,10 +330,10 @@ No hi ha res.
 ---
 ## Mesures de seguretat
 #### Fora del ERP
-Al fer l'exportacio de dades fora del sistema odoo amb format `.csv` o `.xlsx`, quedan exposats al sistema d'arxius local. Com aquestes dades contenen dades sensibles subjecta a la **LOPDGDD**, s'han d'aplicar mesures drastiques al servidor.
+En fer l'exportació de dades fora del sistema Odoo amb format `.csv` o `.xlsx`, quedaran exposats al sistema d'arxius local. Com aquestes dades contenen dades delicades subjecta a la **LOPDGDD**, s'han d'aplicar mesures dràstiques al servidor.
 
 **Xifratge amb OpenPGP**
-Suposem que tenim un document amb dades sensibles. Abans de passar-ho a un altre servidor o ordinador, haurem de xifrar-ho:
+Suposem que tenim un document amb dades confidencials. Abans de passar-ho a un altre servidor o ordinador, haurem de xifrar-ho:
 
 Faré servir el `.xlsx` d'abans:
 ![[odooExportSucces.png]]
@@ -341,10 +344,10 @@ gpg -c "Producto (product.template).xlsx"
 ```
 ![[odooFitxerEncriptat.png]]
 
-S'obrira una finestra que demanara una frase com contrasenya pel fitxer:
+S'obrirà una finestra que demanarà una frase com contrasenya pel fitxer:
 ![[odooFraseContraseña.png]]
 
-Es generará un altre fitxer encriptat que podrem compartir per la xarxa:
+Es generarà un altre fitxer encriptat que podrem compartir per la xarxa:
 ![[odooEncriptedFile.png]]
 
 Per tornar a obrir el document, fem:
@@ -353,10 +356,13 @@ gpg -d 'Producto (product.template).xlsx.gpg' > 'Producto (product.template).xls
 ```
 ![[odoounencrypt.png]]
 
-Demanara la contrasenya que hem posat abans:
+Demanarà la contrasenya que hem posat abans:
 ![[odoounencryptsuccess.png]]
 
-i ja estará desencriptat un altre vegada:
+i ja estarà desencriptat un altra vegada:
 ![[Pasted image 20260524225747.png]]
 
-Aixo ho podem fer servir quan editem un excel important i ho passem a un nas de l'empresa o a altres destins
+Això ho podem fer servir quan editem un Excel important i ho passem a un nas de l'empresa o a altres destins.
+
+---
+## Reflexió final

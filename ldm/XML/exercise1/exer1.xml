@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<infraestructura>
-    <servidor nombre="LilCMS_Server">
-        <procesador>Intel Xeon</procesador>
-        <ram>32GB</ram>
-        <tarjeta_red interficie="eth0" estado="up" />
-    </servidor>
-</infraestructura>

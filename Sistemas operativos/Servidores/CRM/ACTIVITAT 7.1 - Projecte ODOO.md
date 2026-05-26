@@ -281,8 +281,82 @@ Dalt a la dreta, donem al requadre de vista > `Tabla dinámica`:
 Aqui es pot fer l'analisi de vendes:
 ![[odooAnalisis.png]]
 
+
+#### Creació d'una factura
+Per fer una factura, anem a `Menu > Facturación / Contabilidad > Informes > Analisis de facturas`
+![[odooGoToFacturacion.png]] ![[odooCreateFactuira.png]]
+Fem la factura:
+![[odooFacturaCreated.png]]
+
+Creem també un altre factura per una pròxima prova:
+![[odooFactura2.png]]
+
+Ara anem a `Menu > Facturación / Contabilidad > informes > Analisis y facturas`
+Donem a vista pie chart i cliquem sobre el pie chart:
+![[odooFactures.png]]
+Aquí podrem veure el número de factura que hem fet abans.
+
+
 ---
 ## Generar informe financer
 Anem al panell de comptabilitat:
-`Menu > Facturación / Contabilidad > Informes > Pérdidas i Ganancias`
-![[odooGoToFacturacion.png]]
+`Menu > Facturación / Contabilidad > Informes`
+
+Si tornem al pie chart, també podrem fer un ordre de factures pendents de pagament, de client, d'empreses, per temps, etc. Per exemple, un filtre de factures pagades d'empreses:
+![[odoofacturasfiltros.png]]
+![[odooFacturaEmpresas.png]]
+
+---
+## Informe d'inventari
+Anem a `Menu > Inventario > Informes > Valoración`
+
+![[odooGoToInventari.png]] ![[odooValoracion.png]]
+
+Ens donarà la següent taula a la vista de taula:
+![[odooInventariTaula.png]]
+
+#### Informe personalitzat
+Per fer un informe personalitzat, fem un filtre personalitzat:
+![[odooPersonalizedFilter.png]]
+
+Per exemple, busquem una companyia que es digui `ES Company`:
+![[odooSorting.png]]
+![[odooNoResults.png]]
+No hi ha res.
+
+---
+## Mesures de seguretat
+#### Fora del ERP
+Al fer l'exportacio de dades fora del sistema odoo amb format `.csv` o `.xlsx`, quedan exposats al sistema d'arxius local. Com aquestes dades contenen dades sensibles subjecta a la **LOPDGDD**, s'han d'aplicar mesures drastiques al servidor.
+
+**Xifratge amb OpenPGP**
+Suposem que tenim un document amb dades sensibles. Abans de passar-ho a un altre servidor o ordinador, haurem de xifrar-ho:
+
+Faré servir el `.xlsx` d'abans:
+![[odooExportSucces.png]]
+
+Ara l'encriptem:
+```shell
+gpg -c "Producto (product.template).xlsx"
+```
+![[odooFitxerEncriptat.png]]
+
+S'obrira una finestra que demanara una frase com contrasenya pel fitxer:
+![[odooFraseContraseña.png]]
+
+Es generará un altre fitxer encriptat que podrem compartir per la xarxa:
+![[odooEncriptedFile.png]]
+
+Per tornar a obrir el document, fem:
+```shell
+gpg -d 'Producto (product.template).xlsx.gpg' > 'Producto (product.template).xlsx'
+```
+![[odoounencrypt.png]]
+
+Demanara la contrasenya que hem posat abans:
+![[odoounencryptsuccess.png]]
+
+i ja estará desencriptat un altre vegada:
+![[Pasted image 20260524225747.png]]
+
+Aixo ho podem fer servir quan editem un excel important i ho passem a un nas de l'empresa o a altres destins

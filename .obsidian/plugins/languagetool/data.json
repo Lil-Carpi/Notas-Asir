@@ -9,25 +9,25 @@
     "ca": "ca-ES"
   },
   "dictionary": [
+    "Aclaracio",
     "bash",
     "Bash",
     "Fedora",
     "Git",
     "Kernel",
+    "Llenguaje",
     "multiselección",
     "Proxmox",
     "regex",
     "sanitización",
     "subshells",
-    "trigger",
-    "Llenguaje",
-    "Aclaracio"
+    "trigger"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
   "longCheckNotification": true,
   "injectProperties": true,
-  "staticLanguage": "ca-ES",
-  "disabledRules": "AGREEMENT_POSTPONED_ADJ,WRONG_IMPERATIVE,ESPAIS_SOBRANTS"
+  "staticLanguage": "es-ES",
+  "disabledRules": "AGREEMENT_POSTPONED_ADJ,WRONG_IMPERATIVE,ESPAIS_SOBRANTS,INCORRECT_SPACES"
 }

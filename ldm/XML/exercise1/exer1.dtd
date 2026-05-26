@@ -1,0 +1,8 @@
+<!ELEMENT infraestructura (servidor)>
+<!ELEMENT servidor (procesador, ram, tarjeta_red)>
+<!ATTLIST servidor nombre CDATA #REQUIRED>
+<!ELEMENT procesador (#PCDATA)>
+<!ELEMENT ram (#PCDATA)>
+<!ELEMENT tarjeta_red EMPTY>
+<!ATTLIST tarjeta_red interficie CDATA #REQUIRED>
+<!ATTLIST tarjeta_red estado CDATA #REQUIRED>

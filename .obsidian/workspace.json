@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/JavaScript/Interactividad con botones - JavaScript.md",
+                "file": "Programación/HTML y CSS/CSS/Como centrar un DIV - CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interactividad con botones - JavaScript"
+              "title": "Como centrar un DIV - CSS"
             }
           }
         ]
@@ -193,8 +193,12 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "e615f9321ff830be",
+  "active": "b24f7fc6d5d3521a",
   "lastOpenFiles": [
+    "Programación/XML y derivados/Introducción a XML - XML.md",
+    "Programación/XML y derivados/Índice - XML.md",
+    "Programación/XML y derivados/DTD.md",
+    "Programación/JavaScript/Interactividad con botones - JavaScript.md",
     "ldm/JavaScript/examen/assets/apagado.png",
     "ldm/JavaScript/examen/assets/encendido.png",
     "ldm/XML/exercise1/exer1.xml",
@@ -211,9 +215,6 @@
     "ldm/XML/Notas.md",
     "Programación/JavaScript/Índice -JavaScript.md",
     "Programación/JavaScript/Sanitización de código - JavaScript.md",
-    "Programación/JavaScript/Interactividad con botones - JavaScript.md",
-    "Programación/XML/Introducción a XML - XML.md",
-    "Programación/XML/Índice - XML.md",
     "Sistemas operativos/Servidores/CRM/ACTIVITAT 7.1 - Projecte ODOO.md",
     "Assets/rhel10Fastfetch.png",
     "Seguridad informática/Auditorias/Auditoria de un sistema informático.md",
@@ -224,7 +225,6 @@
     "Assets/Pasted image 20260524233913.png",
     "Assets/Pasted image 20260524233809.png",
     "Assets/Pasted image 20260524233728.png",
-    "Assets/Pasted image 20260524233634.png",
     "Seguridad informática/Herramientas/Software/lynis - Auditorias.md",
     "SMX/M12/RASPI-SERVER-HOSTING/Auditorias/Auditories - M12.md",
     "Teoria/Pentesting/Tipos de prueba de penetracion/Auditoria.md",

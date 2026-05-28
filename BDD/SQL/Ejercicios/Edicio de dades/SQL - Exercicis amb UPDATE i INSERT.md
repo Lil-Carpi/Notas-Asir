@@ -43,7 +43,16 @@ Segons els casos, podria ser necessari fer DELETE i INSERT o UPDATE. Hi ha diver
 SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;
 START TRANSACTION;
 
-DELETE FROM practica WHERE(numllicencia, codiesp) IN (SELECT DISTINCT numllicencia, codiesp FROM marca NATURAL LEFT JOIN practica NATURAL LEFT JOIN especialitat WHERE UNITATMARQUES='segons' AND registre < marca_personal OR unitatmarques!='segons' AND registre > marca_personal OR marca_personal IS NULL);
+DELETE FROM practica WHERE(numllicencia, codiesp) 
+IN (SELECT DISTINCT numllicencia, codiesp 
+FROM marca 
+NATURAL LEFT JOIN practica 
+NATURAL LEFT JOIN especialitat 
+WHERE UNITATMARQUES='segons' 
+AND registre < marca_personal 
+OR unitatmarques!='segons' 
+AND registre > marca_personal 
+OR marca_personal IS NULL);
 ```
 
 

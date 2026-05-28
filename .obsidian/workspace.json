@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación/HTML y CSS/CSS/Como centrar un DIV - CSS.md",
+                "file": "BDD/SQL/Recus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Como centrar un DIV - CSS"
+              "title": "Recus"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ODOO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 447.5,
+    "collapsed": true
   },
   "right": {
     "id": "519d5773673c1040",
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BDD/SQL/Recus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Recus"
             }
           },
           {
@@ -151,11 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BDD/SQL/Recus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Recus"
             }
           },
           {
@@ -193,12 +196,35 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "b24f7fc6d5d3521a",
+  "active": "e615f9321ff830be",
   "lastOpenFiles": [
-    "Programación/XML y derivados/Introducción a XML - XML.md",
+    "BDD/SQL/Backups/Copia de seguridad Lógica - SQL.md",
+    "BDD/SQL/Backups/Copia de seguridad Física - SQL.md",
+    "BDD/SQL/Joins - SQL.md",
+    "BDD/SQL/Apuntes generales de SQL.md",
+    "BDD/SQL/Ejercicios/SQL - Ejercicios JOIN.md",
+    "BDD/SQL/Ejercicios/SQL - Ejercicios SELECT.md",
+    "BDD/SQL/Ejercicios/SQL - Funciones agregadas i GROUP BY.md",
+    "BDD/SQL/Ejercicios/Creacio d'usuaris/Exercici 1 - Creacio d'usuaris.md",
+    "BDD/SQL/Ejercicios/Edicio de dades/SQL - Exercicis amb UPDATE i INSERT.md",
+    "BDD/SQL/Recus.md",
+    "BDD/SQL/Uso general/Importación y exportación de base de datos.md",
+    "BDD/SQL/RA1/Introducción a las bases de datos (resumido) - SQL.md",
+    "BDD/SQL/RA1/Introducción a las bases de datos - SQL.md",
+    "BDD/SQL/Tecnicismos/Disparadores.md",
+    "BDD/SQL/Tecnicismos/Lenguaje de Manupulación de Datos (DML).md",
+    "BDD/SQL/SQL - Consultas Avanzadas y Subconsultas.md",
+    "BDD/SQL/Índice - SQL.md",
+    "BDD/SQL/Tecnicismos/Tipos de datos.md",
+    "BDD/SQL/Tecnicismos/Sintaxis (Keywords).md",
+    "BDD/SQL/Tecnicismos/Procedimientos almacenados.md",
+    "BDD/SQL/Tecnicismos/Lenguaje de definición de datos (DDL).md",
+    "Programación/XML y derivados/XSD/XSD.md",
+    "Programación/XML y derivados/XSLT/Índice - XSLT.md",
+    "Programación/XML y derivados/XSLT/Transformacion de XML - XSLT.md",
     "Programación/XML y derivados/Índice - XML.md",
-    "Programación/XML y derivados/DTD.md",
-    "Programación/JavaScript/Interactividad con botones - JavaScript.md",
+    "Programación/XML y derivados/Introducción a XML - XML.md",
+    "Programación/XML y derivados/XSD",
     "ldm/JavaScript/examen/assets/apagado.png",
     "ldm/JavaScript/examen/assets/encendido.png",
     "ldm/XML/exercise1/exer1.xml",
@@ -206,18 +232,11 @@
     "ldm/XML/examples.txt/File.xml",
     "ldm/JavaScript/otros/main.js",
     "ldm/JavaScript/otros/index.html",
-    "ldm/JavaScript/examen/notas.md",
     "ldm/JavaScript/examen/main.js",
     "ldm/JavaScript/examen/index.html",
     "ldm/JavaScript/examen/assets",
     "ldm/XML/exercise1",
-    "ldm/XML/examples.txt",
-    "ldm/XML/Notas.md",
-    "Programación/JavaScript/Índice -JavaScript.md",
-    "Programación/JavaScript/Sanitización de código - JavaScript.md",
-    "Sistemas operativos/Servidores/CRM/ACTIVITAT 7.1 - Projecte ODOO.md",
     "Assets/rhel10Fastfetch.png",
-    "Seguridad informática/Auditorias/Auditoria de un sistema informático.md",
     "Assets/Pasted image 20260524234527.png",
     "Assets/Pasted image 20260524234327.png",
     "Assets/Pasted image 20260524234109.png",
@@ -225,22 +244,6 @@
     "Assets/Pasted image 20260524233913.png",
     "Assets/Pasted image 20260524233809.png",
     "Assets/Pasted image 20260524233728.png",
-    "Seguridad informática/Herramientas/Software/lynis - Auditorias.md",
-    "SMX/M12/RASPI-SERVER-HOSTING/Auditorias/Auditories - M12.md",
-    "Teoria/Pentesting/Tipos de prueba de penetracion/Auditoria.md",
-    "BDD/SQL/RA1/Introducción a las bases de datos (resumido) - SQL.md",
-    "BDD/SQL/RA1/Introducción a las bases de datos - SQL.md",
-    "BDD/SQL/Apuntes generales de SQL.md",
-    "Sistemas operativos/Servidores/Network File System - NFS/Índice - NFS.md",
-    "Sistemas operativos/Servidores/ticketing/HESK.md",
-    "Sistemas operativos/Servidores/Windows Server - Servidores/Active Directory Domain Services - Windows Server.md",
-    "Sistemas operativos/Servidores/Monitorizacion/ZABBIX - Monitorización de redes.md",
-    "1.md",
-    "Sistemas operativos/Servidores/Cluster de alta disponibilidad/Proxmox - CAD.md",
-    "SMX/M7/DHCP/MANUAL DHCP.md",
-    "SMX/M8/UF4-Portals_d'aprenentatge/Instal·lacio de Moodle.md",
-    "SMX/M7/PROXY/EXAMEN M7.md",
-    "SMX/M12/Linux-General/Enrutamiento automatizado - Bash Scripting.md",
     "Diario/Cosas a repasar.canvas",
     "Programación/PHP/Planes estructurales (backend)/Flujo de trabajo (Login Minetest).canvas",
     "Assets/JoinsC - SQL.canvas",

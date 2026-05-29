@@ -12,6 +12,8 @@
     "Aclaracio",
     "bash",
     "Bash",
+    "DB",
+    "db",
     "Fedora",
     "Git",
     "Kernel",
@@ -20,6 +22,8 @@
     "Proxmox",
     "regex",
     "sanitización",
+    "Subconsulta",
+    "subconsulta",
     "subshells",
     "trigger"
   ],

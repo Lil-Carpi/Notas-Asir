@@ -347,3 +347,54 @@ INNER JOIN especialitat e ON m.codiespecialitat = e.codiespecialitat;
 -- Ahora se puede usar como si fuera una tabla normal de la base de datos
 SELECT * FROM vista_resumen_marcas WHERE registre < 12;
 ```
+
+---
+#### 1. Relacionar Tablas (Los JOINs)
+- **"Y", "CON", "QUE TENGAN"** → **`INNER JOIN`**
+    - _Ejemplo:_ "Ciclistas **y** sus equipos", "Facturas **con** sus clientes".
+    - _Qué significa:_ Ambos datos tienen que existir sí o sí. Si un ciclista no tiene equipo, desaparece.
+        
+- **"TODOS", "INCLUIDOS LOS QUE NO", "AUNQUE NO TENGAN"** → **`LEFT JOIN`**
+    - _Ejemplo:_ "**Todos** los clientes, **inclosos els que no** hagin fet comandes".
+    - _Qué significa:_ La primera tabla es sagrada. No se puede borrar a ningún cliente, si no tiene pedido, se rellena con `NULL`.
+        
+- **"NUNCA", "QUE NO HAYAN..."** → **`LEFT JOIN` + `WHERE tabla2.columna IS NULL`**
+    - _Ejemplo:_ "Atletas que **nunca** han participado en una reunión".
+    - _Qué significa:_ Buscas los huecos vacíos que deja el `LEFT JOIN`.
+        
+- **"SU PROPIO...", "CONSIGO MISMO"** → **`SELF JOIN`**
+    - _Ejemplo:_ "Empleados y el nombre de **su jefe**", "Parejas de ciclistas del **mismo** equipo".
+    - _Qué significa:_ Usas la misma tabla dos veces en el `FROM` con alias distintos (`FROM empleado e INNER JOIN empleado j`).
+
+#### 2. Totales y Estadísticas (Agrupaciones)
+
+- **"POR CADA...", "SABER EL TOTAL DE...", "CUÁNTOS..."** → **`GROUP BY`**
+    - _Ejemplo:_ "**Per cada** reunió mostra la **quantitat** d'atletes".
+    - _Qué significa:_ Olvídate de ver filas individuales. El resultado se encogerá en grupos. **Regla de oro:** Cualquier columna que pongas en el `SELECT` que no tenga una función (`SUM`, `COUNT`) va directa al `GROUP BY`.
+        
+- **"FILTRAR UN TOTAL / CONTADOR" (Más de X, menos de X)** → **`HAVING`**
+    - _Ejemplo:_ "Equipos con **más de 5** corredores", "Clientes que hayan gastado **más de 1000€**".
+    - _Qué significa:_ Si vas a filtrar usando un `COUNT()` o un `SUM()`, está prohibidísimo usar `WHERE`. Tienes que usar `HAVING` al final de la query.
+        
+- **"SÓLO DE LOS QUE..." (Filtro individual)** → **`WHERE`**
+    - _Ejemplo:_ "Solo de los empleados del departamento de **Ventas**".
+    - _Qué significa:_ Filtras filas normales antes de hacer sumas o grupos.
+        
+
+#### 3. El dato oculto (Subconsultas)
+- **"MÁS QUE...", "IGUAL QUE..." (Sin darte el número exacto)** → **`SUBCONSULTA`**
+    - _Ejemplo:_ "Empleados que ganan **más que la media**", "Atletas que corren en las **mismas especialidades que el atleta X**".
+    - _Qué significa:_ No sabes cuál es la media ni cuáles son las especialidades de X. Tienes que abrir paréntesis `()` en el `WHERE` y hacer un `SELECT` secundario para averiguarlo primero.
+        
+
+#### 4. Estética y Control
+- **"LOS 3 PRIMEROS...", "EL MEJOR...", "EL MÁS RÁPIDO"** → **`ORDER BY` + `LIMIT`**
+    - _Ejemplo:_ "Los 3 pedidos más caros".
+    - _Qué significa:_ Ordenas de mayor a menor (`ORDER BY total DESC`) y cortas el grifo con `LIMIT 3`.
+        
+- **"SI PASA ESTO MUESTRA 'X', SI NO MUESTRA 'Y'"** → **`IF()`** o **`CASE WHEN`**
+    - _Ejemplo:_ "Si el puerto mide más de 1000m pon 'Duro', si no 'Fácil'".
+    - _Qué significa:_ Creas una columna condicional en el `SELECT`.
+        
+- **"QUE NO SE REPITAN LOS NOMBRES", "LISTA DE CATEGORÍAS ÚNICAS"** → **`SELECT DISTINCT`**
+    - _Qué significa:_ Evitas que el mismo ciclista o producto salga duplicado en pantalla.

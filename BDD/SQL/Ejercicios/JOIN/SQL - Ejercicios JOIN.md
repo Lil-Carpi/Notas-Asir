@@ -111,11 +111,26 @@ WHERE j.apellido = "Jiménez";
 ```
 16- Obtenir el nom del director del departament on treballa Gil.  
 ```SQL
-
+SELECT apellido
+	FROM empleado
+	WHERE id = (SELECT superior 
+					FROM empleado 
+					WHERE apellido = "Gil"
+);
 ```
 17- Mostra els clients ( id i nom ) que no hagin fet cap comanda mai. Ordena per l'id del client.  
-  
+```SQL
+SELECT c.id, c.nombre
+	FROM cliente c
+	LEFT JOIN pedido p ON c.ido = p.cliente_id
+	WHERE p.cliente_id IS NULL;
+```
+
 18- Obtenir el número, cognom i càrrec dels empleats que siguin superior d'un altre empleat.
+
+```SQL
+
+```
 
 ---
 

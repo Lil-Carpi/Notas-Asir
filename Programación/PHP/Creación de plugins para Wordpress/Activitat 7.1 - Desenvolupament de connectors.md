@@ -54,7 +54,7 @@ sudo dnf install httpd mariadb-server php php-bcmath php-curl php-imagick php-in
 ```
 ---
 ### Base de datos
- Para la base de datos, solo hace falta crear la base de datos de wordpress y el usuario wordpress. A este usuario le damos los permisos totales sobre la base de datos de wordpress.
+ Para la base de datos, solo hace falta crear la base de datos de wordpress y el usuario wordpress. A este usuario le damos los 3permisos totales sobre la base de datos de wordpress.
 ![[Pasted image 20260511195252.png]]
 ---
 #### Cortafuegos

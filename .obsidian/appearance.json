@@ -3,9 +3,11 @@
   "theme": "system",
   "cssTheme": "Adwaita",
   "enabledCssSnippets": [
-    "pgbrk"
+    "pgbrk",
+    "fix-pdf-h1"
   ],
   "interfaceFontFamily": "DepartureMono Nerd Font",
   "textFontFamily": "DepartureMono Nerd Font",
-  "monospaceFontFamily": "DepartureMono Nerd Font"
+  "monospaceFontFamily": "DepartureMono Nerd Font",
+  "baseFontSizeAction": false
 }

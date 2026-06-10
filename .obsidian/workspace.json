@@ -35,7 +35,8 @@
               "title": "Python - Ejercicios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Audi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seguridad informática/Auditorias/Auditoria de un sistema informático.md",
+                "file": "Programación/Python/1Recus/Python - Ejercicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Auditoria de un sistema informático"
+              "title": "Enlaces entrantes de Python - Ejercicios"
             }
           },
           {
@@ -180,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación/Python/1Recus/Python.md",
+                "file": "Programación/Python/1Recus/Python - Ejercicios.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Python"
+              "title": "Esquema de Python - Ejercicios"
             }
           }
         ],
@@ -212,13 +213,13 @@
   },
   "active": "e615f9321ff830be",
   "lastOpenFiles": [
+    "Programación/Python/1Recus/Python.md",
+    "Programación/Python/1Recus/Python - Ejercicios.md",
     "Sistemas operativos/Implantación de Sistemas Operatios en Red/RA3/2. Administracion de discos.md",
     "Sistemas operativos/Implantación de Sistemas Operatios en Red/RA3/1. Organizacion, trabajo y acceso a ficheros.md",
     "Sistemas operativos/Implantación de Sistemas Operatios en Red/RA3",
     "Sistemas operativos/Implantación de Sistemas Operatios en Red",
     "Sin título 2.md",
-    "Programación/Python/1Recus/Python - Ejercicios.md",
-    "Programación/Python/1Recus/Python.md",
     "Programación/Python/Z-Examenes/RA2. Pràctica 1 - Python.md",
     "Programación/Python/Z-Examenes/RA2. Pràctica 2 - Python.md",
     "Programación/Python/Z-Examenes/RA2. Pràctica 4 - Python.md",

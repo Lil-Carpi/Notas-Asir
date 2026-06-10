@@ -73,6 +73,74 @@ print(usuario) # salida: usuario = {"nombre": "Ana", "edad": 29, "activo": True,
 - **`update(otro_diccionario)`**: Actualiza el diccionario añadiendo los pares clave-valor de otro diccionario.
 
 ---
+## Lista de diccionarios
+Una lista de diccionarios es la combinación entre una lista y uno o varios diccionarios... Diccionarios que van dentro de listas. No tiene mucho misterio.
+Consiste en una lista (ordenada y accesible por índice numérico) donde cada elemento guardado en su interior es un diccionario independiente (accesible por claves).
+Es la estructura perfecta para representar una tabla de datos (algo así como una mini base de datos indexada): La lista es la tabla entera, y cada diccionario es una fila con la información de un único individuo u objeto.
+### Crear una lista de diccionarios
+Puedes inicializarla directamente con todos los datos o empezar con una lista vacía e ir añadiendo diccionarios mediante bucles.
+```Python
+# Lista vacía a la que luego se le añadiran diccionarios
+servidores = []
+# Lista inicializada con varios diccionarios (cada diccionario es un servidor)
+usuarios = [
+	{"id": 1, "nombre": "Ana", "rol": "admin", "activo": True},
+	{"id": 2, "nombre": "Luis", "rol": "editor", "activo": False},
+    {"id": 3, "nombre": "Marta", "rol": "editor", "activo": True}
+]
+```
+### Acceder y modificar elementos
+Para acceder a un dato concreto, necesitas **dos pasos**: primero usar el índice numérico `[0]` para elegir qué diccionario de la lista quieres, y luego usar la clave `["nombre"]` para elegir qué dato de ese diccionario necesitas.
+```python
+# 1. Acceder a un diccionario completo (el primer elemento de la lista)
+print(usuarios[0]) 
+# Salida: {'id': 1, 'nombre': 'Ana', 'rol': 'admin', 'activo': True}
+# 2. Acceder a un valor específico dentro de un diccionario
+# (Buscamos el "nombre" del segundo usuario)
+print(usuarios[1]["nombre"]) 
+# Salida: Luis
+# 3. Modificar un valor específico
+# (Cambiamos el estado del tercer usuario a inactivo)
+usuarios[2]["activo"] = False
+print(usuarios[2]) 
+# Salida: {'id': 3, 'nombre': 'Marta', 'rol': 'editor', 'activo': False}
+```
+### Añadir y eliminar diccionarios de la lista
+Como la estructura principal que envuelve todo es una lista, debes usar los métodos de las listas (`append`, `pop`, `remove`) para añadir o quitar diccionarios enteros.
+```Python
+# Añadir un nuevo usuario (diccionario) al final de la lista
+nuevo_usuario = {"id": 4, "nombre": "Carlos", "rol": "invitado", "activo": True}
+usuarios.append(nuevo_usuario)
+# Eliminar el último usuario de la lista
+usuario_eliminado = usuarios.pop()
+print(usuario_eliminado["nombre"]) # Salida: Carlos
+```
+### Recorrer una lista de diccionarios
+Para hacer funcionar esta estructura, casi siempre se usa el bucle `for`. El bucle extraerá cada diccionario uno a uno, y dentro del bucle podrás acceder a sus claves.
+```Python
+print("--- LISTA DE USUARIOS ACTIVOS ---")
+# En cada vuelta, la variable 'user' será un diccionario diferente
+for user in usuarios:
+    # Filtramos para mostrar solo los que tienen "activo" en True
+    if user["activo"] == True:
+        print(f"ID: {user['id']} - Nombre: {user['nombre']} ({user['rol']})")
+# Salida:
+# --- LISTA DE USUARIOS ACTIVOS ---
+# ID: 1 - Nombre: Ana (admin)
+# ID: 3 - Nombre: Marta (editor)
+```
+### Métodos y Operaciones esenciales
+Como es una estructura combinada, no tiene métodos propios y exclusivos, sino que utilizas el arsenal de las listas y los diccionarios según la "capa" en la que estés trabajando:
+- **A nivel de Lista (la capa exterior):**
+    - `append(nuevo_dict)`: Para meter una nueva "fila" (diccionario) al final.
+    - `len(lista)`: Para saber cuántos diccionarios (registros) hay en total.
+    - `pop(indice)`: Para borrar un diccionario entero de la lista.
+- **A nivel de Diccionario (la capa interior):**
+    - `lista[i].keys()`: Para ver qué claves tiene el diccionario en la posición `i`.
+    - `lista[i].get("clave", valor_defecto)`: Fundamental para evitar que el script explote (con un `KeyError`) si intentas leer un dato que algún diccionario no tiene.        
+    - `lista[i].update(otro_dict)`: Para actualizar múltiples valores de golpe dentro de uno de los diccionarios.
+
+---
 ## Conjuntos (`set`)
 Un conjunto es una colección desordenada, no indexada y mutable de elementos únicos e inmutables. Su característica principal es que no permite valores duplicados.
 ### Crear un conjunto
@@ -100,6 +168,9 @@ Los conjuntos van muy bien a la hora de hacer comparaciones matemáticas entre d
 - `union(otro_set)`: Devuelve un nuevo conjunto con todos los elementos de ambos conjuntos.
 - `intersection(otro_set)`: Devuelve los elementos que están presentes en ambos conjuntos a la vez.
 - `difference(otro_set)`: Devuelve los elementos que están en el primer conjunto pero no en el segundo.
+- `clear()`: Vacía el conjunto por completo.
+- `pop()`: Elimina y devuelve un elemento **aleatorio** (ya que no tienen orden). Falla si el conjunto está vacío.
+- `update()`: Añade múltiples elementos a la vez (como el `union()`)
 
 ---
 ## Cadenas de texto (`str`)
@@ -208,7 +279,7 @@ Necesitas asegurarte de que la condición cambie en algún momento dentro del bu
 contador = 0
 while contador < 3:
 	print(contador)
-	contador =+ 1 # Sirve para actualizar la variable (sumar 1 cada vez)
+	contador += 1 # Sirve para actualizar la variable (sumar 1 cada vez)
                   # y que el bucle termine
 # Salida: 0, 1, 2
 ```
@@ -310,6 +381,83 @@ try:
 except ValueError:
 	print("Error: Debes introducir un número entero válido.")
 ```
+
+**Ejemplo más completo**
+`try...except` también tiene sus excepciones internas, como `else` y `finally`:
+```Python
+import sqlite3
+conn = None # Declaramos la variable fuera para poder usarla en el finally
+try:
+    print("Intentando conectar a la base de datos...")
+    conn = sqlite3.connect("dnd.db")
+    cursor = conn.cursor()
+    # Intentamos una consulta (que podría fallar si la tabla no existe)
+    cursor.execute("SELECT * FROM tabla_inexistente")
+    datos = cursor.fetchall()
+except sqlite3.Error as e:
+    # Esto SOLO se ejecuta si falla algo en la base de datos
+    print(f"Ha fallado la consulta: {e}")
+else:
+    # Esto SOLO se ejecuta si el bloque 'try' terminó con éxito (sin errores)
+    print("¡Consulta realizada con éxito!")
+    for fila in datos:
+        print(fila)
+finally:
+    # Esto se ejecuta SIEMPRE (haya habido error o no, e incluso si el except hace un 'return' o 'break')
+    print("Ejecutando tareas de limpieza (finally)...")
+    if conn:
+        conn.close()
+        print("Conexión a la base de datos cerrada de forma segura.")
+```
+### Errores 
+#### Las Clases Base (Categorías principales)
+Estas no suelen saltar por sí solas, sino que agrupan a otros errores. Por ejemplo, si haces un `except ArithmeticError:`, capturarás cualquier error matemático.
+- **`BaseException`**: La clase base de todas las excepciones.
+- **`Exception`**: La clase base para todos los errores regulares (los que no detienen el sistema a la fuerza).
+- **`ArithmeticError`**: Clase base para los errores matemáticos.
+- **`LookupError`**: Clase base para errores al buscar algo que no existe (como un índice en una lista o una clave en un diccionario).
+- **`OSError`**: Clase base para errores relacionados con el sistema operativo (archivos, red, permisos).
+#### Errores de Búsqueda y Referencia (`LookupError`)
+Ocurren cuando intentas acceder a un dato en una colección de forma incorrecta.
+- **`IndexError`**: Intentas acceder a una posición en una lista o secuencia que no existe (ej. pedir la posición 10 en una lista de 3 elementos).
+- **`KeyError`**: Intentas acceder a un valor en un diccionario usando una clave que no existe.
+#### Errores de Tipos y Valores
+Son, con diferencia, los que más vas a ver en el día a día.
+- **`TypeError`**: Aplicas una operación o función a un tipo de dato incorrecto (ej. intentar sumar un string y un integer: `"Hola" + 5`).
+- **`ValueError`**: La función recibe el tipo de dato correcto, pero el valor en sí no tiene sentido (ej. `int("Hola")`, la función espera un string, pero ese string no se puede pasar a número).
+- **`NameError`**: Intentas usar una variable o función que no ha sido definida previamente.
+- **`AttributeError`**: Intentas usar un método o propiedad que no existe para ese tipo de objeto (ej. intentar hacer `.append()` a un string).
+- **`UnboundLocalError`**: Un subtipo de `NameError`. Ocurre cuando intentas modificar una variable local dentro de una función antes de haberle asignado un valor.
+#### Errores Matemáticos (`ArithmeticError`)
+- **`ZeroDivisionError`**: El clásico de intentar dividir o hacer el módulo de un número entre cero.
+- **`OverflowError`**: El resultado de una operación matemática es demasiado grande para ser representado en la memoria (aunque en Python los integers pueden crecer casi infinitamente, esto suele pasar con floats).
+- **`FloatingPointError`**: Rara vez se ve (si te sale, considéralo un error Shiny); ocurre cuando falla una operación de coma flotante a bajo nivel.
+#### Errores del Sistema Operativo (`OSError`)
+Fundamentales para scripts de administración. Todos estos heredan de `OSError`.
+- **`FileNotFoundError`**: Intentas abrir un archivo o directorio que no existe.
+- **`PermissionError`**: Intentas hacer algo para lo que el usuario actual no tiene permisos (ej. escribir en `/etc/` sin ser root).
+- **`FileExistsError`**: Intentas crear un archivo o carpeta que ya existe en esa ruta.
+- **`TimeoutError`**: Una operación a nivel de sistema (normalmente de red) ha tardado demasiado tiempo y se ha agotado el tiempo de espera.
+- **`IsADirectoryError`**: Intentas usar un método de lectura de archivos (como `.read()`) sobre una ruta que resulta ser una carpeta.
+- **`NotADirectoryError`**: Intentas hacer una operación de carpetas (como `os.listdir()`) sobre un archivo.
+#### Errores de Sintaxis e Importación
+Saltan antes o justo en el momento en el que el programa intenta empezar a ejecutarse o cargar módulos.
+- **`SyntaxError`**: Has escrito código que Python no entiende (te falta cerrar un paréntesis, dos puntos `:` al final de un `if`, etc.).
+- **`IndentationError`**: Subtipo de `SyntaxError`. Ocurre cuando los espacios o tabuladores al principio de la línea están mal alineados.
+- **`TabError`**: Has mezclado espacios y tabuladores en la indentación de un mismo bloque de código.
+- **`ImportError`**: Intentas importar un módulo y este falla (por ejemplo, porque hay una dependencia rota dentro de él).
+- **`ModuleNotFoundError`**: Subtipo de `ImportError`. Intentas hacer `import` de un módulo que no está instalado o no existe.
+#### Errores de Ejecución y Memoria
+- **`MemoryError`**: Tu script se ha quedado sin memoria RAM disponible.
+- **`RecursionError`**: Has creado una función que se llama a sí misma demasiadas veces (recursión infinita) y ha superado el límite de profundidad de Python.
+- **`NotImplementedError`**: Se suele usar al diseñar clases para indicar que un método concreto aún no ha sido programado.
+- **`RuntimeError`**: Un error genérico que se lanza cuando el error no encaja en ninguna de las otras categorías específicas.
+#### Excepciones de Interrupción y Salida (Derivan directo de `BaseException`)
+
+Estas no representan "errores" en el sentido estricto del código, sino interrupciones del flujo.
+- **`KeyboardInterrupt`**: El usuario ha pulsado `Ctrl + C` en la terminal para matar el programa. (Por eso capturar `Exception` no bloquea el `Ctrl + C`, pero capturar `BaseException` sí lo haría, lo cual es una mala práctica).
+- **`SystemExit`**: Se lanza cuando el programa llama a la función `sys.exit()`.
+- **`StopIteration`**: La usa internamente Python en los bucles `for` para avisar de que ya no quedan más elementos en una lista o iterador.
 ---
 ## Módulos y biblioteca estándar
 Un módulo es simplemente un archivo de Python (`.py`) que contiene funciones y variables que puedes importar en tu programa. Python incluye una "Biblioteca Estándar" enorme, que son módulos preinstalados listos para usar sin necesidad de descargar nada extra.
@@ -473,3 +621,151 @@ print(f"Copiando de {origen} a {destino}")
 ```
 ---
 # RA3 - Entrada y salida de datos
+## Lectura y escritura de ficheros (`open()`)
+La función integrada `open()` es la herramienta principal de Python para interactuar con los archivos del sistema. Permite abrir un archivo en diferentes "modos" (leer, escribir, añadir) para manipular su contenido como si fuera flujo de texto (o de bytes).
+Es una buena práctica utilizar siempre la estructura `with open(...) as variable:` ya que esto se conoce como un *gestor de contexto* y garantiza que el archivo se cierre automáticamente al terminar, incluso si ocurre un error en el proceso.
+### Modos de apertuira principales:
+- `'r'` (Read): Solo lectura. Da error si el archivo no existe. (Es el modo por defecto).
+- `'w'` (Write): Escritura. Sobrescribe todo el archivo si ya existe, o crea uno nuevo si no existe.
+- `'a'` (Append): Añadir. Escribe al final del archivo conservando lo que ya había. Crea uno nuevo si no existe.
+- `'+'` (Update): Se combina con los anteriores (ej. `'r+'` para leer y escribir sin borrar).
+### Lectura de ficheros
+Puedes leer un archivo entero de golpe, o recorrerlo línea a línea (es lo mejor para archivos muy grandes para no saturar la RAM).
+```Python
+# Leer todo el contenido de golpe
+with open("datos.txt", "r", encoding="utf-8") as f:
+    contenido_total = f.read()
+    print(contenido_total)
+# Leer un archivo línea a línea usando un bucle for
+with open("nombres.txt", "r", encoding="utf-8") as f:
+    for linea in f:
+        # Usamos strip() para quitar el salto de línea invisible (\n) del final
+        print(linea.strip())
+```
+### Estructura de ficheros
+Recuerda que si usas `'w'`, borrarás todo lo que había en el archivo antes de escribir lo nuevo. Para añadir como en un log, usa `'a'`.
+```Python
+# Sobrescribir o crear un archivo nuevo
+with open("salida.txt", "w", encoding="utf-8") as f:
+    f.write("Esta es la primera línea.\n")
+    f.write("Esta es la segunda línea.\n")
+# Añadir contenido al final de un archivo existente
+lista_compra = ["Manzanas\n", "Peras\n", "Plátanos\n"]
+with open("compra.txt", "a", encoding="utf-8") as f:
+    # writelines() escribe una lista de strings de golpe
+    f.writelines(lista_compra)
+```
+### Métodos esenciales para Ficheros
+**Métodos esenciales para Ficheros**
+- **`read([size])`**: Lee y devuelve todo el contenido del archivo como un único string. Si le pasas un número (size), lee esa cantidad de caracteres.
+- **`readline()`**: Lee y devuelve una sola línea del archivo (hasta encontrar un `\n`).
+- **`readlines()`**: Lee todo el archivo y devuelve una **lista** donde cada elemento es una línea del texto.
+- **`write(string)`**: Escribe el string indicado en el archivo. No añade saltos de línea automáticamente, debes poner `\n` manualmente.
+- **`writelines(lista)`**: Escribe una lista de strings en el archivo. Tampoco añade saltos de línea extra.
+- **`seek(offset)`**: Mueve el cursor de lectura/escritura a la posición (byte) especificada. Útil si quieres volver a leer el archivo desde el principio (`f.seek(0)`).
+- **`tell()`**: Devuelve la posición actual (en bytes) en la que se encuentra el cursor dentro del archivo.
+
+---
+## Bases de datos locales (`sqlite3`)
+SQLite es una base de datos relacional ligera que viene integrada directamente en la *Biblioteca Estándar* de Python (`import sqlite3`). No necesita un servidor corriendo de fondo (como MariaDB); toda la base de datos se guarda en un único archivo físico (por ejemplo, el archivo que esta en el moodle de Python, `dnd.db`) .
+### Conexión y consulta (Lectura)
+Para interactuar, necesitas abrir la conexión, crear un "cursor" (que es el encargado de ejecutar las órdenes SQL), ejecutar la orden, extraer los datos y cerrar la conexión.
+```Python
+import sqlite3
+try:
+    # 1. Conectar al archivo de la base de datos
+    conn = sqlite3.connect("dnd.db")
+    # 2. Crear el cursor
+    cursor = conn.cursor()
+    # 3. Preparar la sentencia SQL con '?' para evitar inyección SQL
+    dificultad_deseada = 5
+    sql = "SELECT name, winner_id FROM quests WHERE difficulty = ?"
+    # 4. Ejecutar la sentencia (los parámetros siempre van en una TUPLA)
+    cursor.execute(sql, (dificultad_deseada,))
+    # 5. Obtener los resultados (devuelve una lista de tuplas)
+    resultados = cursor.fetchall()
+    for fila in resultados:
+        # fila[0] es name, fila[1] es winner_id
+        print(f"Misión: {fila[0]} - Ganador ID: {fila[1]}")
+except sqlite3.Error as err:
+    print(f"Error de base de datos: {err}")
+finally:
+    # 6. Cerrar la conexión SIEMPRE en el finally
+    if 'conn' in locals():
+        conn.close()
+```
+### Inserción y Guardado de datos (Escritura)
+Cuando haces operaciones que modifican la base de datos (`INSERT`, `UPDATE`, `DELETE`), debes confirmar los cambios explícitamente con `commit()`, de lo contrario no se guardarán al cerrar el programa.
+```Python
+import sqlite3
+try:
+    conn = sqlite3.connect("dnd.db")
+    cursor = conn.cursor()
+    nuevo_id = 99
+    nuevo_nombre = "Elrond"
+    sql = "INSERT INTO characters (id, name) VALUES (?, ?)"
+    cursor.execute(sql, (nuevo_id, nuevo_nombre))
+    # Importante: confirmar la transacción para que se guarde en el archivo
+    conn.commit()
+    print("Personaje insertado con éxito.")
+except sqlite3.Error as err:
+    print(f"Error: {err}")
+finally:
+    if 'conn' in locals():
+        conn.close()
+```
+
+---
+## Bases de datos Cliente-Servidor (`mysql.connector`/`MariaDB`)
+A diferencia de SQLite, MySQL y MariaDB son bases de datos basadas en servidor. Python necesita usar una librería externa (conocida como `mysql.connector`) para comunicarse con ese servidor a través de la red (o localmente) validándose con un usuario y contraseña. La lógica de programación es idéntica a `sqlite3`, pero cambia la forma de conectar y el símbolo para los parámetros.
+**Diferencias**: En `sqlite3`, los parámetros seguros se ponen con una interrogación (`?`), mientras que en MySQL/MariaDB se ponen con un porcentaje y una ese (`%s`) independientemente de si el dato es númerico o texto.
+## Conexión y Consulta MySQL
+```Python
+import mysql.connector
+try:
+    # 1. Conexión usando credenciales del servidor MariaDB/MySQL
+    conn = mysql.connector.connect(
+        host="localhost",
+        user="root",
+        password="tu_password",
+        database="atletisme"
+    )
+    cursor = conn.cursor()
+    ciudad_buscar = "Barcelona"
+    # ¡Atención! Usamos %s, no ?
+    sql = "SELECT * FROM reunio WHERE lloc = %s" 
+    cursor.execute(sql, (ciudad_buscar,))
+    filas = cursor.fetchall()
+    for fila in filas:
+        print(fila)
+except mysql.connector.Error as err:
+    print(f"Error conectando al servidor: {err}")
+finally:
+    if 'conn' in locals() and conn.is_connected():
+        cursor.close()
+        conn.close()
+```
+### Metodos esenciales para Bases de datos (comunes a SQLite y MySQL):
+- **`connect(...)`**: Abre la conexión a la base de datos (por archivo en sqlite3, por red en mysql).
+- **`conn.cursor()`**: Crea un objeto cursor que se utilizará para ejecutar los comandos SQL.
+- **`cursor.execute(sentencia_sql, tupla_parametros)`**: Ejecuta un comando SQL. Si hay filtros variables en el `WHERE` o valores en un `INSERT`, se pasan como una tupla en el segundo argumento para prevenir inyecciones SQL.
+- **`cursor.fetchall()`**: Recupera todas las filas de la última consulta ejecutada (`SELECT`) y devuelve una **lista de tuplas**.
+- **`cursor.fetchone()`**: Recupera solo la siguiente fila de la consulta (devuelve una única tupla o `None`).
+- **`cursor.rowcount`**: Devuelve el número de filas afectadas por el último `INSERT`, `UPDATE` o `DELETE`, o el número de filas devueltas por un `SELECT`.
+- **`cursor.lastrowid`**: Devuelve el ID autoincremental de la última fila que acabas de insertar con un `INSERT`.
+- **`conn.commit()`**: Confirma y guarda permanentemente en disco los cambios realizados (obligatorio tras `INSERT`, `UPDATE`, `DELETE`).
+- **`conn.rollback()`**: Deshace cualquier cambio pendiente que no haya recibido un `commit()`.
+- **`conn.close()`** y **`cursor.close()`**: Cierran la comunicación. Muy importante hacer esto en el bloque `finally` para no dejar bloqueada la base de datos.
+
+---
+# Comentarios y licencia
+Tanto esta hoja de apuntes como la hoja de ejercicios han sido un trabajo extenuante de 15 horas (sí, 15 horas de volada). Es posible que no me veáis más tocar un lenguaje de programación en todo el verano después de esto, tan siquiera abrir la terminal para hacer un `dnf update`. 
+Si estás leyendo esto, es posible que estés en Junio. También es posible que me veas en la misma aula. Si te ha servido de alguna manera, agradecería que te acercaras para darme un feedback rápido sobre mi trabajo. Lo agradecería un montón.
+- Mi perfil de GitHub:
+	![|50](https://www.svgrepo.com/show/394174/github.svg) 
+	[Lil-Carpi](https://github.com/Lil-Carpi)
+
+>[!License]
+> *Este manual es una obra libre; puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General Affero de GNU publicada por la Free Software Foundation, ya sea la versión 3 de la Licencia, o (a tu elección) cualquier versión posterior.* 
+> *Este manual se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA; ni siquiera la garantía implícita MERCANTIL o de APTITUD PARA UN PROPÓSITO DETERMINADO. Consulta la Licencia Pública General Affero de GNU para más detalles.*
+> ![Licencia: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
